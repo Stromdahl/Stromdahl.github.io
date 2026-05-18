@@ -1,0 +1,106 @@
+{
+  "fetchedAt": "2026-05-18T11:47:48.079Z",
+  "restaurants": [
+    {
+      "name": "Bricks Eatery",
+      "address": "Mobilvägen 12, Lund",
+      "website": "https://brickseatery.se/",
+      "note": "Lunchmeny V21",
+      "menu": [
+        {
+          "day": "Måndag",
+          "lines": [
+            "Green: Pasta med citronsås, chilirostad zucchini, bladspenat, chiliolja, lagrad ost och vitlök",
+            "Local: Kroppkakor med lingon, brynt kål, mandel, brynt smör och persilja",
+            "World wide: Stekt kyckling med baconmajonnäs, lagrad ost, vitlökskrutonger, romansallad, picklad lök och rostad potatis"
+          ]
+        },
+        {
+          "day": "Tisdag",
+          "lines": [
+            "Green: Indisk Aloo- gobi med naanbröd, ris, potatis, blomkål, grädde, kikärtor och spenat",
+            "World Wide: Crispy beef med ostronsås, lök, paprika, ris, sesam och böngroddar",
+            "Pizza: Mozzarella, creme-fraiche, guanciale, lagrad ost och svartpeppar"
+          ]
+        },
+        {
+          "day": "Onsdag",
+          "lines": [
+            "Green: Vegetarisk gulaschgryta med sojaprotein, paprika, potatis, vitlöksbröd, syrad grädde och picklad lök",
+            "World Wide: Dagens fångst med grön curry, grönsaker, ris, lime och jordnötter",
+            "Local: Nattbakad fläskkarre med rostad potatis, purjolök, svampsås, svartvinbärsgelé och picklad gurka",
+            "Pizza: Mozzarella, creme-fraiche, guanciale, lagrad ost och svartpeppar"
+          ]
+        },
+        {
+          "day": "Torsdag",
+          "lines": [
+            "Green: Grönsaksbiff med nudelsallad, chilimajonnäs, rostade grönsaker, cashew/jordnötter och koriander",
+            "World Wide: Hoisinglacerade revben med ris, sojamajonnäs, picklad ingefära och asiatisk råkostsallad",
+            "Pizza: Mozzarella, creme-fraiche, guanciale, lagrad ost och svartpeppar",
+            "Äppelpaj: Varje torsdag bjuder vi på äppelpaj med vaniljgrädde till våra lunchgäster"
+          ]
+        },
+        {
+          "day": "Fredag",
+          "lines": [
+            "Green: Fylld aubergine med krämig ost, tomatsallad, gurka och vitlökskrutonger",
+            "Local: Mix grill ( kyckling, kalv, stark korv) med ramslöksbearnaise, pommes och tomatsallad",
+            "World wide: Fylld paprika \"balkan style\" med ost, lök, fläskfärs, tomat och persilja"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eatery Lund",
+      "address": "Mobilvägen 4, Lund",
+      "website": "https://eatery.se/anlaggningar/lund",
+      "note": "Lunchmeny V21",
+      "menu": [
+        {
+          "day": "Måndag",
+          "lines": [
+            "Cevapcici med lök, tomat, färskostkräm, ajvar, friterade pommes med chilisalt & pitabröd",
+            "Stekt kungsfisk med potatis caesar style, roman, bacon, lagrad ost & brödkrisp, pepparrotskräm",
+            "Cannelloni med ricotta och spenat, tomat-chilisallad, ruccola & krispig lök"
+          ]
+        },
+        {
+          "day": "Tisdag",
+          "lines": [
+            "Pytt i panna med stekt ägg, senapskräm & inlagda rödbetor",
+            "Grön kokosgryta med scampi, musslor, sej, picklad lök, jordnötter, rostad kokos & jasminris",
+            "Halloumi masala med mynta, mango raita, sötsyrlig paprikasallad, basmatiris",
+            "Sweet Tuesday: Vi bjuder på något sött till kaffet!"
+          ]
+        },
+        {
+          "day": "Onsdag",
+          "lines": [
+            "Soja, honung & sesammarinerad kyckling med mango, chili, lime & glasnudlar, spicy majo, lökkrisp",
+            "Panerad fisk med remouladsås, kokt potatis med dill & brynt smör, sockerärtor, rädisa och morot",
+            "Morot och fetaostbiffar med vattenmelonsallad, ingefärs majo, rostad chilipotatis"
+          ]
+        },
+        {
+          "day": "Torsdag",
+          "lines": [
+            "Nattbakad pepparkarré med brynt lök sky, stekt potatis med lök, äpple & bacon, rostad rotfruktssallad",
+            "Sej i masalasås med mangochutney, kokos, mynta ripple & rostad pumpa, basmatiris",
+            "Stekt gnocchi med krämig tomat-basilika sås, marinerad zucchini-olivsallad, lagrad ost",
+            "Pancake Thursday: Vi bjuder på pannkakor, lättvispad grädde och hemmagjord sylt!"
+          ]
+        },
+        {
+          "day": "Fredag",
+          "lines": [
+            "Högrevsburgare med cheddar, karamelliserad lök, jalapenomajo & pommes med lagrad ost",
+            "Krispig fiskbiff med sushiris, teriyakiglaze, sesamrostad broccoli & picklad ingefärsmajo",
+            "Quesadilla med cheddar, jalapeno, koriander, paprika, het lime & rökt chilidippa, rostad majssalsa, ris"
+          ]
+        }
+      ]
+    }
+  ],
+  "errors": []
+}
