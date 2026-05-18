@@ -1,0 +1,62 @@
+name: Publish lunchlund feeds
+
+on:
+  schedule:
+    # Mon–Fri at 05:15 UTC, just after lunchlund's own build window.
+    - cron: "15 5 * * 1-5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: lunchlund-publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout site
+        uses: actions/checkout@v4
+
+      - name: Checkout lunchlund source
+        uses: actions/checkout@v4
+        with:
+          repository: Stromdahl/lunchlund
+          path: .lunchlund-src
+
+      - name: Install poppler-utils
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y poppler-utils
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Enable Corepack
+        run: corepack enable
+
+      - name: Build lunchlund
+        working-directory: .lunchlund-src
+        run: |
+          yarn install --immutable
+          yarn build
+
+      - name: Copy feeds to site root
+        run: |
+          cp .lunchlund-src/dist/lunchlund.json lunchlund.json
+          cp .lunchlund-src/dist/lunchlund.xml lunchlund.xml
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add lunchlund.json lunchlund.xml
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "lunchlund: refresh feeds"
+            git push
+          fi
