@@ -6,7 +6,7 @@
     <atom:link href="https://stromdahl.github.io/lunchlund.xml" rel="self" type="application/rss+xml" />
     <description>Veckans luncher för restaurangerna närmast Mobilvägen 10, Lund.</description>
     <language>sv</language>
-    <lastBuildDate>Tue, 19 May 2026 12:39:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 18:13:26 GMT</lastBuildDate>
     <item>
       <title>Bricks Eatery — Fredag</title>
       <link>https://stromdahl.github.io/lunchlund/#bricks-eatery</link>
@@ -181,6 +181,13 @@
       <guid isPermaLink="false">lunchlund:restaurang-cafe-inspira:2026-05-18</guid>
       <pubDate>Mon, 18 May 2026 12:00:00 GMT</pubDate>
       <description>&lt;ul&gt;&lt;li&gt;Green | Bakad getost &amp;amp; rostad potatis: tomat | oliver &amp;amp; kaprisyoghurt&lt;/li&gt;&lt;li&gt;Local | Kycklingbröst: rostad potatis | dragonmayo &amp;amp; tomatsallad&lt;/li&gt;&lt;li&gt;Asia | Karaage chicken: jasminris | morotssallad &amp;amp; limemayo&lt;/li&gt;&lt;li&gt;World | Ost &amp;amp; chilikorv: jalapeñofärskost | rostad potatis &amp;amp; majs&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Troppo — Hela veckan</title>
+      <link>https://stromdahl.github.io/lunchlund/#troppo</link>
+      <guid isPermaLink="false">lunchlund:troppo:2026-W21</guid>
+      <pubDate>Mon, 18 May 2026 12:00:00 GMT</pubDate>
+      <description>&lt;ul&gt;&lt;li&gt;Sri Lankan Curry — made fresh this morning with garam masala, turmeric, coconut milk, pandan, cinnamon, broccolini, chili, cardamom, pumpkin &amp;amp; chick peas&lt;/li&gt;&lt;li&gt;Stir-fried Beef — Velvety beef prepared á lá minute, cashew nuts, oyster sauce, scallions, deep fried chili.Served with steamed jasmine rice. (Chinese)&lt;/li&gt;&lt;li&gt;Deep Fried Haddock — the lovliest combination of lemongrass, garlic, tomato, fish sauce, lime, chili, spicey carrot salad &amp;amp; peanuts.&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
