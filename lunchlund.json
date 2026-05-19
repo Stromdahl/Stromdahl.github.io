@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-19T10:13:02.271Z",
+  "fetchedAt": "2026-05-19T10:18:30.609Z",
   "restaurants": [
     {
       "name": "Bricks Eatery",
@@ -97,6 +97,44 @@
             "Högrevsburgare med cheddar, karamelliserad lök, jalapenomajo & pommes med lagrad ost",
             "Krispig fiskbiff med sushiris, teriyakiglaze, sesamrostad broccoli & picklad ingefärsmajo",
             "Quesadilla med cheddar, jalapeno, koriander, paprika, het lime & rökt chilidippa, rostad majssalsa, ris"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kantin",
+      "address": "Brunnshögsgatan 14, Lund",
+      "website": "https://www.kantinlund.se/",
+      "note": "Meny 18/5 – 22/5",
+      "menu": [
+        {
+          "day": "Måndag",
+          "lines": [
+            "Pluma – rostad potatis – mojo rojo – aioli – paprika & svarta bönor – örter"
+          ]
+        },
+        {
+          "day": "Tisdag",
+          "lines": [
+            "Nattbakad högrev – dragon majjo – kokt färskpotatis – pickles – bakad tomat – örter"
+          ]
+        },
+        {
+          "day": "Onsdag",
+          "lines": [
+            "Yaki niku – entrecote – ris – siracha majjo – picklad kål – pak choi – böngroddar – koriander"
+          ]
+        },
+        {
+          "day": "Torsdag",
+          "lines": [
+            "Råbiffstorsdag – oxtartar – tryffelaioli – rostad broccoli – picklad silverlök – parmesan – potatiscrisp – krasse"
+          ]
+        },
+        {
+          "day": "Fredag",
+          "lines": [
+            "Porkbelly – bbqsås – chipotlemajjo – rostad potatis – kålsallad – persilja"
           ]
         }
       ]
@@ -202,10 +240,5 @@
       ]
     }
   ],
-  "errors": [
-    {
-      "source": "kantin",
-      "error": "fetch failed"
-    }
-  ]
+  "errors": []
 }
