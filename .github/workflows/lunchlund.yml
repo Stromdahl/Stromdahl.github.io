@@ -2,8 +2,9 @@ name: Publish lunchlund feeds
 
 on:
   schedule:
-    # Mon–Fri at 05:15 UTC, just after lunchlund's own build window.
-    - cron: "15 5 * * 1-5"
+    # Mon–Fri at 05:37 UTC. Off-the-hour to avoid GitHub's high-contention
+    # cron slots; runs ~15 min after lunchlund's own scheduled build.
+    - cron: "37 5 * * 1-5"
   workflow_dispatch:
 
 permissions:
