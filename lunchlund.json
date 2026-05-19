@@ -1,11 +1,12 @@
 {
-  "fetchedAt": "2026-05-19T18:13:26.814Z",
+  "fetchedAt": "2026-05-19T18:48:22.441Z",
   "restaurants": [
     {
       "name": "Bricks Eatery",
       "address": "Mobilvägen 12, Lund",
       "website": "https://brickseatery.se/",
       "note": "Lunchmeny V21",
+      "price": "115:- ink. Kaffe",
       "menu": [
         {
           "day": "Måndag",
@@ -90,6 +91,7 @@
       "address": "Mobilvägen 4, Lund",
       "website": "https://eatery.se/anlaggningar/lund",
       "note": "Lunchmeny V21",
+      "price": "139kr (early-bird 132kr 11:00 - 11:30)",
       "menu": [
         {
           "day": "Måndag",
@@ -246,6 +248,7 @@
       "address": "Emdalavägen 6B, Lund",
       "website": "https://restaurangedison.se/lunch/",
       "note": "Vecka 21",
+      "price": "115:-",
       "menu": [
         {
           "day": "Måndag",
@@ -414,6 +417,7 @@
       "address": "Brunnshögsgatan 34, Lund",
       "website": "https://www.troppo.se/lunch",
       "note": "Lunch Week 20, 2026",
+      "price": "149–159kr",
       "menu": [
         {
           "day": "Hela veckan",
