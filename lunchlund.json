@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-19T21:02:34.158Z",
+  "fetchedAt": "2026-05-20T08:41:46.094Z",
   "restaurants": [
     {
       "name": "Bricks Eatery",
@@ -175,72 +175,10 @@
       "name": "Kantin",
       "address": "Brunnshögsgatan 14, Lund",
       "website": "https://www.kantinlund.se/",
-      "note": "Meny 18/5 – 22/5",
-      "menu": [
-        {
-          "day": "Måndag",
-          "lines": [
-            "Pluma – rostad potatis – mojo rojo – aioli – paprika & svarta bönor – örter"
-          ]
-        },
-        {
-          "day": "Tisdag",
-          "lines": [
-            "Nattbakad högrev – dragon majjo – kokt färskpotatis – pickles – bakad tomat – örter"
-          ]
-        },
-        {
-          "day": "Onsdag",
-          "lines": [
-            "Yaki niku – entrecote – ris – siracha majjo – picklad kål – pak choi – böngroddar – koriander"
-          ]
-        },
-        {
-          "day": "Torsdag",
-          "lines": [
-            "Råbiffstorsdag – oxtartar – tryffelaioli – rostad broccoli – picklad silverlök – parmesan – potatiscrisp – krasse"
-          ]
-        },
-        {
-          "day": "Fredag",
-          "lines": [
-            "Porkbelly – bbqsås – chipotlemajjo – rostad potatis – kålsallad – persilja"
-          ]
-        }
-      ],
-      "hours": {
-        "mon": [
-          {
-            "open": "11:00",
-            "close": "15:00"
-          }
-        ],
-        "tue": [
-          {
-            "open": "11:00",
-            "close": "15:00"
-          }
-        ],
-        "wed": [
-          {
-            "open": "11:00",
-            "close": "15:00"
-          }
-        ],
-        "thu": [
-          {
-            "open": "11:00",
-            "close": "15:00"
-          }
-        ],
-        "fri": [
-          {
-            "open": "11:00",
-            "close": "15:00"
-          }
-        ],
-        "sat": [],
-        "sun": []
+      "menu": [],
+      "error": {
+        "source": "kantin",
+        "error": "fetch failed"
       }
     },
     {
@@ -462,7 +400,16 @@
         "sat": [],
         "sun": []
       }
+    },
+    {
+      "name": "Laziza",
+      "address": "Scheelevägen 15K, Lund",
+      "website": "https://www.laziza.se/lunch/",
+      "menu": [],
+      "error": {
+        "source": "laziza",
+        "error": "fetch failed"
+      }
     }
-  ],
-  "errors": []
+  ]
 }
