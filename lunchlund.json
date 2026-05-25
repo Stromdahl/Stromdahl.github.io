@@ -1,53 +1,53 @@
 {
-  "fetchedAt": "2026-05-22T08:37:50.193Z",
+  "fetchedAt": "2026-05-25T09:38:17.111Z",
   "restaurants": [
     {
       "name": "Bricks Eatery",
       "address": "Mobilvägen 12, Lund",
       "website": "https://brickseatery.se/",
-      "note": "Lunchmeny V21",
+      "note": "Lunchmeny V22",
       "price": "115:- ink. Kaffe",
       "menu": [
         {
           "day": "Måndag",
           "lines": [
-            "Green: Pasta med citronsås, chilirostad zucchini, bladspenat, chiliolja, lagrad ost och vitlök",
-            "Local: Kroppkakor med lingon, brynt kål, mandel, brynt smör och persilja",
-            "World wide: Stekt kyckling med baconmajonnäs, lagrad ost, vitlökskrutonger, romansallad, picklad lök och rostad potatis"
+            "Green: Vegetarisk pasta bolognese med bakad tomat, tryffelkräm, lagrad ost och ruccola",
+            "Local: Gräddstuvad pytt i panna med stekt ägg, rödbeta, picklad lök, senapsfrön och persilja",
+            "World wide: Röd thaicurry med kyckling, grönsaker, ris, limeblad, chili och rostad kokos"
           ]
         },
         {
           "day": "Tisdag",
           "lines": [
-            "Green: Indisk Aloo- gobi med naanbröd, ris, potatis, blomkål, grädde, kikärtor och spenat",
-            "World Wide: Crispy beef med ostronsås, lök, paprika, ris, sesam och böngroddar",
-            "Pizza: Mozzarella, creme-fraiche, guanciale, lagrad ost och svartpeppar"
+            "Green: Stekt ris med chilirostad tzay protein, grönsaker, äggrulle, jordnötter och vårlök",
+            "Local: Pannbiff med dragonsås, potatisstomp, morot, gröna ärtor, ramslök och äpple",
+            "Pizza: Mozzarella, tomatsås, lufttorkad skinka, champinjoner och basilika"
           ]
         },
         {
           "day": "Onsdag",
           "lines": [
-            "Green: Vegetarisk gulaschgryta med sojaprotein, paprika, potatis, vitlöksbröd, syrad grädde och picklad lök",
-            "World Wide: Dagens fångst med grön curry, grönsaker, ris, lime och jordnötter",
-            "Local: Nattbakad fläskkarre med rostad potatis, purjolök, svampsås, svartvinbärsgelé och picklad gurka",
-            "Pizza: Mozzarella, creme-fraiche, guanciale, lagrad ost och svartpeppar"
+            "Green: Gnocchigratäng med mozzarella, basilika, tomat, chili och vitlök",
+            "World Wide: Wokat fläsk med bambu, ris, chili, böngroddar, ostronsås och jordnötter",
+            "Local: Stekt sill med klassiska tillbehör",
+            "Pizza: Mozzarella, tomatsås, lufttorkad skinka, champinjoner och basilika"
           ]
         },
         {
           "day": "Torsdag",
           "lines": [
-            "Green: Grönsaksbiff med nudelsallad, chilimajonnäs, rostade grönsaker, cashew/jordnötter och koriander",
-            "World Wide: Hoisinglacerade revben med ris, sojamajonnäs, picklad ingefära och asiatisk råkostsallad",
-            "Pizza: Mozzarella, creme-fraiche, guanciale, lagrad ost och svartpeppar",
+            "Green: Vegetarisk enchiladas med salsa, nachos, koriander och jalapenomajonnäs",
+            "World Wide: Indisk curry med kyckling, brynt paprika, spenat, kokosmjölk, papadums och limeyoghurt",
+            "Pizza: Mozzarella, tomatsås, lufttorkad skinka, champinjoner och basilika",
             "Äppelpaj: Varje torsdag bjuder vi på äppelpaj med vaniljgrädde till våra lunchgäster"
           ]
         },
         {
           "day": "Fredag",
           "lines": [
-            "Green: Fylld aubergine med krämig ost, tomatsallad, gurka och vitlökskrutonger",
-            "Local: Mix grill ( kyckling, kalv, stark korv) med ramslöksbearnaise, pommes och tomatsallad",
-            "World wide: Fylld paprika \"balkan style\" med ost, lök, fläskfärs, tomat och persilja"
+            "Green: Marinerad tofu med glasnudlar, grönsaker, sesamdressing, pickles, hoisinsås och chili",
+            "Local: Schnitzel med rostad potatis, kryddsmör, kaprissky, ärtor, gröna bönor och citron",
+            "World wide: Biffsallad med glasnudlar, grönsaker, sesamdressing, pickles, hoisinsås och chili"
           ]
         }
       ],
@@ -90,49 +90,50 @@
       "name": "Eatery Lund",
       "address": "Mobilvägen 4, Lund",
       "website": "https://eatery.se/anlaggningar/lund",
-      "note": "Lunchmeny V21",
+      "note": "Lunchmeny V22",
       "price": "139kr (early-bird 132kr 11:00 - 11:30)",
       "menu": [
         {
           "day": "Måndag",
           "lines": [
-            "Cevapcici med lök, tomat, färskostkräm, ajvar, friterade pommes med chilisalt & pitabröd",
-            "Stekt kungsfisk med potatis caesar style, roman, bacon, lagrad ost & brödkrisp, pepparrotskräm",
-            "Cannelloni med ricotta och spenat, tomat-chilisallad, ruccola & krispig lök"
+            "Sesam, ingefära och chilistekt färs med söt sojasås, lime & gochujangmajo, rotfruktsris, picklad lök,",
+            "groddar & jordnötter",
+            "Bakad sej med söt soja, sesam & lime, glasnudelsallad med mango, koriander, chili & tomat, rostad kokos & lök",
+            "Somrig kikärtssallad med majsfritters, rostad paprika, fetaost, mynta & pitabröd"
           ]
         },
         {
           "day": "Tisdag",
           "lines": [
-            "Pytt i panna med stekt ägg, senapskräm & inlagda rödbetor",
-            "Grön kokosgryta med scampi, musslor, sej, picklad lök, jordnötter, rostad kokos & jasminris",
-            "Halloumi masala med mynta, mango raita, sötsyrlig paprikasallad, basmatiris",
+            "Vitello tonnato på fläskkotlett med potatissallad, citron & chili, friterad lök",
+            "Bakad kungsfisk med skaldjurssås, potatismos, betor med ramslök & citron, krispig jordärtskocka",
+            "Sparrisrisotto med sockerärter, tomat, ruccola & lagrad ost",
             "Sweet Tuesday: Vi bjuder på något sött till kaffet!"
           ]
         },
         {
           "day": "Onsdag",
           "lines": [
-            "Soja, honung & sesammarinerad kyckling med mango, chili, lime & glasnudlar, spicy majo, lökkrisp",
-            "Panerad fisk med remouladsås, kokt potatis med dill & brynt smör, sockerärtor, rädisa och morot",
-            "Morot och fetaostbiffar med vattenmelonsallad, ingefärs majo, rostad chilipotatis"
+            "Revben galcerade med asiatisk BBQ sås, rostad majssalsa, klyftpotatis, krämig kålsallad med sesam, ingefära & chili",
+            "Panerad kummelfilé, rostad blomkål, tartarsås & kokt potatis",
+            "Pinsa med getost, ruccola, rostade valnötter, creme fraiche med honung & citron"
           ]
         },
         {
           "day": "Torsdag",
           "lines": [
-            "Nattbakad pepparkarré med brynt lök sky, stekt potatis med lök, äpple & bacon, rostad rotfruktssallad",
-            "Sej i masalasås med mangochutney, kokos, mynta ripple & rostad pumpa, basmatiris",
-            "Stekt gnocchi med krämig tomat-basilika sås, marinerad zucchini-olivsallad, lagrad ost",
+            "Citron och rosmarinbakad kycklingfilé med krämig parmesan risoni, gremolata, tomat & olivkräm",
+            "Dill & fänkålsbakad sej, hollandaise med gräslök, kokt potatis, sallad på fänkål, senap & gröna bönor",
+            "Vegobollar i kryddig tomatsås, saffransris, zucchini, spenat & chili",
             "Pancake Thursday: Vi bjuder på pannkakor, lättvispad grädde och hemmagjord sylt!"
           ]
         },
         {
           "day": "Fredag",
           "lines": [
-            "Högrevsburgare med cheddar, karamelliserad lök, jalapenomajo & pommes med lagrad ost",
-            "Krispig fiskbiff med sushiris, teriyakiglaze, sesamrostad broccoli & picklad ingefärsmajo",
-            "Quesadilla med cheddar, jalapeno, koriander, paprika, het lime & rökt chilidippa, rostad majssalsa, ris"
+            "Pankopanerad fläsksida med pumpapuré, äpplesalsa, rostad morot med farin & fänkål, rostad klyftpotatis, senapskräm",
+            "Gratinerad kummel med fänkål, rädisa, tomat & dill, citronsås, potatismos med rostad vitlök",
+            "Linguine, pesto, krispig tofu & bakad tomat, fänkålssallad"
           ]
         }
       ],
@@ -175,46 +176,46 @@
       "name": "Kantin",
       "address": "Brunnshögsgatan 14, Lund",
       "website": "https://www.kantinlund.se/",
-      "note": "Meny 18/5 – 22/5",
+      "note": "Meny 25/5 – 29/5",
       "menu": [
         {
           "day": "Måndag",
           "lines": [
-            "Veckans vegetariska: Bakad portabello – belugalinser – zuccini – pickles – smetana – örter",
+            "Veckans vegetariska: Rostad sötpotatis – svarta bönor – fetaostkräm – syrad lök – jallapeño – friterad tortilla – koriander",
             "Månadens alternativ: Guajillo bakad kycklinglårfilé – romansallad – jallapeñomajo – tomat – picklad lök – friterad tortilla – koriander",
-            "Pluma – rostad potatis – mojo rojo – aioli – paprika & svarta bönor – örter"
+            "Pulled beef – rostad sötpotatis – pico de gallo – majs – habanero majo – pickles – friterad tortilla – örter"
           ]
         },
         {
           "day": "Tisdag",
           "lines": [
-            "Veckans vegetariska: Bakad portabello – belugalinser – zuccini – pickles – smetana – örter",
+            "Veckans vegetariska: Rostad sötpotatis – svarta bönor – fetaostkräm – syrad lök – jallapeño – friterad tortilla – koriander",
             "Månadens alternativ: Guajillo bakad kycklinglårfilé – romansallad – jallapeñomajo – tomat – picklad lök – friterad tortilla – koriander",
-            "Nattbakad högrev – dragon majjo – kokt färskpotatis – pickles – bakad tomat – örter"
+            "Porchetta – paprika & tomatsås – rostad potatis – habanero smetana – haricoverts – pickles – örter"
           ]
         },
         {
           "day": "Onsdag",
           "lines": [
-            "Veckans vegetariska: Bakad portabello – belugalinser – zuccini – pickles – smetana – örter",
+            "Veckans vegetariska: Rostad sötpotatis – svarta bönor – fetaostkräm – syrad lök – jallapeño – friterad tortilla – koriander",
             "Månadens alternativ: Guajillo bakad kycklinglårfilé – romansallad – jallapeñomajo – tomat – picklad lök – friterad tortilla – koriander",
-            "Yaki niku – entrecote – ris – siracha majjo – picklad kål – pak choi – böngroddar – koriander"
+            "Nattbakat högrev – majskräm – rostad potatis – chilisky – saltgurka – sallad"
           ]
         },
         {
           "day": "Torsdag",
           "lines": [
-            "Veckans vegetariska: Bakad portabello – belugalinser – zuccini – pickles – smetana – örter",
+            "Veckans vegetariska: Rostad sötpotatis – svarta bönor – fetaostkräm – syrad lök – jallapeño – friterad tortilla – koriander",
             "Månadens alternativ: Guajillo bakad kycklinglårfilé – romansallad – jallapeñomajo – tomat – picklad lök – friterad tortilla – koriander",
-            "Råbiffstorsdag – oxtartar – tryffelaioli – rostad broccoli – picklad silverlök – parmesan – potatiscrisp – krasse"
+            "Oxtartar – gochujang majo – räkchips – brytbönor – picklad rättika – koriander"
           ]
         },
         {
           "day": "Fredag",
           "lines": [
-            "Veckans vegetariska: Bakad portabello – belugalinser – zuccini – pickles – smetana – örter",
+            "Veckans vegetariska: Rostad sötpotatis – svarta bönor – fetaostkräm – syrad lök – jallapeño – friterad tortilla – koriander",
             "Månadens alternativ: Guajillo bakad kycklinglårfilé – romansallad – jallapeñomajo – tomat – picklad lök – friterad tortilla – koriander",
-            "Porkbelly – bbqsås – chipotlemajjo – rostad potatis – kålsallad – persilja"
+            "Kalv Tri-tip – kokt potatis – kryddbakad blomkål – örtmajo – skysås – picklad botanalök – örter"
           ]
         }
       ],
@@ -257,47 +258,47 @@
       "name": "Restaurang Edison",
       "address": "Emdalavägen 6B, Lund",
       "website": "https://restaurangedison.se/lunch/",
-      "note": "Vecka 21",
+      "note": "Vecka 23",
       "price": "115:-",
       "menu": [
         {
           "day": "Måndag",
           "lines": [
-            "Green: Mexikansk majssoppa med kokos, quesadilla & paprikasallad",
-            "Local: Köttbullar med potatispuré, lingon, pressgurka & gräddsås",
-            "World Wide: Fried fish med sojamajo, ingefärspicklad morot & ris"
+            "Green: Pasta med citronsås, chilirostad zucchini, lagrad ost & fröer",
+            "Local: Bräserad fläskbog med persiljestomp, svampsås & syltade vinbär",
+            "World Wide: Chicken Korma med basmatiris, mandel, rostad blomkål & koriander"
           ]
         },
         {
           "day": "Tisdag",
           "lines": [
-            "Green: Dillpanerad tofu med remouladsås, potatis & krossade ärtor",
-            "Local: Grillad karré med sardellsky, persiljepotatis & olivsmör",
-            "World Wide: Chicken KungPao med broccoli, salladslök, cashewnöt & ris"
+            "Green: Rödbetsbiff med getostcreme, honungsbakade betor & kokt potatis",
+            "Local: Grillad karré med bakade rotfrukter, spenat & pepparsky",
+            "World Wide: Chiligryta på oxe med svarta bönor, picklad rödlök, ris & syrad grädde"
           ]
         },
         {
           "day": "Onsdag",
           "lines": [
-            "Green: Okonomiyaki med bbqsås, sesammajo, nori & krispiga grönsaker",
-            "Local: Edisons burgare med tryffelmajo, cheddarost & pickles samt pommes",
-            "World Wide: Porchetta med rostad vitlök, het tomatsås & salviabakad potatis"
+            "Green: Gul Currygryta med kål & tofu serveras med ris & ananas",
+            "Local: Biff Lindström med kryddsmör, rödvinssky & timjansrostad potatis",
+            "World Wide: Fishtaco med tortillabröd, mangochutney, chilimajo & potatisklyftor"
           ]
         },
         {
           "day": "Torsdag",
           "lines": [
-            "Green: Spenatbiff med stekt ägg, senapscreme & klyftpotatis",
-            "Local: Dragen gris med fänkålssallad, rödlökscreme & kumminrostad potatis",
-            "World Wide: Lättbakad fisk med sushiris, sesampicklade grönsaker & wasabimajo"
+            "Green: Krispig risottobiff med tryffelmajo, rostade rotfukter & spenat",
+            "Local: Grillad kyckling med sotad isberg, tomater, rostad potatis & ceasarcreme",
+            "World Wide: Hoisinglacerade revben med ris, ingefärsmajo & krispiga grönsaker"
           ]
         },
         {
           "day": "Fredag",
           "lines": [
-            "Green: Krämig polenta med rostade vårpimörer & bladsallad med korngryn",
-            "Local: Grillat högrev med timjansrostade rotfrukter, rabarbchutney & citronsky",
-            "World Wide: Kyckling med nudlar, krispiga grönsaker, sesam & misobuljong"
+            "Green: Ängamat med vårprimörer, örtscones & krassesallad",
+            "Local: Kålpudding med kokt potatis, lingon, gräddsås & persilja",
+            "World Wide: Fiskgratäng med skaldjurssås, pommes duchesse & fänkålscrudité"
           ]
         }
       ],
@@ -344,46 +345,46 @@
         {
           "day": "Måndag",
           "lines": [
-            "Green | Bakad getost & rostad potatis: tomat | oliver & kaprisyoghurt",
-            "Local | Kycklingbröst: rostad potatis | dragonmayo & tomatsallad",
-            "Asia | Karaage chicken: jasminris | morotssallad & limemayo",
-            "World | Ost & chilikorv: jalapeñofärskost | rostad potatis & majs"
+            "Green | Bönchili: ris | nachos | gräddfil & jalapeños",
+            "Local | Kalkonlårfilé & bakad spetskål: rostad potatis | äpple & rabarberchutney",
+            "Asia | Buldak fire chicken: jasminris & Kimchi",
+            "World | Pasulj (korv & böngryta från Balkan): fetaost | feferoni & rostad potatis"
           ]
         },
         {
           "day": "Tisdag",
           "lines": [
-            "Green | Rajma masala: basmatiris & naan",
-            "Local | Rödtunga i vitvinssås: rom & gräslök | färskpotatis & broccoli",
-            "Asia | Karaage chicken: jasminris | morotssallad & limemayo",
-            "World | Kyckling Piccata: ris | tomatsås & rostad zucchini"
+            "Green | Pasta Pesto: kronärtskocka | mozzarella & bönor",
+            "Local | Fiskgryta: räkor | fänkål | dill | färskpotatis & saffransaioli",
+            "Asia | Buldak fire chicken: jasminris & Kimchi",
+            "World | kryddbakad karré: chimichurri | quinoa & sötpotatis"
           ]
         },
         {
           "day": "Onsdag",
           "lines": [
-            "Green | Hummus & Tabbouleh: baba ganoush & bakad morot",
-            "Local | Inspiras Kålpudding: gräddsås | lingon & spetskålsallad",
-            "Asia | Vindaloo på fläsk: basmatiris | yoghurt & broccoli",
-            "World | Kyckling Piccata: ris | tomatsås & rostad zucchini"
+            "Green | Majsfritters: klyftpotatis | coleslaw & barbecue sås",
+            "Local | Wallenbergare: mos | ärtor | lingon & brynt smör",
+            "Asia | Tom yum: scampi | sojabönor | jasminris & lime",
+            "World | kryddbakad karré: chimichurri | quinoa & sötpotatis"
           ]
         },
         {
           "day": "Torsdag",
           "lines": [
-            "Green | Shahi Pannoumi: okra & basmatiris",
-            "Local | Rostad kyckling: citron & körvelsås | potatisstomp & bakade morötter",
-            "Asia | Vindaloo på fläsk: basmatiris | yoghurt & broccoli",
-            "World | Pasulj (böngryta från Balkan): fetaost | feferoni & rostad potatis"
+            "Green | Lo Mein nudlar: marinerad tofu & Pak Choi",
+            "Local | Grillad Pluma: rostad potatis | chilibea & färska bönor",
+            "Asia | Tom yum: scampi | sojabönor | jasminris & lime",
+            "World | Saltimbocca på kyckling: örtrostad potatis | salviasky & bakad tomat"
           ]
         },
         {
           "day": "Fredag",
           "lines": [
-            "Green | Vårrullar: jordnötssås & nudlar",
-            "Local | Pytt Bellman: äggula | rödbetor & persilja",
-            "Asia | Buldak fire chicken: jasminris & Kimchi",
-            "World | Pasulj (böngryta från Balkan): fetaost | feferoni & rostad potatis"
+            "Green | Malai kofta (Indien): basmatiris & naan",
+            "Local | Lasagne: ruccola & lagrad ost",
+            "Asia | Pad thai: risnudlar | kyckling | ägg | jordnötter & lime",
+            "World | Saltimbocca på kyckling: örtrostad potatis | salviasky & bakad tomat"
           ]
         }
       ],
@@ -426,15 +427,16 @@
       "name": "Troppo",
       "address": "Brunnshögsgatan 34, Lund",
       "website": "https://www.troppo.se/lunch",
-      "note": "Lunch Week 20, 2026",
+      "note": "Lunch Week 22, 2026",
       "price": "149–159kr",
       "menu": [
         {
           "day": "Hela veckan",
           "lines": [
-            "Sri Lankan Curry — made fresh this morning with garam masala, turmeric, coconut milk, pandan, cinnamon, broccolini, chili, cardamom, pumpkin & chick peas",
-            "Stir-fried Beef — Velvety beef prepared á lá minute, cashew nuts, oyster sauce, scallions, deep fried chili.Served with steamed jasmine rice. (Chinese)",
-            "Deep Fried Haddock — the lovliest combination of lemongrass, garlic, tomato, fish sauce, lime, chili, spicey carrot salad & peanuts."
+            "Spicey — Minced chicken (Swedish), holy basil, chili, garlic, bobby beans, topped with a fried egg",
+            "Pad Kaprao — Minced chicken (Swedish), holy basil, chili, garlic, bobby beans, topped with a fried egg",
+            "Hokkien Noodles — Stir-fried beef, pak choi, broccolini, garlic, peanuts, shiitake & sheiemi mushrooms.(Chinese/S-E Asian)",
+            "Hokkien Noodles (Vegan) — Stir-fried tofu, pak choi, broccolini, garlic, peanuts, shiitake & sheiemi mushrooms. (Chinese/S-E Asian)"
           ]
         }
       ],
