@@ -6,7 +6,7 @@
     <atom:link href="https://stromdahl.github.io/lunchlund.xml" rel="self" type="application/rss+xml" />
     <description>Veckans luncher för restaurangerna närmast Mobilvägen 10, Lund.</description>
     <language>sv</language>
-    <lastBuildDate>Mon, 25 May 2026 09:38:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 08:51:03 GMT</lastBuildDate>
     <item>
       <title>Bricks Eatery — Fredag</title>
       <link>https://stromdahl.github.io/lunchlund/#bricks-eatery</link>
@@ -195,6 +195,13 @@
       <guid isPermaLink="false">lunchlund:laziza:2026-W22</guid>
       <pubDate>Mon, 25 May 2026 12:00:00 GMT</pubDate>
       <description>&lt;ul&gt;&lt;li&gt;Libanesisk lunchbuffé&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Aiko Sushi Brunnshög — Hela veckan</title>
+      <link>https://stromdahl.github.io/lunchlund/#aiko-sushi-brunnshog</link>
+      <guid isPermaLink="false">lunchlund:aiko-sushi-brunnshog:2026-W22</guid>
+      <pubDate>Mon, 25 May 2026 12:00:00 GMT</pubDate>
+      <description>&lt;ul&gt;&lt;li&gt;Mixad sushi: 109/129/149kr (11/13/16 bitar) · finns vegetarisk&lt;/li&gt;&lt;li&gt;Mixad nigiri: 119/139kr (9/12 bitar) · finns vegetarisk&lt;/li&gt;&lt;li&gt;Sushi Dog: 80kr to-go / 95kr eat-in · 8 fyllningar att välja&lt;/li&gt;&lt;li&gt;Varmrätt: wokade udon nudlar 119kr (kyckling eller tofu)&lt;/li&gt;&lt;li&gt;Poké Bowl: 129kr kall / 139kr varm&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
