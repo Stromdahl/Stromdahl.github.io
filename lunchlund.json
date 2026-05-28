@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-27T08:53:19.888Z",
+  "fetchedAt": "2026-05-28T09:00:36.277Z",
   "restaurants": [
     {
       "name": "Bricks Eatery",
@@ -176,46 +176,46 @@
       "name": "Kantin",
       "address": "Brunnshögsgatan 14, Lund",
       "website": "https://www.kantinlund.se/",
-      "note": "Meny 25/5 – 29/5",
+      "note": "Meny 4/5 – 8/5",
       "menu": [
         {
           "day": "Måndag",
           "lines": [
-            "Veckans vegetariska: Rostad sötpotatis – svarta bönor – fetaostkräm – syrad lök – jallapeño – friterad tortilla – koriander",
-            "Månadens alternativ: Guajillo bakad kycklinglårfilé – romansallad – jallapeñomajo – tomat – picklad lök – friterad tortilla – koriander",
-            "Pulled beef – rostad sötpotatis – pico de gallo – majs – habanero majo – pickles – friterad tortilla – örter"
+            "Veckans vegetariska: Ratatouille – aubergine – bakad tomat – rostad paprika – krispiga frön -pickles – örter",
+            "Månadens alternativ: Varmrökt lax – citronaioli – sallad – broccoli – bönor – rädisor – frökrisp – dill",
+            "Kycklinglårfilé – ostmajo – kokt färsk potatis – bakad tomat – grön sparris – rostad lök – örter"
           ]
         },
         {
           "day": "Tisdag",
           "lines": [
-            "Veckans vegetariska: Rostad sötpotatis – svarta bönor – fetaostkräm – syrad lök – jallapeño – friterad tortilla – koriander",
-            "Månadens alternativ: Guajillo bakad kycklinglårfilé – romansallad – jallapeñomajo – tomat – picklad lök – friterad tortilla – koriander",
-            "Porchetta – paprika & tomatsås – rostad potatis – habanero smetana – haricoverts – pickles – örter"
+            "Veckans vegetariska: Ratatouille – aubergine – bakad tomat – rostad paprika – krispiga frön -pickles – örter",
+            "Månadens alternativ: Varmrökt lax – citronaioli – sallad – broccoli – bönor – rädisor – frökrisp – dill",
+            "Nattbakat högrev – örtmajo – rostad potatis – sockerärtor – rödlök – skysås – pickles – örter"
           ]
         },
         {
           "day": "Onsdag",
           "lines": [
-            "Veckans vegetariska: Rostad sötpotatis – svarta bönor – fetaostkräm – syrad lök – jallapeño – friterad tortilla – koriander",
-            "Månadens alternativ: Guajillo bakad kycklinglårfilé – romansallad – jallapeñomajo – tomat – picklad lök – friterad tortilla – koriander",
-            "Nattbakat högrev – majskräm – rostad potatis – chilisky – saltgurka – sallad"
+            "Veckans vegetariska: Ratatouille – aubergine – bakad tomat – rostad paprika – krispiga frön -pickles – örter",
+            "Månadens alternativ: Varmrökt lax – citronaioli – sallad – broccoli – bönor – rädisor – frökrisp – dill",
+            "Nattbakad fläsksida – paprikakräm – rostad sötpotatis – jallapeñosmetana – pickles – koriander"
           ]
         },
         {
           "day": "Torsdag",
           "lines": [
-            "Veckans vegetariska: Rostad sötpotatis – svarta bönor – fetaostkräm – syrad lök – jallapeño – friterad tortilla – koriander",
-            "Månadens alternativ: Guajillo bakad kycklinglårfilé – romansallad – jallapeñomajo – tomat – picklad lök – friterad tortilla – koriander",
-            "Oxtartar – gochujang majo – räkchips – brytbönor – picklad rättika – koriander"
+            "Veckans vegetariska: Ratatouille – aubergine – bakad tomat – rostad paprika – krispiga frön -pickles – örter",
+            "Månadens alternativ: Varmrökt lax – citronaioli – sallad – broccoli – bönor – rädisor – frökrisp – dill",
+            "Oxtartar – basilika majo – bakad zucchini – sockersaltad tomat – mozzarella – picklad lök – pumpakärnor – basilika"
           ]
         },
         {
           "day": "Fredag",
           "lines": [
-            "Veckans vegetariska: Rostad sötpotatis – svarta bönor – fetaostkräm – syrad lök – jallapeño – friterad tortilla – koriander",
-            "Månadens alternativ: Guajillo bakad kycklinglårfilé – romansallad – jallapeñomajo – tomat – picklad lök – friterad tortilla – koriander",
-            "Kalv Tri-tip – kokt potatis – kryddbakad blomkål – örtmajo – skysås – picklad botanalök – örter"
+            "Veckans vegetariska: Ratatouille – aubergine – bakad tomat – rostad paprika – krispiga frön -pickles – örter",
+            "Månadens alternativ: Varmrökt lax – citronaioli – sallad – broccoli – bönor – rädisor – frökrisp – dill",
+            "Nattbakad oxkind – kokt potatis – rostad kål – chilisky – pickles – örter"
           ]
         }
       ],
