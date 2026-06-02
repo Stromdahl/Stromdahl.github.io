@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-01T10:39:06.765Z",
+  "fetchedAt": "2026-06-02T09:50:26.490Z",
   "restaurants": [
     {
       "name": "Bricks Eatery",
@@ -257,47 +257,47 @@
       "name": "Restaurang Edison",
       "address": "Emdalavägen 6B, Lund",
       "website": "https://restaurangedison.se/lunch/",
-      "note": "Vecka 22",
+      "note": "Vecka 23",
       "price": "115:-",
       "menu": [
         {
           "day": "Måndag",
           "lines": [
-            "Green: Pasta med citronsås, chilirostad zucchini, lagrad ost & fröer",
-            "Local: Bräserad fläskbog med persiljestomp, svampsås & syltade vinbär",
-            "World Wide: Chicken Korma med basmatiris, mandel, rostad blomkål & koriander"
+            "Green: Tortellini med stekt svamp, rostad kål & tryffelcreme",
+            "Local: Pannbiff med färskpotatis, sommarkål & ramslökscreme",
+            "World Wide: Poulet Au Vin med smålök, potatispuré & rökt fläsk"
           ]
         },
         {
           "day": "Tisdag",
           "lines": [
-            "Green: Rödbetsbiff med getostcreme, honungsbakade betor & kokt potatis",
-            "Local: Grillad karré med bakade rotfrukter, spenat & pepparsky",
-            "World Wide: Chiligryta på oxe med svarta bönor, picklad rödlök, ris & syrad grädde"
+            "Green: Grön burgare med brioche, cheddarcreme, picklad lök & salladsblad",
+            "Local: Lasagne med örtcreme, lagrad ost & vårgrönt",
+            "World Wide: Sesampanerad fishcake med lime, glasnudlar, sesamdressing & thaibasilika"
           ]
         },
         {
           "day": "Onsdag",
           "lines": [
-            "Green: Gul Currygryta med kål & tofu serveras med ris & ananas",
-            "Local: Biff Lindström med kryddsmör, rödvinssky & timjansrostad potatis",
-            "World Wide: Fishtaco med tortillabröd, mangochutney, chilimajo & potatisklyftor"
+            "Green: Majsfritters med zucchinisallad, ris & avokadocreme",
+            "Local: Edisons pytt med picklade betor, ägg 64, ketchup & persilja",
+            "World Wide: Grillat högrev med rostad sötpotatis, picklad chili & chimichurri"
           ]
         },
         {
           "day": "Torsdag",
           "lines": [
-            "Green: Krispig risottobiff med tryffelmajo, rostade rotfukter & spenat",
-            "Local: Grillad kyckling med sotad isberg, tomater, rostad potatis & ceasarcreme",
-            "World Wide: Hoisinglacerade revben med ris, ingefärsmajo & krispiga grönsaker"
+            "Green: Tomat- & ostpaj med sallad på quinoa, kålrabbi & citronette",
+            "Local: Havets wallenbergare med potatispuré, brynt smör, ärtor & citron",
+            "World Wide: Grillad souvlaki med tzatziki, citronrostad potatis & tomatsallad"
           ]
         },
         {
           "day": "Fredag",
           "lines": [
-            "Green: Ängamat med vårprimörer, örtscones & krassesallad",
-            "Local: Kålpudding med kokt potatis, lingon, gräddsås & persilja",
-            "World Wide: Fiskgratäng med skaldjurssås, pommes duchesse & fänkålscrudité"
+            "Green: Jerkkryddad aubergine med couscous, myntayoghurt & granatäpple",
+            "Local: Krispig fläsksida med bakat äpple, rostad potatis & senapssky",
+            "World Wide: Karaage kyckling med sataysås, ris & rostad kål"
           ]
         }
       ],
@@ -421,16 +421,15 @@
       "name": "Troppo",
       "address": "Brunnshögsgatan 34, Lund",
       "website": "https://www.troppo.se/lunch",
-      "note": "Lunch Week 22, 2026",
+      "note": "Lunch Week 23, 2026",
       "price": "149–159kr",
       "menu": [
         {
           "day": "Hela veckan",
           "lines": [
-            "Spicey — Minced chicken (Swedish), holy basil, chili, garlic, bobby beans, topped with a fried egg",
-            "Pad Kaprao — Minced chicken (Swedish), holy basil, chili, garlic, bobby beans, topped with a fried egg",
-            "Hokkien Noodles — Stir-fried beef, pak choi, broccolini, garlic, peanuts, shiitake & sheiemi mushrooms.(Chinese/S-E Asian)",
-            "Hokkien Noodles (Vegan) — Stir-fried tofu, pak choi, broccolini, garlic, peanuts, shiitake & sheiemi mushrooms. (Chinese/S-E Asian)"
+            "Pad Prik — Stir-fry with beef, broccolini, cauliflower, onion, spring onion, tomato, chili, mushrooms",
+            "Kuay Tiaw Pad — Stir-fried noodles (wheat), chicken, bean sprouts, peanuts, lime, chili, broccolini, shiitake mushrooms.(Chinese)",
+            "Pad Prik — Stir-fry with tofu, broccolini, cauliflower, onion, spring onion, tomato, chili, mushrooms"
           ]
         }
       ],

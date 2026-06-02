@@ -6,7 +6,7 @@
     <atom:link href="https://stromdahl.github.io/lunchlund.xml" rel="self" type="application/rss+xml" />
     <description>Veckans luncher för restaurangerna närmast Mobilvägen 10, Lund.</description>
     <language>sv</language>
-    <lastBuildDate>Mon, 01 Jun 2026 10:39:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 09:50:26 GMT</lastBuildDate>
     <item>
       <title>Bricks Eatery — Fredag</title>
       <link>https://stromdahl.github.io/lunchlund/#bricks-eatery</link>
@@ -33,7 +33,7 @@
       <link>https://stromdahl.github.io/lunchlund/#restaurang-edison</link>
       <guid isPermaLink="false">lunchlund:restaurang-edison:2026-06-05</guid>
       <pubDate>Fri, 05 Jun 2026 12:00:00 GMT</pubDate>
-      <description>&lt;ul&gt;&lt;li&gt;Green: Ängamat med vårprimörer, örtscones &amp;amp; krassesallad&lt;/li&gt;&lt;li&gt;Local: Kålpudding med kokt potatis, lingon, gräddsås &amp;amp; persilja&lt;/li&gt;&lt;li&gt;World Wide: Fiskgratäng med skaldjurssås, pommes duchesse &amp;amp; fänkålscrudité&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Green: Jerkkryddad aubergine med couscous, myntayoghurt &amp;amp; granatäpple&lt;/li&gt;&lt;li&gt;Local: Krispig fläsksida med bakat äpple, rostad potatis &amp;amp; senapssky&lt;/li&gt;&lt;li&gt;World Wide: Karaage kyckling med sataysås, ris &amp;amp; rostad kål&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Restaurang &amp; Café Inspira — Fredag</title>
@@ -68,7 +68,7 @@
       <link>https://stromdahl.github.io/lunchlund/#restaurang-edison</link>
       <guid isPermaLink="false">lunchlund:restaurang-edison:2026-06-04</guid>
       <pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
-      <description>&lt;ul&gt;&lt;li&gt;Green: Krispig risottobiff med tryffelmajo, rostade rotfukter &amp;amp; spenat&lt;/li&gt;&lt;li&gt;Local: Grillad kyckling med sotad isberg, tomater, rostad potatis &amp;amp; ceasarcreme&lt;/li&gt;&lt;li&gt;World Wide: Hoisinglacerade revben med ris, ingefärsmajo &amp;amp; krispiga grönsaker&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Green: Tomat- &amp;amp; ostpaj med sallad på quinoa, kålrabbi &amp;amp; citronette&lt;/li&gt;&lt;li&gt;Local: Havets wallenbergare med potatispuré, brynt smör, ärtor &amp;amp; citron&lt;/li&gt;&lt;li&gt;World Wide: Grillad souvlaki med tzatziki, citronrostad potatis &amp;amp; tomatsallad&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Restaurang &amp; Café Inspira — Torsdag</title>
@@ -103,7 +103,7 @@
       <link>https://stromdahl.github.io/lunchlund/#restaurang-edison</link>
       <guid isPermaLink="false">lunchlund:restaurang-edison:2026-06-03</guid>
       <pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
-      <description>&lt;ul&gt;&lt;li&gt;Green: Gul Currygryta med kål &amp;amp; tofu serveras med ris &amp;amp; ananas&lt;/li&gt;&lt;li&gt;Local: Biff Lindström med kryddsmör, rödvinssky &amp;amp; timjansrostad potatis&lt;/li&gt;&lt;li&gt;World Wide: Fishtaco med tortillabröd, mangochutney, chilimajo &amp;amp; potatisklyftor&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Green: Majsfritters med zucchinisallad, ris &amp;amp; avokadocreme&lt;/li&gt;&lt;li&gt;Local: Edisons pytt med picklade betor, ägg 64, ketchup &amp;amp; persilja&lt;/li&gt;&lt;li&gt;World Wide: Grillat högrev med rostad sötpotatis, picklad chili &amp;amp; chimichurri&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Restaurang &amp; Café Inspira — Onsdag</title>
@@ -138,7 +138,7 @@
       <link>https://stromdahl.github.io/lunchlund/#restaurang-edison</link>
       <guid isPermaLink="false">lunchlund:restaurang-edison:2026-06-02</guid>
       <pubDate>Tue, 02 Jun 2026 12:00:00 GMT</pubDate>
-      <description>&lt;ul&gt;&lt;li&gt;Green: Rödbetsbiff med getostcreme, honungsbakade betor &amp;amp; kokt potatis&lt;/li&gt;&lt;li&gt;Local: Grillad karré med bakade rotfrukter, spenat &amp;amp; pepparsky&lt;/li&gt;&lt;li&gt;World Wide: Chiligryta på oxe med svarta bönor, picklad rödlök, ris &amp;amp; syrad grädde&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Green: Grön burgare med brioche, cheddarcreme, picklad lök &amp;amp; salladsblad&lt;/li&gt;&lt;li&gt;Local: Lasagne med örtcreme, lagrad ost &amp;amp; vårgrönt&lt;/li&gt;&lt;li&gt;World Wide: Sesampanerad fishcake med lime, glasnudlar, sesamdressing &amp;amp; thaibasilika&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Restaurang &amp; Café Inspira — Tisdag</title>
@@ -173,7 +173,7 @@
       <link>https://stromdahl.github.io/lunchlund/#restaurang-edison</link>
       <guid isPermaLink="false">lunchlund:restaurang-edison:2026-06-01</guid>
       <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
-      <description>&lt;ul&gt;&lt;li&gt;Green: Pasta med citronsås, chilirostad zucchini, lagrad ost &amp;amp; fröer&lt;/li&gt;&lt;li&gt;Local: Bräserad fläskbog med persiljestomp, svampsås &amp;amp; syltade vinbär&lt;/li&gt;&lt;li&gt;World Wide: Chicken Korma med basmatiris, mandel, rostad blomkål &amp;amp; koriander&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Green: Tortellini med stekt svamp, rostad kål &amp;amp; tryffelcreme&lt;/li&gt;&lt;li&gt;Local: Pannbiff med färskpotatis, sommarkål &amp;amp; ramslökscreme&lt;/li&gt;&lt;li&gt;World Wide: Poulet Au Vin med smålök, potatispuré &amp;amp; rökt fläsk&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Restaurang &amp; Café Inspira — Måndag</title>
@@ -187,7 +187,7 @@
       <link>https://stromdahl.github.io/lunchlund/#troppo</link>
       <guid isPermaLink="false">lunchlund:troppo:2026-W23</guid>
       <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
-      <description>&lt;ul&gt;&lt;li&gt;Spicey — Minced chicken (Swedish), holy basil, chili, garlic, bobby beans, topped with a fried egg&lt;/li&gt;&lt;li&gt;Pad Kaprao — Minced chicken (Swedish), holy basil, chili, garlic, bobby beans, topped with a fried egg&lt;/li&gt;&lt;li&gt;Hokkien Noodles — Stir-fried beef, pak choi, broccolini, garlic, peanuts, shiitake &amp;amp; sheiemi mushrooms.(Chinese/S-E Asian)&lt;/li&gt;&lt;li&gt;Hokkien Noodles (Vegan) — Stir-fried tofu, pak choi, broccolini, garlic, peanuts, shiitake &amp;amp; sheiemi mushrooms. (Chinese/S-E Asian)&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Pad Prik — Stir-fry with beef, broccolini, cauliflower, onion, spring onion, tomato, chili, mushrooms&lt;/li&gt;&lt;li&gt;Kuay Tiaw Pad — Stir-fried noodles (wheat), chicken, bean sprouts, peanuts, lime, chili, broccolini, shiitake mushrooms.(Chinese)&lt;/li&gt;&lt;li&gt;Pad Prik — Stir-fry with tofu, broccolini, cauliflower, onion, spring onion, tomato, chili, mushrooms&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Laziza — Hela veckan</title>
