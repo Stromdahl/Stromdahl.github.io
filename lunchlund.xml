@@ -6,7 +6,7 @@
     <atom:link href="https://stromdahl.github.io/lunchlund.xml" rel="self" type="application/rss+xml" />
     <description>Veckans luncher för restaurangerna närmast Mobilvägen 10, Lund.</description>
     <language>sv</language>
-    <lastBuildDate>Thu, 04 Jun 2026 09:34:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 08:57:05 GMT</lastBuildDate>
     <item>
       <title>Bricks Eatery — Fredag</title>
       <link>https://stromdahl.github.io/lunchlund/#bricks-eatery</link>
@@ -20,13 +20,6 @@
       <guid isPermaLink="false">lunchlund:eatery-lund:2026-06-05</guid>
       <pubDate>Fri, 05 Jun 2026 12:00:00 GMT</pubDate>
       <description>&lt;ul&gt;&lt;li&gt;Mixed “grill” med chorizokorv, pluma &amp;amp; cevapi, tzatziki, rostad klyftpotatis, chilibakad majs&lt;/li&gt;&lt;li&gt;Vittvinspocherad kungsfisk med gräslöksås, potatismos &amp;amp; fänkålsbakade buntmorötter&lt;/li&gt;&lt;li&gt;Tortelloni med ricotta-&amp;amp; spenat, krämig pestosås, rostad paprika, ruccola &amp;amp; tomat&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Kantin — Fredag</title>
-      <link>https://stromdahl.github.io/lunchlund/#kantin</link>
-      <guid isPermaLink="false">lunchlund:kantin:2026-06-05</guid>
-      <pubDate>Fri, 05 Jun 2026 12:00:00 GMT</pubDate>
-      <description>&lt;ul&gt;&lt;li&gt;Veckans vegetariska: Halloumi – citronaioli – sallad – broccoli – bönor – rädisor – frökrisp – dill&lt;/li&gt;&lt;li&gt;Månadens alternativ: Varmrökt lax – citronaioli – sallad – broccoli – bönor – rädisor – frökrisp – dill&lt;/li&gt;&lt;li&gt;Nattbakad oxkind – rostad potatis – aioli – ndujasky – sparrisbroccoli – buntmorot – rökt mandel – örter&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Restaurang Edison — Fredag</title>
@@ -57,13 +50,6 @@
       <description>&lt;ul&gt;&lt;li&gt;Friterad kyckling med ranchdressing, rostad klyftpotatis, sallad på fänkål, morot, ramslök &amp;amp; äpple&lt;/li&gt;&lt;li&gt;Curry-&amp;amp; kokos bakad sej med pumpa, fänkål, mynta, gurkraita &amp;amp; basmatiris&lt;/li&gt;&lt;li&gt;Kikärtsgryta med vegansk chorizokorv, rotfrukts cous cous &amp;amp; myntayoghurt&lt;/li&gt;&lt;li&gt;Pancake Thursday: Vi bjuder på pannkakor, lättvispad grädde och hemmagjord sylt!&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>Kantin — Torsdag</title>
-      <link>https://stromdahl.github.io/lunchlund/#kantin</link>
-      <guid isPermaLink="false">lunchlund:kantin:2026-06-04</guid>
-      <pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
-      <description>&lt;ul&gt;&lt;li&gt;Veckans vegetariska: Halloumi – citronaioli – sallad – broccoli – bönor – rädisor – frökrisp – dill&lt;/li&gt;&lt;li&gt;Månadens alternativ: Varmrökt lax – citronaioli – sallad – broccoli – bönor – rädisor – frökrisp – dill&lt;/li&gt;&lt;li&gt;Oxtartar – harissamajo – rostad paprika – syrad rödlök – rostade frön – soltorkad tomat – persilja&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
       <title>Restaurang Edison — Torsdag</title>
       <link>https://stromdahl.github.io/lunchlund/#restaurang-edison</link>
       <guid isPermaLink="false">lunchlund:restaurang-edison:2026-06-04</guid>
@@ -90,13 +76,6 @@
       <guid isPermaLink="false">lunchlund:eatery-lund:2026-06-03</guid>
       <pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
       <description>&lt;ul&gt;&lt;li&gt;Nattbakad fläskkarré med pepparsås, bakad purjolök, stekt potatis med fänkål &amp;amp; dragon&lt;/li&gt;&lt;li&gt;Gremolata bakad kummel, potatisstomp med creme fraiche, gräslök, grön aioli &amp;amp; hyvlad morot&lt;/li&gt;&lt;li&gt;Halloumiburgare med avokadokräm, picklad rödlök &amp;amp; rostad klyftpotatis&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Kantin — Onsdag</title>
-      <link>https://stromdahl.github.io/lunchlund/#kantin</link>
-      <guid isPermaLink="false">lunchlund:kantin:2026-06-03</guid>
-      <pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
-      <description>&lt;ul&gt;&lt;li&gt;Veckans vegetariska: Halloumi – citronaioli – sallad – broccoli – bönor – rädisor – frökrisp – dill&lt;/li&gt;&lt;li&gt;Månadens alternativ: Varmrökt lax – citronaioli – sallad – broccoli – bönor – rädisor – frökrisp – dill&lt;/li&gt;&lt;li&gt;Nattbakad fläsksida – potatisstomp – äpplecidersås – bakad rotselleri – pumpakärnor – pickles – örter&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Restaurang Edison — Onsdag</title>
@@ -127,13 +106,6 @@
       <description>&lt;ul&gt;&lt;li&gt;Polpette italienska köttbullar i tomatsky med basilika, citron &amp;amp; smashed potatis&lt;/li&gt;&lt;li&gt;Fiskgryta med musslor, fänkål, tomat-saffransmajo, kokt nypotatis&lt;/li&gt;&lt;li&gt;Pasta alfredo med svamp, spenat, bakad tomat &amp;amp; örtcrunch&lt;/li&gt;&lt;li&gt;Sweet Tuesday: Vi bjuder på något sött till kaffet!&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>Kantin — Tisdag</title>
-      <link>https://stromdahl.github.io/lunchlund/#kantin</link>
-      <guid isPermaLink="false">lunchlund:kantin:2026-06-02</guid>
-      <pubDate>Tue, 02 Jun 2026 12:00:00 GMT</pubDate>
-      <description>&lt;ul&gt;&lt;li&gt;Veckans vegetariska: Halloumi – citronaioli – sallad – broccoli – bönor – rädisor – frökrisp – dill&lt;/li&gt;&lt;li&gt;Månadens alternativ: Varmrökt lax – citronaioli – sallad – broccoli – bönor – rädisor – frökrisp – dill&lt;/li&gt;&lt;li&gt;Flankstek – ris – krossad chili &amp;amp; sesamgurka – sojabönor – sotad chilimajo – rostad lök – koriander&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
       <title>Restaurang Edison — Tisdag</title>
       <link>https://stromdahl.github.io/lunchlund/#restaurang-edison</link>
       <guid isPermaLink="false">lunchlund:restaurang-edison:2026-06-02</guid>
@@ -162,13 +134,6 @@
       <description>&lt;ul&gt;&lt;li&gt;Stekt oxbringa med rostade morötter, senap &amp;amp; dragonsås, potatismos&lt;/li&gt;&lt;li&gt;Bakad sej med vitvinssås, ägg, dill, räkor, kokt nypotatis med smör &amp;amp; örter, fänkålssallad&lt;/li&gt;&lt;li&gt;Vårrullar med soja-chilidipp, bönsallad med lime, chili &amp;amp; koriander&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>Kantin — Måndag</title>
-      <link>https://stromdahl.github.io/lunchlund/#kantin</link>
-      <guid isPermaLink="false">lunchlund:kantin:2026-06-01</guid>
-      <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
-      <description>&lt;ul&gt;&lt;li&gt;Veckans vegetariska: Halloumi – citronaioli – sallad – broccoli – bönor – rädisor – frökrisp – dill&lt;/li&gt;&lt;li&gt;Månadens alternativ: Varmrökt lax – citronaioli – sallad – broccoli – bönor – rädisor – frökrisp – dill&lt;/li&gt;&lt;li&gt;Kycklingsteak – potatis – rödcurrymajo – sockerärtor – pujolök – böngroddar – pickles&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
       <title>Restaurang Edison — Måndag</title>
       <link>https://stromdahl.github.io/lunchlund/#restaurang-edison</link>
       <guid isPermaLink="false">lunchlund:restaurang-edison:2026-06-01</guid>
@@ -188,13 +153,6 @@
       <guid isPermaLink="false">lunchlund:troppo:2026-W23</guid>
       <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
       <description>&lt;ul&gt;&lt;li&gt;Pad Prik — Stir-fry with beef, broccolini, cauliflower, onion, spring onion, tomato, chili, mushrooms&lt;/li&gt;&lt;li&gt;Kuay Tiaw Pad — Stir-fried noodles (wheat), chicken, bean sprouts, peanuts, lime, chili, broccolini, shiitake mushrooms.(Chinese)&lt;/li&gt;&lt;li&gt;Pad Prik — Stir-fry with tofu, broccolini, cauliflower, onion, spring onion, tomato, chili, mushrooms&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Laziza — Hela veckan</title>
-      <link>https://stromdahl.github.io/lunchlund/#laziza</link>
-      <guid isPermaLink="false">lunchlund:laziza:2026-W23</guid>
-      <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
-      <description>&lt;ul&gt;&lt;li&gt;Libanesisk lunchbuffé&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Aiko Sushi Brunnshög — Hela veckan</title>
