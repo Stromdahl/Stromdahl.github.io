@@ -6,160 +6,83 @@
     <atom:link href="https://stromdahl.github.io/lunchlund.xml" rel="self" type="application/rss+xml" />
     <description>Veckans luncher för restaurangerna närmast Mobilvägen 10, Lund.</description>
     <language>sv</language>
-    <lastBuildDate>Fri, 05 Jun 2026 08:57:05 GMT</lastBuildDate>
-    <item>
-      <title>Bricks Eatery — Fredag</title>
-      <link>https://stromdahl.github.io/lunchlund/#bricks-eatery</link>
-      <guid isPermaLink="false">lunchlund:bricks-eatery:2026-06-05</guid>
-      <pubDate>Fri, 05 Jun 2026 12:00:00 GMT</pubDate>
-      <description>&lt;ul&gt;&lt;li&gt;Green: Ugnspannkaka med bakad vitkål, lingon, keso, mandel, krasse och äpple&lt;/li&gt;&lt;li&gt;Local: Friterad spätta med tartarsås, potatis, dill, ärtor, rädisa och citron&lt;/li&gt;&lt;li&gt;World wide: Pasta med baconsås, grädde, citron, gräslök och svartpeppar&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
+    <lastBuildDate>Mon, 08 Jun 2026 10:06:58 GMT</lastBuildDate>
     <item>
       <title>Eatery Lund — Fredag</title>
       <link>https://stromdahl.github.io/lunchlund/#eatery-lund</link>
-      <guid isPermaLink="false">lunchlund:eatery-lund:2026-06-05</guid>
-      <pubDate>Fri, 05 Jun 2026 12:00:00 GMT</pubDate>
-      <description>&lt;ul&gt;&lt;li&gt;Mixed “grill” med chorizokorv, pluma &amp;amp; cevapi, tzatziki, rostad klyftpotatis, chilibakad majs&lt;/li&gt;&lt;li&gt;Vittvinspocherad kungsfisk med gräslöksås, potatismos &amp;amp; fänkålsbakade buntmorötter&lt;/li&gt;&lt;li&gt;Tortelloni med ricotta-&amp;amp; spenat, krämig pestosås, rostad paprika, ruccola &amp;amp; tomat&lt;/li&gt;&lt;/ul&gt;</description>
+      <guid isPermaLink="false">lunchlund:eatery-lund:2026-06-12</guid>
+      <pubDate>Fri, 12 Jun 2026 12:00:00 GMT</pubDate>
+      <description>&lt;ul&gt;&lt;li&gt;Kycklingschnitzel med bearnaise, lökstekta gröna bönor, rostad potatis &amp;amp; örtsmör&lt;/li&gt;&lt;li&gt;Pankopanerad fisktaco med mangosalsa, spicy majo, krispig lök &amp;amp; koriander&lt;/li&gt;&lt;li&gt;Rostad färskkål med mynta, citronyoghurt, svartris med sojabönor &amp;amp; sötpotatis, örtsallad&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>Restaurang Edison — Fredag</title>
-      <link>https://stromdahl.github.io/lunchlund/#restaurang-edison</link>
-      <guid isPermaLink="false">lunchlund:restaurang-edison:2026-06-05</guid>
-      <pubDate>Fri, 05 Jun 2026 12:00:00 GMT</pubDate>
-      <description>&lt;ul&gt;&lt;li&gt;Green: Jerkkryddad aubergine med couscous, myntayoghurt &amp;amp; granatäpple&lt;/li&gt;&lt;li&gt;Local: Krispig fläsksida med bakat äpple, rostad potatis &amp;amp; senapssky&lt;/li&gt;&lt;li&gt;World Wide: Karaage kyckling med sataysås, ris &amp;amp; rostad kål&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Restaurang &amp; Café Inspira — Fredag</title>
-      <link>https://stromdahl.github.io/lunchlund/#restaurang-cafe-inspira</link>
-      <guid isPermaLink="false">lunchlund:restaurang-cafe-inspira:2026-06-05</guid>
-      <pubDate>Fri, 05 Jun 2026 12:00:00 GMT</pubDate>
-      <description>&lt;ul&gt;&lt;li&gt;Green | Vietnamesisk risnudelsallad: Nouc chamsås | sockerärtor &amp;amp; tofu&lt;/li&gt;&lt;li&gt;Local | Hamburgare: karamelliserad lök | cheddar | romansallad &amp;amp; pommes&lt;/li&gt;&lt;li&gt;World | Nattbakad fläsksida: barbecue | coleslaw &amp;amp; rostad potatis&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Bricks Eatery — Torsdag</title>
-      <link>https://stromdahl.github.io/lunchlund/#bricks-eatery</link>
-      <guid isPermaLink="false">lunchlund:bricks-eatery:2026-06-04</guid>
-      <pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
-      <description>&lt;ul&gt;&lt;li&gt;Green: Okonomiyaki- japansk kål pannkaka med coleslaw, bbq-sås, champinjoner, picklad rödkål och koriander&lt;/li&gt;&lt;li&gt;Local: Crispy pork belly “five spice” med ris, gurksallad, ingefära, vårlök, thaichili och soja&lt;/li&gt;&lt;li&gt;Pizza: Mozzarella, tomatsås, salami spianata och basilika&lt;/li&gt;&lt;li&gt;Äppelpaj: Varje torsdag bjuder vi på äppelpaj med vaniljgrädde till våra lunchgäster&lt;/li&gt;&lt;/ul&gt;</description>
+      <title>Kantin — Fredag</title>
+      <link>https://stromdahl.github.io/lunchlund/#kantin</link>
+      <guid isPermaLink="false">lunchlund:kantin:2026-06-12</guid>
+      <pubDate>Fri, 12 Jun 2026 12:00:00 GMT</pubDate>
+      <description>&lt;ul&gt;&lt;li&gt;Veckans vegetariska: Krämig polenta – portabello – borretanalök – chimichurri – ruccola – rostad lök&lt;/li&gt;&lt;li&gt;Månadens alternativ: Varmrökt lax – citronaioli – sallad – broccoli – bönor – rädisor – frökrisp – dill&lt;/li&gt;&lt;li&gt;Nattbakat högrev – rostad potatis – coleslaw – pickles – saltgurka – bbqsås – örter&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Eatery Lund — Torsdag</title>
       <link>https://stromdahl.github.io/lunchlund/#eatery-lund</link>
-      <guid isPermaLink="false">lunchlund:eatery-lund:2026-06-04</guid>
-      <pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
-      <description>&lt;ul&gt;&lt;li&gt;Friterad kyckling med ranchdressing, rostad klyftpotatis, sallad på fänkål, morot, ramslök &amp;amp; äpple&lt;/li&gt;&lt;li&gt;Curry-&amp;amp; kokos bakad sej med pumpa, fänkål, mynta, gurkraita &amp;amp; basmatiris&lt;/li&gt;&lt;li&gt;Kikärtsgryta med vegansk chorizokorv, rotfrukts cous cous &amp;amp; myntayoghurt&lt;/li&gt;&lt;li&gt;Pancake Thursday: Vi bjuder på pannkakor, lättvispad grädde och hemmagjord sylt!&lt;/li&gt;&lt;/ul&gt;</description>
+      <guid isPermaLink="false">lunchlund:eatery-lund:2026-06-11</guid>
+      <pubDate>Thu, 11 Jun 2026 12:00:00 GMT</pubDate>
+      <description>&lt;ul&gt;&lt;li&gt;Nattbakad karré med gochujang, honung, sesam, soja &amp;amp; citrongrässky, sushiris, chili &amp;amp; ingefärsgurka&lt;/li&gt;&lt;li&gt;Bakad hokifilé med en röd curry kokossås, sallad på paprika, spetskål, sesam &amp;amp; jasminris&lt;/li&gt;&lt;li&gt;Vegofärs med teriyaki, ingefära, chili, picklad rödlök, mangosallad,&lt;/li&gt;&lt;li&gt;rostade jordnötter, rostade sesamfrö &amp;amp; jasminris&lt;/li&gt;&lt;li&gt;Pancake Thursday: Vi bjuder på pannkakor, lättvispad grädde och hemmagjord sylt!&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>Restaurang Edison — Torsdag</title>
-      <link>https://stromdahl.github.io/lunchlund/#restaurang-edison</link>
-      <guid isPermaLink="false">lunchlund:restaurang-edison:2026-06-04</guid>
-      <pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
-      <description>&lt;ul&gt;&lt;li&gt;Green: Tomat- &amp;amp; ostpaj med sallad på quinoa, kålrabbi &amp;amp; citronette&lt;/li&gt;&lt;li&gt;Local: Havets wallenbergare med potatispuré, brynt smör, ärtor &amp;amp; citron&lt;/li&gt;&lt;li&gt;World Wide: Grillad souvlaki med tzatziki, citronrostad potatis &amp;amp; tomatsallad&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Restaurang &amp; Café Inspira — Torsdag</title>
-      <link>https://stromdahl.github.io/lunchlund/#restaurang-cafe-inspira</link>
-      <guid isPermaLink="false">lunchlund:restaurang-cafe-inspira:2026-06-04</guid>
-      <pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
-      <description>&lt;ul&gt;&lt;li&gt;Green | Aloo tikki (indisk potatisbulle): chaatsallad &amp;amp; yoghurt&lt;/li&gt;&lt;li&gt;Local | Rostad kyckling: libbstickasky | potatisstomp &amp;amp; blomkål&lt;/li&gt;&lt;li&gt;World | Nattbakad fläsksida: barbecue | coleslaw &amp;amp; rostad potatis&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Bricks Eatery — Onsdag</title>
-      <link>https://stromdahl.github.io/lunchlund/#bricks-eatery</link>
-      <guid isPermaLink="false">lunchlund:bricks-eatery:2026-06-03</guid>
-      <pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
-      <description>&lt;ul&gt;&lt;li&gt;Green: Tariks falafel med bulgursallad, vattenmelon, krämig ost, chilimajonnäs och granatäpple&lt;/li&gt;&lt;li&gt;Local: Lammfärsbiff med tzatziki, klyftpotatis, tomatsallad och marinerade oliver&lt;/li&gt;&lt;li&gt;World Wide: Bibimbap på blandat kött med ris, stekt ägg, ostronsås, kimchi, pickles och sesam&lt;/li&gt;&lt;li&gt;Pizza: Mozzarella, tomatsås, salami spianata och basilika&lt;/li&gt;&lt;/ul&gt;</description>
+      <title>Kantin — Torsdag</title>
+      <link>https://stromdahl.github.io/lunchlund/#kantin</link>
+      <guid isPermaLink="false">lunchlund:kantin:2026-06-11</guid>
+      <pubDate>Thu, 11 Jun 2026 12:00:00 GMT</pubDate>
+      <description>&lt;ul&gt;&lt;li&gt;Veckans vegetariska: Krämig polenta – portabello – borretanalök – chimichurri – ruccola – rostad lök&lt;/li&gt;&lt;li&gt;Månadens alternativ: Varmrökt lax – citronaioli – sallad – broccoli – bönor – rädisor – frökrisp – dill&lt;/li&gt;&lt;li&gt;Oxtartar – dragonmajo – rostad broccoli – picklad silverlök – rostade pumpakärnor – krasse&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Eatery Lund — Onsdag</title>
       <link>https://stromdahl.github.io/lunchlund/#eatery-lund</link>
-      <guid isPermaLink="false">lunchlund:eatery-lund:2026-06-03</guid>
-      <pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
-      <description>&lt;ul&gt;&lt;li&gt;Nattbakad fläskkarré med pepparsås, bakad purjolök, stekt potatis med fänkål &amp;amp; dragon&lt;/li&gt;&lt;li&gt;Gremolata bakad kummel, potatisstomp med creme fraiche, gräslök, grön aioli &amp;amp; hyvlad morot&lt;/li&gt;&lt;li&gt;Halloumiburgare med avokadokräm, picklad rödlök &amp;amp; rostad klyftpotatis&lt;/li&gt;&lt;/ul&gt;</description>
+      <guid isPermaLink="false">lunchlund:eatery-lund:2026-06-10</guid>
+      <pubDate>Wed, 10 Jun 2026 12:00:00 GMT</pubDate>
+      <description>&lt;ul&gt;&lt;li&gt;Tomat -&amp;amp; vitlöksbrässerat högrev med potatismos, apelsingremolata &amp;amp; sauterade sockerärtor&lt;/li&gt;&lt;li&gt;Fisk-&amp;amp; skaldjursgryta med citronaioli, ört-chilikrisp, rostade tomater &amp;amp; krossad örtpotatis&lt;/li&gt;&lt;li&gt;Okonomiyaki med ingefära, sojamajo, picklad rödkålssallad, sesam &amp;amp; lökkrisp&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>Restaurang Edison — Onsdag</title>
-      <link>https://stromdahl.github.io/lunchlund/#restaurang-edison</link>
-      <guid isPermaLink="false">lunchlund:restaurang-edison:2026-06-03</guid>
-      <pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
-      <description>&lt;ul&gt;&lt;li&gt;Green: Majsfritters med zucchinisallad, ris &amp;amp; avokadocreme&lt;/li&gt;&lt;li&gt;Local: Edisons pytt med picklade betor, ägg 64, ketchup &amp;amp; persilja&lt;/li&gt;&lt;li&gt;World Wide: Grillat högrev med rostad sötpotatis, picklad chili &amp;amp; chimichurri&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Restaurang &amp; Café Inspira — Onsdag</title>
-      <link>https://stromdahl.github.io/lunchlund/#restaurang-cafe-inspira</link>
-      <guid isPermaLink="false">lunchlund:restaurang-cafe-inspira:2026-06-03</guid>
-      <pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
-      <description>&lt;ul&gt;&lt;li&gt;Green | Paj med västerbottenost &amp;amp; sparris: quinoasallad &amp;amp; ramslöksyoghurt&lt;/li&gt;&lt;li&gt;Local | Biff Stroganoff: ris | saltgurka &amp;amp; smetana&lt;/li&gt;&lt;li&gt;Asia | Laab (fläskfärs),: lime | chili | fisksås | jasminris &amp;amp; picklad morot&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Bricks Eatery — Tisdag</title>
-      <link>https://stromdahl.github.io/lunchlund/#bricks-eatery</link>
-      <guid isPermaLink="false">lunchlund:bricks-eatery:2026-06-02</guid>
-      <pubDate>Tue, 02 Jun 2026 12:00:00 GMT</pubDate>
-      <description>&lt;ul&gt;&lt;li&gt;Green: Chana masala- indisk kikärtscurry med ris, naanbröd, yoghurt och chilibakad tomat&lt;/li&gt;&lt;li&gt;World wide: Friterad kyckling med jordnötssås, chilirostad morot, picklad ingefära, ris och böngroddar&lt;/li&gt;&lt;li&gt;Pizza: Mozzarella, tomatsås, salami spianata och basilika&lt;/li&gt;&lt;/ul&gt;</description>
+      <title>Kantin — Onsdag</title>
+      <link>https://stromdahl.github.io/lunchlund/#kantin</link>
+      <guid isPermaLink="false">lunchlund:kantin:2026-06-10</guid>
+      <pubDate>Wed, 10 Jun 2026 12:00:00 GMT</pubDate>
+      <description>&lt;ul&gt;&lt;li&gt;Veckans vegetariska: Krämig polenta – portabello – borretanalök – chimichurri – ruccola – rostad lök&lt;/li&gt;&lt;li&gt;Månadens alternativ: Varmrökt lax – citronaioli – sallad – broccoli – bönor – rädisor – frökrisp – dill&lt;/li&gt;&lt;li&gt;Nattbakad fläsksida – kimcheemajo – ris – ingefärspicklad morot – salladslök – picklad gurka – koriander&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Eatery Lund — Tisdag</title>
       <link>https://stromdahl.github.io/lunchlund/#eatery-lund</link>
-      <guid isPermaLink="false">lunchlund:eatery-lund:2026-06-02</guid>
-      <pubDate>Tue, 02 Jun 2026 12:00:00 GMT</pubDate>
-      <description>&lt;ul&gt;&lt;li&gt;Polpette italienska köttbullar i tomatsky med basilika, citron &amp;amp; smashed potatis&lt;/li&gt;&lt;li&gt;Fiskgryta med musslor, fänkål, tomat-saffransmajo, kokt nypotatis&lt;/li&gt;&lt;li&gt;Pasta alfredo med svamp, spenat, bakad tomat &amp;amp; örtcrunch&lt;/li&gt;&lt;li&gt;Sweet Tuesday: Vi bjuder på något sött till kaffet!&lt;/li&gt;&lt;/ul&gt;</description>
+      <guid isPermaLink="false">lunchlund:eatery-lund:2026-06-09</guid>
+      <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
+      <description>&lt;ul&gt;&lt;li&gt;Pannbiff med bakad lök, gräddsås, rårörda lingon, timjanrostad potatis&lt;/li&gt;&lt;li&gt;Stekt kungsfisk med gräslöksås, bakad fänkål, stjärnanis, grönärtspuré &amp;amp; kokt potatis&lt;/li&gt;&lt;li&gt;Krämig tomatsås med gnocchi, bakad aubergine &amp;amp; örtricotta&lt;/li&gt;&lt;li&gt;Sweet Tuesday: Vi bjuder på något sött till kaffet!&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>Restaurang Edison — Tisdag</title>
-      <link>https://stromdahl.github.io/lunchlund/#restaurang-edison</link>
-      <guid isPermaLink="false">lunchlund:restaurang-edison:2026-06-02</guid>
-      <pubDate>Tue, 02 Jun 2026 12:00:00 GMT</pubDate>
-      <description>&lt;ul&gt;&lt;li&gt;Green: Grön burgare med brioche, cheddarcreme, picklad lök &amp;amp; salladsblad&lt;/li&gt;&lt;li&gt;Local: Lasagne med örtcreme, lagrad ost &amp;amp; vårgrönt&lt;/li&gt;&lt;li&gt;World Wide: Sesampanerad fishcake med lime, glasnudlar, sesamdressing &amp;amp; thaibasilika&lt;/li&gt;&lt;/ul&gt;</description>
+      <title>Kantin — Tisdag</title>
+      <link>https://stromdahl.github.io/lunchlund/#kantin</link>
+      <guid isPermaLink="false">lunchlund:kantin:2026-06-09</guid>
+      <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
+      <description>&lt;ul&gt;&lt;li&gt;Veckans vegetariska: Krämig polenta – portabello – borretanalök – chimichurri – ruccola – rostad lök&lt;/li&gt;&lt;li&gt;Månadens alternativ: Varmrökt lax – citronaioli – sallad – broccoli – bönor – rädisor – frökrisp – dill&lt;/li&gt;&lt;li&gt;Kycklingsteak – rostad potatis – cajunmajo – rostad majs – chilisky – pickles – hjärtsallad&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>Restaurang &amp; Café Inspira — Tisdag</title>
-      <link>https://stromdahl.github.io/lunchlund/#restaurang-cafe-inspira</link>
-      <guid isPermaLink="false">lunchlund:restaurang-cafe-inspira:2026-06-02</guid>
-      <pubDate>Tue, 02 Jun 2026 12:00:00 GMT</pubDate>
-      <description>&lt;ul&gt;&lt;li&gt;Green | Rostad potatissallad: pepparrotsdressing &amp;amp; fetaost&lt;/li&gt;&lt;li&gt;Local | Stekt Makrill: spenatsås | färskpotatis &amp;amp; citron&lt;/li&gt;&lt;li&gt;Asia | Laab (fläskfärs): lime | chili | fisksås | jasminris &amp;amp; picklad morot&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Bricks Eatery — Måndag</title>
-      <link>https://stromdahl.github.io/lunchlund/#bricks-eatery</link>
-      <guid isPermaLink="false">lunchlund:bricks-eatery:2026-06-01</guid>
-      <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
-      <description>&lt;ul&gt;&lt;li&gt;Green: Pasta/gnocchigratäng med bechamelsås, tomatsallad, lagrad ost och ruccola&lt;/li&gt;&lt;li&gt;Local: Köttfärslimpa med grönpepparsås, brynt kål, champinjoner, lingon och kruspersilja&lt;/li&gt;&lt;li&gt;World wide: Kung pao chicken- kyckling med ris, sichuanpeppar, lök, paprika, ingefära, jordnötter och chili&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Eatery Lund — Måndag</title>
-      <link>https://stromdahl.github.io/lunchlund/#eatery-lund</link>
-      <guid isPermaLink="false">lunchlund:eatery-lund:2026-06-01</guid>
-      <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
-      <description>&lt;ul&gt;&lt;li&gt;Stekt oxbringa med rostade morötter, senap &amp;amp; dragonsås, potatismos&lt;/li&gt;&lt;li&gt;Bakad sej med vitvinssås, ägg, dill, räkor, kokt nypotatis med smör &amp;amp; örter, fänkålssallad&lt;/li&gt;&lt;li&gt;Vårrullar med soja-chilidipp, bönsallad med lime, chili &amp;amp; koriander&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Restaurang Edison — Måndag</title>
-      <link>https://stromdahl.github.io/lunchlund/#restaurang-edison</link>
-      <guid isPermaLink="false">lunchlund:restaurang-edison:2026-06-01</guid>
-      <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
-      <description>&lt;ul&gt;&lt;li&gt;Green: Tortellini med stekt svamp, rostad kål &amp;amp; tryffelcreme&lt;/li&gt;&lt;li&gt;Local: Pannbiff med färskpotatis, sommarkål &amp;amp; ramslökscreme&lt;/li&gt;&lt;li&gt;World Wide: Poulet Au Vin med smålök, potatispuré &amp;amp; rökt fläsk&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Restaurang &amp; Café Inspira — Måndag</title>
-      <link>https://stromdahl.github.io/lunchlund/#restaurang-cafe-inspira</link>
-      <guid isPermaLink="false">lunchlund:restaurang-cafe-inspira:2026-06-01</guid>
-      <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
-      <description>&lt;ul&gt;&lt;li&gt;Green | Lobia Masala: basmatiris &amp;amp; kryddbakad blomkål&lt;/li&gt;&lt;li&gt;Local | Färsbiff &amp;amp; Tzatziki: rostad potatis | tomat &amp;amp; olivsallad&lt;/li&gt;&lt;li&gt;Asia | Pad thai: risnudlar | kyckling | ägg | jordnötter &amp;amp; lime&lt;/li&gt;&lt;/ul&gt;</description>
+      <title>Kantin — Måndag</title>
+      <link>https://stromdahl.github.io/lunchlund/#kantin</link>
+      <guid isPermaLink="false">lunchlund:kantin:2026-06-08</guid>
+      <pubDate>Mon, 08 Jun 2026 12:00:00 GMT</pubDate>
+      <description>&lt;ul&gt;&lt;li&gt;Veckans vegetariska: Krämig polenta – portabello – borretanalök – chimichurri – ruccola – rostad lök&lt;/li&gt;&lt;li&gt;Månadens alternativ: Varmrökt lax – citronaioli – sallad – broccoli – bönor – rädisor – frökrisp – dill&lt;/li&gt;&lt;li&gt;Spidersteak – krämig polenta – rostad palsternacka – chimichurri – ruccola – skysås&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Troppo — Hela veckan</title>
       <link>https://stromdahl.github.io/lunchlund/#troppo</link>
-      <guid isPermaLink="false">lunchlund:troppo:2026-W23</guid>
-      <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
-      <description>&lt;ul&gt;&lt;li&gt;Pad Prik — Stir-fry with beef, broccolini, cauliflower, onion, spring onion, tomato, chili, mushrooms&lt;/li&gt;&lt;li&gt;Kuay Tiaw Pad — Stir-fried noodles (wheat), chicken, bean sprouts, peanuts, lime, chili, broccolini, shiitake mushrooms.(Chinese)&lt;/li&gt;&lt;li&gt;Pad Prik — Stir-fry with tofu, broccolini, cauliflower, onion, spring onion, tomato, chili, mushrooms&lt;/li&gt;&lt;/ul&gt;</description>
+      <guid isPermaLink="false">lunchlund:troppo:2026-W24</guid>
+      <pubDate>Mon, 08 Jun 2026 12:00:00 GMT</pubDate>
+      <description>&lt;ul&gt;&lt;li&gt;Ayam Gorale — Grilled quarter of a chicken, coconut milk, homemade curry paste, peanuts, spicy julienne salad.&lt;/li&gt;&lt;li&gt;Pad Thai — Udon noodles (wheat), garlic, chives, tofu, (egg), bean sprouts, peanuts. (Thai)&lt;/li&gt;&lt;li&gt;Slow-Roasted Beef Chuck — Stir-fried with onion, spring onion, chili, bell peppers, cashew nuts.&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>Aiko Sushi Brunnshög — Hela veckan</title>
-      <link>https://stromdahl.github.io/lunchlund/#aiko-sushi-brunnshog</link>
-      <guid isPermaLink="false">lunchlund:aiko-sushi-brunnshog:2026-W23</guid>
-      <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
-      <description>&lt;ul&gt;&lt;li&gt;Mixad sushi: 109/129/149kr (11/13/16 bitar) · finns vegetarisk&lt;/li&gt;&lt;li&gt;Mixad nigiri: 119/139kr (9/12 bitar) · finns vegetarisk&lt;/li&gt;&lt;li&gt;Sushi Dog: 80kr to-go / 95kr eat-in · 8 fyllningar att välja&lt;/li&gt;&lt;li&gt;Varmrätt: wokade udon nudlar 119kr (kyckling eller tofu)&lt;/li&gt;&lt;li&gt;Poké Bowl: 129kr kall / 139kr varm&lt;/li&gt;&lt;/ul&gt;</description>
+      <title>Laziza — Hela veckan</title>
+      <link>https://stromdahl.github.io/lunchlund/#laziza</link>
+      <guid isPermaLink="false">lunchlund:laziza:2026-W24</guid>
+      <pubDate>Mon, 08 Jun 2026 12:00:00 GMT</pubDate>
+      <description>&lt;ul&gt;&lt;li&gt;Libanesisk lunchbuffé&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
