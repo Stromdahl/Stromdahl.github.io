@@ -1,15 +1,91 @@
 {
-  "fetchedAt": "2026-06-08T10:06:58.439Z",
+  "fetchedAt": "2026-06-09T08:47:36.382Z",
   "restaurants": [
     {
       "name": "Bricks Eatery",
       "address": "Mobilvägen 12, Lund",
       "website": "https://brickseatery.se/",
-      "menu": [],
-      "error": {
-        "source": "bricks",
-        "error": "Bricks Eatery: 415 Unsupported Media Type"
-      }
+      "note": "Lunchmeny V24",
+      "price": "115:- ink. Kaffe",
+      "menu": [
+        {
+          "day": "Måndag",
+          "lines": [
+            "Green: Stekt gnocchi med basilikapesto, citronrostade rödbetor, vitlökskrutonger och chili",
+            "Local: Stekt sremska med potatismos, räksallad, ajvar, rostad lök, gurka och kruspersilja",
+            "World wide: Biryani- pilaffris med kyckling, spiskummin, saffran, mandel, russin, yoghurt och koriander"
+          ]
+        },
+        {
+          "day": "Tisdag",
+          "lines": [
+            "Green: Svamprisotto med grönkålschips, ärtor, picklad rödlök, rotselleri och italiensk hårdost",
+            "Local: Grillad fläskkarre med gräslökshollandaise, picklad gurka, rostade rotfrukter och gremolata",
+            "Pizza: Mozzarella, tomatsås, kebab, fefferoni och vitlökssås"
+          ]
+        },
+        {
+          "day": "Onsdag",
+          "lines": [
+            "Green: Wokade grönsaker med soja, sichuanpeppar, ris, böngroddar, jordnötter och koriander",
+            "Local: Stekt sill med klassiska tillbehör",
+            "World Wide: Thailändska färsbiffar med ris, röd curry, jordnötter, koriander, kål, böngroddar och lime",
+            "Pizza: Mozzarella, tomatsås, kebab, fefferoni och vitlökssås"
+          ]
+        },
+        {
+          "day": "Torsdag",
+          "lines": [
+            "Green: Krispig tofu med risnudlar, asiatisk råkostsallad, limemajonnäs och pickles",
+            "Local: Dansk fläskstek med gräddsås, stekt potatis, rödkål, äpple och persilja",
+            "Pizza: Mozzarella, tomatsås, kebab, fefferoni och vitlökssås",
+            "Äppelpaj: Varje torsdag bjuder vi på äppelpaj med vaniljgrädde till våra lunchgäster"
+          ]
+        },
+        {
+          "day": "Fredag",
+          "lines": [
+            "Green: Rödbetsbiff med pommes frites, rödvinssås, kryddsmör, gröna bönor och kapris",
+            "Local: Biff Lindström med pommes frites, rödvinssås, kryddsmör, gröna bönor och kapris",
+            "World wide: Indisk spenatgryta med kyckling, vitlöksbröd, ris, gurksallad och vårlök"
+          ]
+        }
+      ],
+      "hours": {
+        "mon": [
+          {
+            "open": "11:00",
+            "close": "13:30"
+          }
+        ],
+        "tue": [
+          {
+            "open": "11:00",
+            "close": "13:30"
+          }
+        ],
+        "wed": [
+          {
+            "open": "11:00",
+            "close": "13:30"
+          }
+        ],
+        "thu": [
+          {
+            "open": "11:00",
+            "close": "13:30"
+          }
+        ],
+        "fri": [
+          {
+            "open": "11:00",
+            "close": "13:30"
+          }
+        ],
+        "sat": [],
+        "sun": []
+      },
+      "asOf": "2026-06-09T08:47:36.382Z"
     },
     {
       "name": "Eatery Lund",
@@ -87,7 +163,8 @@
         ],
         "sat": [],
         "sun": []
-      }
+      },
+      "asOf": "2026-06-09T08:47:36.382Z"
     },
     {
       "name": "Kantin",
@@ -169,27 +246,174 @@
         ],
         "sat": [],
         "sun": []
-      }
+      },
+      "asOf": "2026-06-09T08:47:36.382Z"
     },
     {
       "name": "Restaurang Edison",
       "address": "Emdalavägen 6B, Lund",
       "website": "https://restaurangedison.se/lunch/",
-      "menu": [],
-      "error": {
-        "source": "edison",
-        "error": "Restaurang Edison: 415 Unsupported Media Type"
-      }
+      "note": "Vecka 24",
+      "price": "115:-",
+      "menu": [
+        {
+          "day": "Måndag",
+          "lines": [
+            "Green: Indisk daal med spenat, rostad blomkål, ris & papadum",
+            "Local: Kroppkakor med lingon, brynt smör, färsk vitkål & bakat äpple",
+            "World Wide: Kyckling med dijon, vittvin, bräserad fänkål & kokt färskpotatis"
+          ]
+        },
+        {
+          "day": "Tisdag",
+          "lines": [
+            "Green: Rostad broccoli med rotselleripuré, salvia & rostad mandel",
+            "Local: Torskburgare med dillcreme, picklad morot & rostad potatis",
+            "World Wide: Pulled pork med sesamslaw, chilipicklat päron & potatishalva"
+          ]
+        },
+        {
+          "day": "Onsdag",
+          "lines": [
+            "Green: Baobun med sesammajo, rättika, koriander & ris",
+            "Local: Grillad karré med Edisons bea, rostad färskpotatis & vaxbönor",
+            "World Wide: Spicybeef salad med glasnudlar, bakad lök, jordnötter & koriander"
+          ]
+        },
+        {
+          "day": "Torsdag",
+          "lines": [
+            "Green: Bönbiff med tabbouleh, citroncreme & majs",
+            "Local: Kalkonstek med melonsallad, aioli & örtbakad färskpotatis",
+            "World Wide: Gochujangglacerad fläsksida med kimchi, jasminris & krispigt grönt"
+          ]
+        },
+        {
+          "day": "Fredag",
+          "lines": [
+            "Green: Risotto med jordärtskocka, knippmorot, gremolata & machésallad",
+            "Local: Rimmad sej med sandefjordsås, gulbetor & gräslök",
+            "World Wide: Laab Moo med ris, thaibasilika, böngroddar & nuoc cham"
+          ]
+        }
+      ],
+      "hours": {
+        "mon": [
+          {
+            "open": "11:15",
+            "close": "13:30"
+          }
+        ],
+        "tue": [
+          {
+            "open": "11:15",
+            "close": "13:30"
+          }
+        ],
+        "wed": [
+          {
+            "open": "11:15",
+            "close": "13:30"
+          }
+        ],
+        "thu": [
+          {
+            "open": "11:15",
+            "close": "13:30"
+          }
+        ],
+        "fri": [
+          {
+            "open": "11:15",
+            "close": "13:30"
+          }
+        ],
+        "sat": [],
+        "sun": []
+      },
+      "asOf": "2026-06-09T08:47:36.382Z"
     },
     {
       "name": "Restaurang & Café Inspira",
       "address": "Scheelevägen 4, Lund",
       "website": "https://restauranginspira.se/",
-      "menu": [],
-      "error": {
-        "source": "inspira",
-        "error": "Restaurang & Café Inspira: 415 Unsupported Media Type"
-      }
+      "menu": [
+        {
+          "day": "Måndag",
+          "lines": [
+            "Green | Pasta med broccoli: kapris | mozzarella & soltorkad tomat",
+            "Local | Helstekt kotlett: citron & persiljevinegrätt | rostad potatis & Haricots Verts",
+            "Asia | Thai grön curry: kyckling | bambu | bönor | jasminris & groddar"
+          ]
+        },
+        {
+          "day": "Tisdag",
+          "lines": [
+            "Green | Paneér Tikka Masala: basmatiris | naan & blomkål",
+            "Local | Ugnsbakad lax: Romsås | färskpotatis & sockerärtor",
+            "Asia | Thai grön curry: kyckling | bambu | bönor | jasminris & groddar"
+          ]
+        },
+        {
+          "day": "Onsdag",
+          "lines": [
+            "Green | Sparrisrisotto: fänkålssallad & Pangrattato",
+            "Local | Gräddig kycklinggryta: citron | körvel | färskpotatis & bakad morot",
+            "Asia | Yakisoba (nötfärs): äggnudlar | kål | morot | ingefära | Tonkatsu & sjögräs"
+          ]
+        },
+        {
+          "day": "Torsdag",
+          "lines": [
+            "Green | Aloo tikki (indisk potatisbulle): chaatsallad & yoghurt",
+            "Local | Köttfärslimpa: Dijonsås | rostad potatis | bacon & bakad kål",
+            "Asia | Yakisoba (nötfärs): äggnudlar | kål | morot | ingefära | Tonkatsu & sjögräs"
+          ]
+        },
+        {
+          "day": "Fredag",
+          "lines": [
+            "Green | Enchilada: bönor | lök & paprika | ris & tomatsalsa",
+            "Local | Tri tip (kalv): chutney på grön tomat & jalapeño | potatisstomp & bakad lök",
+            "World | Linguini Bolognese: parmesan & ruccola"
+          ]
+        }
+      ],
+      "hours": {
+        "mon": [
+          {
+            "open": "11:30",
+            "close": "13:30"
+          }
+        ],
+        "tue": [
+          {
+            "open": "11:30",
+            "close": "13:30"
+          }
+        ],
+        "wed": [
+          {
+            "open": "11:30",
+            "close": "13:30"
+          }
+        ],
+        "thu": [
+          {
+            "open": "11:30",
+            "close": "13:30"
+          }
+        ],
+        "fri": [
+          {
+            "open": "11:30",
+            "close": "13:30"
+          }
+        ],
+        "sat": [],
+        "sun": []
+      },
+      "asOf": "2026-06-09T08:47:36.382Z"
     },
     {
       "name": "Troppo",
@@ -240,7 +464,8 @@
         ],
         "sat": [],
         "sun": []
-      }
+      },
+      "asOf": "2026-06-09T08:47:36.382Z"
     },
     {
       "name": "Laziza",
@@ -288,17 +513,62 @@
         ],
         "sat": [],
         "sun": []
-      }
+      },
+      "asOf": "2026-06-09T08:47:36.382Z"
     },
     {
       "name": "Aiko Sushi Brunnshög",
       "address": "Systemeraregatan 3, Lund",
       "website": "https://www.aikosushi.se/lunch",
-      "menu": [],
-      "error": {
-        "source": "aiko",
-        "error": "aiko: 415 Unsupported Media Type"
-      }
+      "note": "Inkl. misosoppa, vatten & kaffe",
+      "price": "80–149kr",
+      "menu": [
+        {
+          "day": "Hela veckan",
+          "lines": [
+            "Mixad sushi: 109/129/149kr (11/13/16 bitar) · finns vegetarisk",
+            "Mixad nigiri: 119/139kr (9/12 bitar) · finns vegetarisk",
+            "Sushi Dog: 80kr to-go / 95kr eat-in · 8 fyllningar att välja",
+            "Varmrätt: wokade udon nudlar 119kr (kyckling eller tofu)",
+            "Poké Bowl: 129kr kall / 139kr varm"
+          ]
+        }
+      ],
+      "hours": {
+        "mon": [
+          {
+            "open": "11:00",
+            "close": "14:30"
+          }
+        ],
+        "tue": [
+          {
+            "open": "11:00",
+            "close": "14:30"
+          }
+        ],
+        "wed": [
+          {
+            "open": "11:00",
+            "close": "14:30"
+          }
+        ],
+        "thu": [
+          {
+            "open": "11:00",
+            "close": "14:30"
+          }
+        ],
+        "fri": [
+          {
+            "open": "11:00",
+            "close": "14:30"
+          }
+        ],
+        "sat": [],
+        "sun": []
+      },
+      "asOf": "2026-06-09T08:47:36.382Z"
     }
   ]
 }
