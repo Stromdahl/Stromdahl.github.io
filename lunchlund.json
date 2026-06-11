@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-10T09:05:48.190Z",
+  "fetchedAt": "2026-06-11T09:52:01.473Z",
   "restaurants": [
     {
       "name": "Bricks Eatery",
@@ -46,8 +46,8 @@
         {
           "day": "Fredag",
           "lines": [
-            "Green: Rödbetsbiff med pommes frites, rödvinssås, kryddsmör, gröna bönor och kapris",
-            "Local: Biff Lindström med pommes frites, rödvinssås, kryddsmör, gröna bönor och kapris",
+            "Green: Rödbetsbiff med rostad potatis, rödvinssås, kryddsmör, gröna bönor och kapris",
+            "Local: Biff Lindström med rostad potatis, rödvinssås, kryddsmör, gröna bönor och kapris",
             "World wide: Indisk spenatgryta med kyckling, vitlöksbröd, ris, gurksallad och vårlök"
           ]
         }
@@ -86,7 +86,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-06-10T09:05:48.190Z"
+      "asOf": "2026-06-11T09:52:01.473Z"
     },
     {
       "name": "Eatery Lund",
@@ -166,13 +166,14 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-06-10T09:05:48.190Z"
+      "asOf": "2026-06-11T09:52:01.473Z"
     },
     {
       "name": "Kantin",
       "address": "Brunnshögsgatan 14, Lund",
       "website": "https://www.kantinlund.se/",
       "walkMinutes": 7,
+      "note": "Meny 8/6 – 12/6",
       "menu": [
         {
           "day": "Måndag",
@@ -215,7 +216,6 @@
           ]
         }
       ],
-      "note": "Meny 8/6 – 12/6",
       "hours": {
         "mon": [
           {
@@ -250,12 +250,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-06-10T08:18:48.672Z",
-      "stale": true,
-      "error": {
-        "source": "kantin",
-        "error": "kantin: 503 Service Unavailable"
-      }
+      "asOf": "2026-06-11T09:52:01.473Z"
     },
     {
       "name": "Restaurang Edison",
@@ -340,7 +335,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-06-10T09:05:48.190Z"
+      "asOf": "2026-06-11T09:52:01.473Z"
     },
     {
       "name": "Restaurang & Café Inspira",
@@ -423,7 +418,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-06-10T09:05:48.190Z"
+      "asOf": "2026-06-11T09:52:01.473Z"
     },
     {
       "name": "Troppo",
@@ -476,13 +471,14 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-06-10T09:05:48.190Z"
+      "asOf": "2026-06-11T09:52:01.473Z"
     },
     {
       "name": "Laziza",
       "address": "Scheelevägen 15K, Lund",
       "website": "https://www.laziza.se/lunch/",
       "walkMinutes": 16,
+      "price": "145 kr / 115 kr (take away)",
       "menu": [
         {
           "day": "Hela veckan",
@@ -491,7 +487,6 @@
           ]
         }
       ],
-      "price": "145 kr / 115 kr (take away)",
       "hours": {
         "mon": [
           {
@@ -526,12 +521,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-06-10T08:18:48.672Z",
-      "stale": true,
-      "error": {
-        "source": "laziza",
-        "error": "laziza: 503 Service Unavailable"
-      }
+      "asOf": "2026-06-11T09:52:01.473Z"
     },
     {
       "name": "Aiko Sushi Brunnshög",
@@ -586,7 +576,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-06-10T09:05:48.190Z"
+      "asOf": "2026-06-11T09:52:01.473Z"
     }
   ]
 }
