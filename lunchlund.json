@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-18T09:56:20.013Z",
+  "fetchedAt": "2026-06-19T10:02:31.125Z",
   "restaurants": [
     {
       "name": "Bricks Eatery",
@@ -84,7 +84,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-06-18T09:56:20.013Z"
+      "asOf": "2026-06-19T10:02:31.125Z"
     },
     {
       "name": "Eatery Lund",
@@ -169,7 +169,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-06-18T09:56:20.013Z"
+      "asOf": "2026-06-19T10:02:31.125Z"
     },
     {
       "name": "Kantin",
@@ -251,54 +251,54 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-06-18T09:56:20.013Z"
+      "asOf": "2026-06-19T10:02:31.125Z"
     },
     {
       "name": "Restaurang Edison",
       "address": "Emdalavägen 6B, Lund",
       "website": "https://restaurangedison.se/lunch/",
       "walkMinutes": 11,
-      "note": "Vecka 25",
+      "note": "Vecka 26",
       "price": "115:-",
       "menu": [
         {
           "day": "Måndag",
           "lines": [
-            "Green: Gul Currygryta med bakad aubergine, ris & sesamstekt tofu",
-            "Local: Kyckling med apelsinsmörsås, gröna bönor & rosmarinrostad potatis",
-            "World Wide: Grekisk limpa med soltorkad tomat, örtbakad zucchini & tzatziki"
+            "Green: Gulärtsfalafel med vitlökscreme, tomat, rödlök, persilja & libabröd",
+            "Local: Köttbullar med potatispuré, pressgurka, gräddsås & lingon",
+            "World Wide: Biff med bambu, purjolök, ris & böngroddar"
           ]
         },
         {
           "day": "Tisdag",
           "lines": [
-            "Green: Grillad sommarkål med kornris, örtig smörsås & hasselnötter",
-            "Local: Wallenbergare med potatispuré, brynt smör, lingon & gröna ärtor",
-            "World Wide: Pepparstekt karré med nektarin, svart vitlök & kanarisk potatis"
+            "Green: Surdegstoast “Chevre Chaud” med honungsmarinerad rödbeta & vattenkrasse",
+            "Local: Fläskbog med picklad morot, krasse, rökt yoghurt & hasselnötter",
+            "World Wide: Kycklingsteak med svamprisotto, bakad knipplök, rotselleri & machésallad"
           ]
         },
         {
           "day": "Onsdag",
           "lines": [
-            "Green: Rostad tomatsoppa med risoni, paprika, vårlök & vitlöksbröd",
-            "Local: Grillad pluma med potatissallad, äpple & krassecreme",
-            "World Wide: Jerkkryddad kycklingklubba med sötpotatisaioli, ananassalsa, bönor & kokos"
+            "Green: Pannoumi burgare med briochebröd, jalapenomajo, picklad lök & sallad",
+            "Local: Sprödbakad kolja med remouladsås, fänkål, ärtor & citron",
+            "World Wide: Schnitzel med jalapenosmör, haricot vertes & rostad potatis"
           ]
         },
         {
           "day": "Torsdag",
           "lines": [
-            "Green: Krispig fetaost med ärtpesto, dillpotatis & citron",
-            "Local: Panerad torsk med gubbaröra, kokt färskpotatis, rädisor & gräslök",
-            "World Wide: Mexikansk lasagne med pico de gallo, bönsallad & ruccola"
+            "Green: Krispig potatisbulle med cheddar, rostad kål & päron",
+            "Local: Grillat högrev med gräslöks”bea”, rabarb & rostad potatis",
+            "World Wide: Pulled pork med surkål, äpple, dijon & klyftpotatis"
           ]
         },
         {
           "day": "Fredag",
           "lines": [
-            "Green: MIDSOMMARAFTON!",
-            "Local: GLAD MIDSOMMAR ÖNSKAR EDISON!",
-            "World Wide"
+            "Green: Pasta med linsbolognese, ruccola, bakad tomat & granapadano",
+            "Local: Pannbiff med löksky, sotad gurka, picklade senapsfrö & kokt potatis",
+            "World Wide: Chicken Biryani med saffransris, mandel, russin & myntayoghurt"
           ]
         }
       ],
@@ -336,7 +336,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-06-18T09:56:20.013Z"
+      "asOf": "2026-06-19T10:02:31.125Z"
     },
     {
       "name": "Restaurang & Café Inspira",
@@ -420,7 +420,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-06-18T09:56:20.013Z"
+      "asOf": "2026-06-19T10:02:31.125Z"
     },
     {
       "name": "Troppo",
@@ -473,7 +473,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-06-18T09:56:20.013Z"
+      "asOf": "2026-06-19T10:02:31.125Z"
     },
     {
       "name": "Laziza",
@@ -523,7 +523,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-06-18T09:56:20.013Z"
+      "asOf": "2026-06-19T10:02:31.125Z"
     },
     {
       "name": "Aiko Sushi Brunnshög",
@@ -578,7 +578,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-06-18T09:56:20.013Z"
+      "asOf": "2026-06-19T10:02:31.125Z"
     }
   ]
 }
