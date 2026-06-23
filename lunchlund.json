@@ -1,11 +1,13 @@
 {
-  "fetchedAt": "2026-06-22T11:16:47.636Z",
+  "fetchedAt": "2026-06-23T08:44:35.518Z",
   "restaurants": [
     {
       "name": "Bricks Eatery",
       "address": "Mobilvägen 12, Lund",
       "website": "https://brickseatery.se/",
       "walkMinutes": 2,
+      "note": "Lunchmeny V26",
+      "price": "115:- ink. Kaffe",
       "menu": [
         {
           "day": "Måndag",
@@ -49,8 +51,6 @@
           ]
         }
       ],
-      "note": "Lunchmeny V26",
-      "price": "115:- ink. Kaffe",
       "hours": {
         "mon": [
           {
@@ -85,12 +85,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-06-22T10:17:34.301Z",
-      "stale": true,
-      "error": {
-        "source": "bricks",
-        "error": "elementor lunch: no day menus found"
-      }
+      "asOf": "2026-06-23T08:44:35.518Z"
     },
     {
       "name": "Eatery Lund",
@@ -177,13 +172,14 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-06-22T11:16:47.636Z"
+      "asOf": "2026-06-23T08:44:35.518Z"
     },
     {
       "name": "Kantin",
       "address": "Brunnshögsgatan 14, Lund",
       "website": "https://www.kantinlund.se/",
       "walkMinutes": 7,
+      "note": "Meny 22/6 – 25/6",
       "menu": [
         {
           "day": "Måndag",
@@ -224,7 +220,6 @@
           ]
         }
       ],
-      "note": "Meny 22/6 – 25/6",
       "hours": {
         "mon": [
           {
@@ -259,18 +254,15 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-06-22T10:17:34.301Z",
-      "stale": true,
-      "error": {
-        "source": "kantin",
-        "error": "fetch failed"
-      }
+      "asOf": "2026-06-23T08:44:35.518Z"
     },
     {
       "name": "Restaurang Edison",
       "address": "Emdalavägen 6B, Lund",
       "website": "https://restaurangedison.se/lunch/",
       "walkMinutes": 11,
+      "note": "Vecka 26",
+      "price": "115:-",
       "menu": [
         {
           "day": "Måndag",
@@ -313,8 +305,6 @@
           ]
         }
       ],
-      "note": "Vecka 26",
-      "price": "115:-",
       "hours": {
         "mon": [
           {
@@ -349,12 +339,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-06-22T10:17:34.301Z",
-      "stale": true,
-      "error": {
-        "source": "edison",
-        "error": "elementor lunch: no day menus found"
-      }
+      "asOf": "2026-06-23T08:44:35.518Z"
     },
     {
       "name": "Restaurang & Café Inspira",
@@ -432,12 +417,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-06-22T10:17:34.301Z",
-      "stale": true,
-      "error": {
-        "source": "inspira",
-        "error": "elementor lunch: no day menus found"
-      }
+      "asOf": "2026-06-23T08:44:35.518Z"
     },
     {
       "name": "Troppo",
@@ -490,13 +470,14 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-06-22T11:16:47.636Z"
+      "asOf": "2026-06-23T08:44:35.518Z"
     },
     {
       "name": "Laziza",
       "address": "Scheelevägen 15K, Lund",
       "website": "https://www.laziza.se/lunch/",
       "walkMinutes": 16,
+      "price": "145 kr / 115 kr (take away)",
       "menu": [
         {
           "day": "Hela veckan",
@@ -505,7 +486,6 @@
           ]
         }
       ],
-      "price": "145 kr / 115 kr (take away)",
       "hours": {
         "mon": [
           {
@@ -540,18 +520,15 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-06-22T10:17:34.301Z",
-      "stale": true,
-      "error": {
-        "source": "laziza",
-        "error": "fetch failed"
-      }
+      "asOf": "2026-06-23T08:44:35.518Z"
     },
     {
       "name": "Aiko Sushi Brunnshög",
       "address": "Systemeraregatan 3, Lund",
       "website": "https://www.aikosushi.se/lunch",
       "walkMinutes": 6,
+      "note": "Inkl. misosoppa, vatten & kaffe",
+      "price": "80–149kr",
       "menu": [
         {
           "day": "Hela veckan",
@@ -564,8 +541,6 @@
           ]
         }
       ],
-      "note": "Inkl. misosoppa, vatten & kaffe",
-      "price": "80–149kr",
       "hours": {
         "mon": [
           {
@@ -600,12 +575,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-06-22T10:17:34.301Z",
-      "stale": true,
-      "error": {
-        "source": "aiko",
-        "error": "aiko: missing 'Lunch Erbjudande' heading"
-      }
+      "asOf": "2026-06-23T08:44:35.518Z"
     }
   ]
 }
