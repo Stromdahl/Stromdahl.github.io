@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-24T08:40:01.724Z",
+  "fetchedAt": "2026-06-25T08:39:51.438Z",
   "restaurants": [
     {
       "name": "Bricks Eatery",
@@ -85,7 +85,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-06-24T08:40:01.724Z"
+      "asOf": "2026-06-25T08:39:51.438Z"
     },
     {
       "name": "Eatery Lund",
@@ -172,7 +172,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-06-24T08:40:01.724Z"
+      "asOf": "2026-06-25T08:39:51.438Z"
     },
     {
       "name": "Kantin",
@@ -185,7 +185,6 @@
           "day": "Måndag",
           "lines": [
             "Veckans vegetariska: Rostad spetskål – blancherade bönor – kokt färskpotatis – beurre blanc – rostade frön – örter",
-            "Månadens alternativ: Varmrökt lax – citronaioli – sallad – broccoli – bönor – rädisor – frökrisp – dill",
             "Kycklinglårfilé – teriyakiglaze – ris – gochujangmajo – bönor – picklad rödkål – koriander"
           ]
         },
@@ -193,7 +192,6 @@
           "day": "Tisdag",
           "lines": [
             "Veckans vegetariska: Rostad spetskål – blancherade bönor – kokt färskpotatis – beurre blanc – rostade frön – örter",
-            "Månadens alternativ: Varmrökt lax – citronaioli – sallad – broccoli – bönor – rädisor – frökrisp – dill",
             "Hangersteak – chorizomajo – pickles – ljummen potatissallad med paprika & oliver – ruccola – frön"
           ]
         },
@@ -201,7 +199,6 @@
           "day": "Onsdag",
           "lines": [
             "Veckans vegetariska: Rostad spetskål – blancherade bönor – kokt färskpotatis – beurre blanc – rostade frön – örter",
-            "Månadens alternativ: Varmrökt lax – citronaioli – sallad – broccoli – bönor – rädisor – frökrisp – dill",
             "Lasagne – ostsås – tomat – ruccola – pickles – rostade frön"
           ]
         },
@@ -209,7 +206,6 @@
           "day": "Torsdag",
           "lines": [
             "Veckans vegetariska: Rostad spetskål – blancherade bönor – kokt färskpotatis – beurre blanc – rostade frön – örter",
-            "Månadens alternativ: Varmrökt lax – citronaioli – sallad – broccoli – bönor – rädisor – frökrisp – dill",
             "Oxtartar – kimcheemajo – rostad broccoli – pickles – rostad lök – örter"
           ]
         },
@@ -254,7 +250,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-06-24T08:40:01.724Z"
+      "asOf": "2026-06-25T08:39:51.438Z"
     },
     {
       "name": "Restaurang Edison",
@@ -339,7 +335,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-06-24T08:40:01.724Z"
+      "asOf": "2026-06-25T08:39:51.438Z"
     },
     {
       "name": "Restaurang & Café Inspira",
@@ -417,7 +413,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-06-24T08:40:01.724Z"
+      "asOf": "2026-06-25T08:39:51.438Z"
     },
     {
       "name": "Troppo",
@@ -470,7 +466,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-06-24T08:40:01.724Z"
+      "asOf": "2026-06-25T08:39:51.438Z"
     },
     {
       "name": "Laziza",
@@ -520,7 +516,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-06-24T08:40:01.724Z"
+      "asOf": "2026-06-25T08:39:51.438Z"
     },
     {
       "name": "Aiko Sushi Brunnshög",
@@ -575,7 +571,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-06-24T08:40:01.724Z"
+      "asOf": "2026-06-25T08:39:51.438Z"
     }
   ]
 }
