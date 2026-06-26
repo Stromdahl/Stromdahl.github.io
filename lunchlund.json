@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-25T08:39:51.438Z",
+  "fetchedAt": "2026-06-26T08:39:43.179Z",
   "restaurants": [
     {
       "name": "Bricks Eatery",
@@ -85,7 +85,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-06-25T08:39:51.438Z"
+      "asOf": "2026-06-26T08:39:43.179Z"
     },
     {
       "name": "Eatery Lund",
@@ -172,47 +172,37 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-06-25T08:39:51.438Z"
+      "asOf": "2026-06-26T08:39:43.179Z"
     },
     {
       "name": "Kantin",
       "address": "Brunnshögsgatan 14, Lund",
       "website": "https://www.kantinlund.se/",
       "walkMinutes": 7,
-      "note": "Meny 22/6 – 25/6",
+      "note": "Meny 10/8 – 14/8",
       "menu": [
         {
           "day": "Måndag",
           "lines": [
-            "Veckans vegetariska: Rostad spetskål – blancherade bönor – kokt färskpotatis – beurre blanc – rostade frön – örter",
-            "Kycklinglårfilé – teriyakiglaze – ris – gochujangmajo – bönor – picklad rödkål – koriander"
+            "10/8Kycklingsteak – vitlöksyoghurt – gurka – haricot verts – romansallad – fröer- potatis"
           ]
         },
         {
           "day": "Tisdag",
           "lines": [
-            "Veckans vegetariska: Rostad spetskål – blancherade bönor – kokt färskpotatis – beurre blanc – rostade frön – örter",
-            "Hangersteak – chorizomajo – pickles – ljummen potatissallad med paprika & oliver – ruccola – frön"
-          ]
-        },
-        {
-          "day": "Onsdag",
-          "lines": [
-            "Veckans vegetariska: Rostad spetskål – blancherade bönor – kokt färskpotatis – beurre blanc – rostade frön – örter",
-            "Lasagne – ostsås – tomat – ruccola – pickles – rostade frön"
+            "11/8Pulled beef – habaneromajo – pickles – rostad lök – mâche – rostad potatis"
           ]
         },
         {
           "day": "Torsdag",
           "lines": [
-            "Veckans vegetariska: Rostad spetskål – blancherade bönor – kokt färskpotatis – beurre blanc – rostade frön – örter",
-            "Oxtartar – kimcheemajo – rostad broccoli – pickles – rostad lök – örter"
+            "13/8Oxtartar – jalapeñomajo – syrad lök – paprika – tortillakrisp – hjärtsallad"
           ]
         },
         {
           "day": "Fredag",
           "lines": [
-            "Sommarstängt"
+            "14/8Hangersteak – bearnaisemajo – tomatsallad – gröna bönor- rostad potatis"
           ]
         }
       ],
@@ -250,7 +240,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-06-25T08:39:51.438Z"
+      "asOf": "2026-06-26T08:39:43.179Z"
     },
     {
       "name": "Restaurang Edison",
@@ -335,7 +325,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-06-25T08:39:51.438Z"
+      "asOf": "2026-06-26T08:39:43.179Z"
     },
     {
       "name": "Restaurang & Café Inspira",
@@ -413,7 +403,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-06-25T08:39:51.438Z"
+      "asOf": "2026-06-26T08:39:43.179Z"
     },
     {
       "name": "Troppo",
@@ -466,7 +456,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-06-25T08:39:51.438Z"
+      "asOf": "2026-06-26T08:39:43.179Z"
     },
     {
       "name": "Laziza",
@@ -516,7 +506,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-06-25T08:39:51.438Z"
+      "asOf": "2026-06-26T08:39:43.179Z"
     },
     {
       "name": "Aiko Sushi Brunnshög",
@@ -571,7 +561,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-06-25T08:39:51.438Z"
+      "asOf": "2026-06-26T08:39:43.179Z"
     }
   ]
 }
