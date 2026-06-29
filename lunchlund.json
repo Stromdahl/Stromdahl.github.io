@@ -1,43 +1,43 @@
 {
-  "fetchedAt": "2026-06-26T08:39:43.179Z",
+  "fetchedAt": "2026-06-29T10:11:05.550Z",
   "restaurants": [
     {
       "name": "Bricks Eatery",
       "address": "Mobilvägen 12, Lund",
       "website": "https://brickseatery.se/",
       "walkMinutes": 2,
-      "note": "Lunchmeny V26",
+      "note": "Lunchmeny V27",
       "price": "115:- ink. Kaffe",
       "menu": [
         {
           "day": "Måndag",
           "lines": [
-            "Green: Kålpannkaka med coleslaw, pickles, chilisås och äpple",
-            "Local: Färsbiff med örtmajonnäs, rostad potatis, tomat/gurksallad och krispig potatis",
-            "World wide: Grön thaicurry med kyckling, grönsaker, rostad kokos, ris, koriander och böngroddar"
+            "Green: Lufsa (raggmunk i långpanna) med morot, lingon, färskost, mandel, kål och äpple",
+            "Local: Köttfärslimpa med svampsås, rostade rödbetor, svartvinbärsgele och potatismos",
+            "Bonus: Kom in så berättar vi mer 🙂"
           ]
         },
         {
           "day": "Tisdag",
           "lines": [
-            "Green: Indisk Daal med vitlöksbröd, gurkraita, ris och bladspenat",
-            "Worldwide: Thailändsk nudelwok med kyckling, grönsaker, ostronsås, bakat ägg, jordnötter",
+            "Green: Tempurafriterade grönsaker med glasnudlar, sojabönor, picklad gurka och limemajonnäs",
+            "Worldwide: Indisk curry med kyckling, naanbröd, paprika, kikärtor, yoghurt och ris",
             "Bonus rätt: Kom in så berättar vi mer 🙂"
           ]
         },
         {
           "day": "Onsdag",
           "lines": [
-            "Green: Vegetariska vårrullar med stekt ris, grönsaker, chilimajonnäs och zucchini",
-            "Local: Dagens fångst med äggsås, ärtor, rädisa, dill och potatismos",
-            "World Wide: Pad kra pao- stekt fläskfärs med vitlök, chili, thaibasilika, gröna bönor, ägg, ostronsås och ris"
+            "Green: Grönsakswok med hoisinsås, ris, stekt ägg, koriander och chili",
+            "World wide: Vitello tonnato- tunt skuret kalvkött med råfriterad potatis, tonfisksås, kapris, citron och ruccola",
+            "Bonus: Kom in så berättar vi mer 🙂"
           ]
         },
         {
           "day": "Torsdag",
           "lines": [
-            "Green: Aranchinis med tryffelmajonnäs, lagrad ost, romansallad, zucchini, och picklad lök",
-            "World Wide: Chili på högrev/nötfärs med paprika, lök, nachos, ris, syrad grädde och persilja",
+            "Green: Pasta med tryffelsås, dragonrostad zucchini, champinjoner, lagrad ost och ruccola",
+            "Local: Fish Taco med mangosalsa, ris, srirachamajonnäs, picklad rödlök, majs och jalapeno",
             "Bonusrätt: Kom in så berättar vi mer 🙂",
             "Äppelpaj: Idag bjuder vi våra lunchgäster på äppelpaj med vaniljgrädde"
           ]
@@ -45,9 +45,8 @@
         {
           "day": "Fredag",
           "lines": [
-            "Green: Pasta med tomatsås, ricotta, basilika och pangrattato",
-            "Local: Pepparstekt fläskkarré med tryffelmajonnäs, pommes frites, bakad tomat, grillad spetskål och dragon",
-            "Bonusrätt: Kom in så berättar vi mer 🙂"
+            "Green: Sticky tzay (sojaprotein) med ris, kål/mangosallad, sesammajonnäs och koriander",
+            "Local: Grillad fläskytterfilé med chimichurri, dragonmajonnäs, rostad potatis och tomatsallad"
           ]
         }
       ],
@@ -85,56 +84,57 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-06-26T08:39:43.179Z"
+      "asOf": "2026-06-29T10:11:05.550Z"
     },
     {
       "name": "Eatery Lund",
       "address": "Mobilvägen 4, Lund",
       "website": "https://eatery.se/anlaggningar/lund",
       "walkMinutes": 2,
-      "note": "Lunchmeny V26",
+      "note": "Lunchmeny V27",
       "price": "139kr (early-bird 132kr 11:00 - 11:30)",
       "menu": [
         {
           "day": "Måndag",
           "lines": [
-            "Biff teriyaki med picklad rödkål, sesam, jasminris med krispig lök",
-            "Thai fishcakes med chili, ingefära & röd curry, sweet chili sås, jasminris med sesam och salladslök",
-            "Chili sin carne med hemmagjorda tortillachips, rostad paprika och ris"
+            "Panko och parmesanpanerad kyckling med krämig tomat & basilikasås, fänkålsbakad potatis,",
+            "rostad zucchinisallad",
+            "Fiskbiffar med citron & gräslökssås, potatissallad med rädisa, sockerärtor, kapris & tomat, rostade pumpafrön",
+            "Vegetarisk kung pao på blomkål, paprika, tofu & jordnötter, ris"
           ]
         },
         {
           "day": "Tisdag",
           "lines": [
-            "Krispig kyckling med gochugangglaze, picklade grönsaker och jasminris",
-            "Krämig laxpasta med tomat, dill och spenat, syrlig fänkål och örttopping",
-            "Palak paneer med panoumi, kokos och spenat, paprika och koriandersallad, basmatiris",
+            "Korean pulled pork sandwich med honung, chili & sojaglaze, picklade grönsaker, jordnötscrunch, klyftpotatis",
+            "Vinbakad kummel med gurka, rädisa, räkor & dill, krämig saffransås, bakad morot & potatismos",
+            "Pankopanerade potatis och kikärtsbiffar med rostad kål, currykräm & örtbulgur",
             "Sweet Tuesday: Vi bjuder på något sött till kaffet!"
           ]
         },
         {
           "day": "Onsdag",
           "lines": [
-            "Färsbiff med ölbakad lök, skysås, rostad potatis och inlagd gurka",
-            "Friterad kummel med dillmajonnäs, picklade grönsaker & kokt potatis med smör och gräslök",
-            "Linscurry med kålsallad, jasminris och mango raita"
+            "Kålpudding med rårörda lingon, inlagd gurka, gräddsås & kokt potatis",
+            "Panerad kungsfisk med tartarsås, sallad på gröna ärtor & sojabönor, kokt potatis med dill & smör",
+            "Cannelloni med ratatouille, burrata, gremolata & spenatsallad"
           ]
         },
         {
           "day": "Torsdag",
           "lines": [
-            "Helstekt kotlett, pepparsås, rostad potatis med bacon, lök & lagrad ost, grön bönsallad",
-            "Pestobakad sej med bakad fänkål, dill och potatismos med gräslök",
-            "Tortelloni med ricotta & spenat, svampragu, citron & basilika ricotta, sallad på ruccola & zucchini",
+            "Kycklingcurry med äpple & rödkålssallad, grönsaksris & sesamcrunch",
+            "Bakad alaskafilé med gubbröra, hyvlad morotssallad, dill-citronpotatis & krassekräm",
+            "Röd currygryta med oumph, grönsaker, koriander & jasminris",
             "Pancake Thursday: Vi bjuder på pannkakor, lättvispad grädde och hemmagjord sylt!"
           ]
         },
         {
           "day": "Fredag",
           "lines": [
-            "Porcetta Di Fano, salsa verde, tomat, bönor, zucchini och klyftpotatis",
-            "Rimmad kungsfisk med brynt smör, ägg, räkor och kokt potatis",
-            "Morotsbiffar med tomat och kikärtssallad, tzatziki och klyftpotatis med paprika och chili"
+            "Wallenbergare med potatispuré, skirat smör & rårörda lingon",
+            "Sesamstekt sej med soja-ingefärsbakad pak choi, chiliolja, gochujangmajo & ris",
+            "Svampmacka med västerbotten, bakade tomater, ruccola & picklad lök"
           ]
         }
       ],
@@ -172,122 +172,65 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-06-26T08:39:43.179Z"
+      "asOf": "2026-06-29T10:11:05.550Z"
     },
     {
       "name": "Kantin",
       "address": "Brunnshögsgatan 14, Lund",
       "website": "https://www.kantinlund.se/",
       "walkMinutes": 7,
-      "note": "Meny 10/8 – 14/8",
-      "menu": [
-        {
-          "day": "Måndag",
-          "lines": [
-            "10/8Kycklingsteak – vitlöksyoghurt – gurka – haricot verts – romansallad – fröer- potatis"
-          ]
-        },
-        {
-          "day": "Tisdag",
-          "lines": [
-            "11/8Pulled beef – habaneromajo – pickles – rostad lök – mâche – rostad potatis"
-          ]
-        },
-        {
-          "day": "Torsdag",
-          "lines": [
-            "13/8Oxtartar – jalapeñomajo – syrad lök – paprika – tortillakrisp – hjärtsallad"
-          ]
-        },
-        {
-          "day": "Fredag",
-          "lines": [
-            "14/8Hangersteak – bearnaisemajo – tomatsallad – gröna bönor- rostad potatis"
-          ]
-        }
-      ],
-      "hours": {
-        "mon": [
-          {
-            "open": "11:00",
-            "close": "15:00"
-          }
-        ],
-        "tue": [
-          {
-            "open": "11:00",
-            "close": "15:00"
-          }
-        ],
-        "wed": [
-          {
-            "open": "11:00",
-            "close": "15:00"
-          }
-        ],
-        "thu": [
-          {
-            "open": "11:00",
-            "close": "15:00"
-          }
-        ],
-        "fri": [
-          {
-            "open": "11:00",
-            "close": "15:00"
-          }
-        ],
-        "sat": [],
-        "sun": []
-      },
-      "asOf": "2026-06-26T08:39:43.179Z"
+      "menu": [],
+      "error": {
+        "source": "kantin",
+        "error": "fetch failed"
+      }
     },
     {
       "name": "Restaurang Edison",
       "address": "Emdalavägen 6B, Lund",
       "website": "https://restaurangedison.se/lunch/",
       "walkMinutes": 11,
-      "note": "Vecka 26",
+      "note": "Vecka 27",
       "price": "115:-",
       "menu": [
         {
           "day": "Måndag",
           "lines": [
-            "Green: Gulärtsfalafel med vitlökscreme, tomat, rödlök, persilja & libabröd",
-            "Local: Köttbullar med potatispuré, pressgurka, gräddsås & lingon",
-            "World Wide: Biff med bambu, purjolök, ris & böngroddar"
+            "Green: Stängt pga renovering.",
+            "Local: Välkomna åter 10/8!",
+            "World Wide: Glad Sommar önskar vi på Edison!"
           ]
         },
         {
           "day": "Tisdag",
           "lines": [
-            "Green: Surdegstoast “Chevre Chaud” med honungsmarinerad rödbeta & vattenkrasse",
-            "Local: Fläskbog med picklad morot, krasse, rökt yoghurt & hasselnötter",
-            "World Wide: Kycklingsteak med svamprisotto, bakad knipplök, rotselleri & machésallad"
+            "Green: Stängt pga renovering.",
+            "Local: Välkomna åter 10/8!",
+            "World Wide: Glad Sommar önskar vi på Edison!"
           ]
         },
         {
           "day": "Onsdag",
           "lines": [
-            "Green: Pannoumi burgare med briochebröd, jalapenomajo, picklad lök & sallad",
-            "Local: Sprödbakad kolja med remouladsås, fänkål, ärtor & citron",
-            "World Wide: Schnitzel med jalapenosmör, haricot vertes & rostad potatis"
+            "Green: Stängt pga renovering.",
+            "Local: Välkomna åter 10/8!",
+            "World Wide: Glad Sommar önskar vi på Edison!"
           ]
         },
         {
           "day": "Torsdag",
           "lines": [
-            "Green: Krispig potatisbulle med cheddar, rostad kål & päron",
-            "Local: Grillat högrev med gräslöks”bea”, rabarb & rostad potatis",
-            "World Wide: Pulled pork med surkål, äpple, dijon & klyftpotatis"
+            "Green: Stängt pga renovering.",
+            "Local: Välkomna åter 10/8!",
+            "World Wide: Glad Sommar önskar vi på Edison!"
           ]
         },
         {
           "day": "Fredag",
           "lines": [
-            "Green: Pasta med linsbolognese, ruccola, bakad tomat & granapadano",
-            "Local: Pannbiff med löksky, sotad gurka, picklade senapsfrö & kokt potatis",
-            "World Wide: Chicken Biryani med saffransris, mandel, russin & myntayoghurt"
+            "Green: Stängt pga renovering.",
+            "Local: Välkomna åter 10/8!",
+            "World Wide: Glad Sommar önskar vi på Edison!"
           ]
         }
       ],
@@ -325,7 +268,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-06-26T08:39:43.179Z"
+      "asOf": "2026-06-29T10:11:05.550Z"
     },
     {
       "name": "Restaurang & Café Inspira",
@@ -336,36 +279,36 @@
         {
           "day": "Måndag",
           "lines": [
-            "Green | Pineapple thai tofu: jasminris | groddar & koriander",
-            "Local | Lammfärsbiff: rostad potatis | tzatziki & broccoli"
+            "Green | Daal på röda linser: blomkål | spenat & basmatiris",
+            "Local | Sremska & färskpotatissallad: rostad lök & Bostongurka"
           ]
         },
         {
           "day": "Tisdag",
           "lines": [
-            "Green | Palak Pannoumi: basmatiris & liba",
-            "Asia | Teriyakibakad lax: jasminris | Pak Choi | sesam & lime-misomayo"
+            "Green | Gratinerad getost: bakade betor | rostad potatis & tzatziki",
+            "Local | Panerad sej: remoulad | ärtor & kokt potatis"
           ]
         },
         {
           "day": "Onsdag",
           "lines": [
-            "Green | Pasta Arabbiata: mozzarella & oliver",
-            "World | Libanesisk kyckling: tabbouleh | vitlöksyoghurt & liba"
+            "Green | Bakad sötpotatis & avokadokräm: salsa på tomater | bönor | majs | paprika & lök",
+            "Asia | Röd kycklincurry: Broccoli & jasminris"
           ]
         },
         {
           "day": "Torsdag",
           "lines": [
-            "Green | Pannoumiburgare: romansallad | coleslaw & pommes",
-            "Local | Nattbakad karré: melonsallad | rostad potatis & fetaostcrème"
+            "Green | Fritters på panomi & zuccini: Grekisk sallad & honungsvinägrett",
+            "Local | Färsbiff & rostade grönsaker: Bakad tomat | rostad potatis & tzatziki"
           ]
         },
         {
           "day": "Fredag",
           "lines": [
-            "Green | Fried rice: stekt ägg | kålsallad & chilimayo",
-            "Local | Schnitzel: rostad potatis | ärtor | kapris | citron & brynt smör"
+            "Green | Paj med champinjoner & kronärtskocka: rödlök | spenat | citron &",
+            "Local | Inspiras Cesarsallad: Kyckling | krutonger & bacon"
           ]
         }
       ],
@@ -403,22 +346,22 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-06-26T08:39:43.179Z"
+      "asOf": "2026-06-29T10:11:05.550Z"
     },
     {
       "name": "Troppo",
       "address": "Brunnshögsgatan 34, Lund",
       "website": "https://www.troppo.se/lunch",
       "walkMinutes": 11,
-      "note": "Lunch Week 26, 2026",
+      "note": "Lunch Week 27, 2026",
       "price": "149–159kr",
       "menu": [
         {
           "day": "Hela veckan",
           "lines": [
-            "Garlic Pepper Bomb — Stir-fried minced rooster (Swedish-from Holmby Gård just outside Lund), Thai basil, garlic, black pepper, sugar snaps, cilantro.",
-            "Green Curry — Homemade curry paste, slow cooked beef, coconut milk, pandan, bamboo shoots.",
-            "No meat, No problem Noodles! — Stir-fried noodles (wheat), soy protein, pak choi, garlic chives, chestnut mushrooms.(Chinese/Thai)"
+            "Red Curry & Common Ling — Common Ling (Långa) in Red Curry, Thai basil, haricot verts, sallad.",
+            "Oven-baked Chicken — Oven-baked chicken, namjim-jam sauce, fresh & spicy peach/nectarine sallad, cilantro.",
+            "Deep-fried Larb — Deep-fried Larb, red curry, Thai basil, haricot verts."
           ]
         }
       ],
@@ -456,14 +399,13 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-06-26T08:39:43.179Z"
+      "asOf": "2026-06-29T10:11:05.550Z"
     },
     {
       "name": "Laziza",
       "address": "Scheelevägen 15K, Lund",
       "website": "https://www.laziza.se/lunch/",
       "walkMinutes": 16,
-      "price": "145 kr / 115 kr (take away)",
       "menu": [
         {
           "day": "Hela veckan",
@@ -472,6 +414,7 @@
           ]
         }
       ],
+      "price": "145 kr / 115 kr (take away)",
       "hours": {
         "mon": [
           {
@@ -506,7 +449,12 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-06-26T08:39:43.179Z"
+      "asOf": "2026-06-29T09:11:26.828Z",
+      "stale": true,
+      "error": {
+        "source": "laziza",
+        "error": "fetch failed"
+      }
     },
     {
       "name": "Aiko Sushi Brunnshög",
@@ -561,7 +509,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-06-26T08:39:43.179Z"
+      "asOf": "2026-06-29T10:11:05.550Z"
     }
   ]
 }
