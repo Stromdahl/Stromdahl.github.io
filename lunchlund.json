@@ -1,13 +1,11 @@
 {
-  "fetchedAt": "2026-07-01T09:00:18.134Z",
+  "fetchedAt": "2026-07-02T08:29:39.631Z",
   "restaurants": [
     {
       "name": "Bricks Eatery",
       "address": "Mobilvägen 12, Lund",
       "website": "https://brickseatery.se/",
       "walkMinutes": 2,
-      "note": "Lunchmeny V27",
-      "price": "115:- ink. Kaffe",
       "menu": [
         {
           "day": "Måndag",
@@ -50,6 +48,8 @@
           ]
         }
       ],
+      "note": "Lunchmeny V27",
+      "price": "115:- ink. Kaffe",
       "hours": {
         "mon": [
           {
@@ -84,7 +84,12 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-07-01T09:00:18.134Z"
+      "asOf": "2026-07-02T07:45:37.800Z",
+      "stale": true,
+      "error": {
+        "source": "bricks",
+        "error": "elementor lunch: no day menus found"
+      }
     },
     {
       "name": "Eatery Lund",
@@ -172,7 +177,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-07-01T09:00:18.134Z"
+      "asOf": "2026-07-02T08:29:39.631Z"
     },
     {
       "name": "Kantin",
@@ -183,15 +188,13 @@
       "closed": {
         "note": "Semesterstängt t.o.m. 9/8"
       },
-      "asOf": "2026-07-01T09:00:18.134Z"
+      "asOf": "2026-07-02T08:29:39.631Z"
     },
     {
       "name": "Restaurang Edison",
       "address": "Emdalavägen 6B, Lund",
       "website": "https://restaurangedison.se/lunch/",
       "walkMinutes": 11,
-      "note": "Vecka 27",
-      "price": "115:-",
       "menu": [
         {
           "day": "Måndag",
@@ -234,6 +237,8 @@
           ]
         }
       ],
+      "note": "Vecka 27",
+      "price": "115:-",
       "hours": {
         "mon": [
           {
@@ -268,7 +273,12 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-07-01T09:00:18.134Z"
+      "asOf": "2026-07-02T07:45:37.800Z",
+      "stale": true,
+      "error": {
+        "source": "edison",
+        "error": "elementor lunch: no day menus found"
+      }
     },
     {
       "name": "Restaurang & Café Inspira",
@@ -346,7 +356,12 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-07-01T09:00:18.134Z"
+      "asOf": "2026-07-02T07:45:37.800Z",
+      "stale": true,
+      "error": {
+        "source": "inspira",
+        "error": "elementor lunch: no day menus found"
+      }
     },
     {
       "name": "Troppo",
@@ -399,7 +414,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-07-01T09:00:18.134Z"
+      "asOf": "2026-07-02T08:29:39.631Z"
     },
     {
       "name": "Laziza",
@@ -449,15 +464,13 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-07-01T09:00:18.134Z"
+      "asOf": "2026-07-02T08:29:39.631Z"
     },
     {
       "name": "Aiko Sushi Brunnshög",
       "address": "Systemeraregatan 3, Lund",
       "website": "https://www.aikosushi.se/lunch",
       "walkMinutes": 6,
-      "note": "Inkl. misosoppa, vatten & kaffe",
-      "price": "80–149kr",
       "menu": [
         {
           "day": "Hela veckan",
@@ -470,6 +483,8 @@
           ]
         }
       ],
+      "note": "Inkl. misosoppa, vatten & kaffe",
+      "price": "80–149kr",
       "hours": {
         "mon": [
           {
@@ -504,7 +519,12 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-07-01T09:00:18.134Z"
+      "asOf": "2026-07-02T07:45:37.800Z",
+      "stale": true,
+      "error": {
+        "source": "aiko",
+        "error": "aiko: missing 'Lunch Erbjudande' heading"
+      }
     }
   ]
 }
