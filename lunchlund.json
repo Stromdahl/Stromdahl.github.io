@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-13T08:34:46.660Z",
+  "fetchedAt": "2026-07-14T07:26:19.888Z",
   "restaurants": [
     {
       "name": "Bricks Eatery",
@@ -84,7 +84,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-07-13T08:34:46.660Z"
+      "asOf": "2026-07-14T07:26:19.888Z"
     },
     {
       "name": "Eatery Lund",
@@ -172,7 +172,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-07-13T08:34:46.660Z"
+      "asOf": "2026-07-14T07:26:19.888Z"
     },
     {
       "name": "Kantin",
@@ -183,7 +183,7 @@
       "closed": {
         "note": "Semesterstängt t.o.m. 9/8"
       },
-      "asOf": "2026-07-13T08:34:46.660Z"
+      "asOf": "2026-07-14T07:26:19.888Z"
     },
     {
       "name": "Restaurang Edison",
@@ -268,7 +268,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-07-13T08:34:46.660Z"
+      "asOf": "2026-07-14T07:26:19.888Z"
     },
     {
       "name": "Restaurang & Café Inspira",
@@ -346,22 +346,22 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-07-13T08:34:46.660Z"
+      "asOf": "2026-07-14T07:26:19.888Z"
     },
     {
       "name": "Troppo",
       "address": "Brunnshögsgatan 34, Lund",
       "website": "https://www.troppo.se/lunch",
       "walkMinutes": 11,
-      "note": "Lunch Week 28, 2026",
+      "note": "Lunch Week 29, 2026",
       "price": "149–159kr",
       "menu": [
         {
           "day": "Hela veckan",
           "lines": [
-            "Five Spice Chicken — Oven-baked boneless chicken thight fillet, shiitake mushrooms, pak choi, pickled ginger, five spice sauce. Served with steamed jasmine rice. (Chinese-S-E Asia)",
-            "Shrimp Noodles — Stir-fried egg noodles, shrimp, Chinese broccoli, garlic chives, cabbage, pak choi, lime, bean sprouts, peanuts",
-            "Mock Duck — Vegan \"duck\", bell peppers, scallions, onion, water chestnuts, shiitake, chili, cashewnuts."
+            "Pad Kaprao — Minced rooster, bamboo shoots, morning glory, chili, garlic, holy basil, fried egg.",
+            "Burmese Curry — Grilled sirlion steak, tamarind, coconut milk, homemade curry paste, pak choi, Asian Chimichurri (contains Jalapeño).",
+            "VEG Burmese Curry — Oven-roasted beet root, Tempeh, tamarind, coconut milk, homemade curry paste, pak choi, Asian Chimichurri (contains Jalapeño)."
           ]
         }
       ],
@@ -399,7 +399,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-07-13T08:34:46.660Z"
+      "asOf": "2026-07-14T07:26:19.888Z"
     },
     {
       "name": "Laziza",
@@ -449,7 +449,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-07-13T08:34:46.660Z"
+      "asOf": "2026-07-14T07:26:19.888Z"
     },
     {
       "name": "Aiko Sushi Brunnshög",
@@ -504,7 +504,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-07-13T08:34:46.660Z"
+      "asOf": "2026-07-14T07:26:19.888Z"
     }
   ]
 }
