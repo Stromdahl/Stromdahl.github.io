@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-15T07:30:05.289Z",
+  "fetchedAt": "2026-07-16T07:36:53.745Z",
   "restaurants": [
     {
       "name": "Bricks Eatery",
@@ -84,7 +84,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-07-15T06:30:11.161Z",
+      "asOf": "2026-07-16T06:33:37.934Z",
       "stale": true,
       "error": {
         "source": "bricks",
@@ -177,7 +177,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-07-15T07:30:05.289Z"
+      "asOf": "2026-07-16T07:36:53.745Z"
     },
     {
       "name": "Kantin",
@@ -188,7 +188,7 @@
       "closed": {
         "note": "Semesterstängt t.o.m. 9/8"
       },
-      "asOf": "2026-07-15T07:30:05.289Z"
+      "asOf": "2026-07-16T07:36:53.745Z"
     },
     {
       "name": "Restaurang Edison",
@@ -273,7 +273,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-07-15T06:30:11.161Z",
+      "asOf": "2026-07-16T06:33:37.934Z",
       "stale": true,
       "error": {
         "source": "edison",
@@ -356,7 +356,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-07-15T06:30:11.161Z",
+      "asOf": "2026-07-16T06:33:37.934Z",
       "stale": true,
       "error": {
         "source": "inspira",
@@ -414,7 +414,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-07-15T07:30:05.289Z"
+      "asOf": "2026-07-16T07:36:53.745Z"
     },
     {
       "name": "Laziza",
@@ -464,7 +464,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-07-15T07:30:05.289Z"
+      "asOf": "2026-07-16T07:36:53.745Z"
     },
     {
       "name": "Aiko Sushi Brunnshög",
@@ -519,7 +519,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-07-15T06:30:11.161Z",
+      "asOf": "2026-07-16T06:33:37.934Z",
       "stale": true,
       "error": {
         "source": "aiko",
