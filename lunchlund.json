@@ -1,11 +1,12 @@
 {
-  "fetchedAt": "2026-07-20T08:25:35.734Z",
+  "fetchedAt": "2026-07-21T07:55:25.599Z",
   "restaurants": [
     {
       "name": "Bricks Eatery",
       "address": "Mobilvägen 12, Lund",
       "website": "https://brickseatery.se/",
       "walkMinutes": 2,
+      "note": "Lunchmeny V",
       "menu": [
         {
           "day": "Måndag",
@@ -38,7 +39,6 @@
           ]
         }
       ],
-      "note": "Lunchmeny V",
       "hours": {
         "mon": [
           {
@@ -73,12 +73,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-07-20T07:32:34.386Z",
-      "stale": true,
-      "error": {
-        "source": "bricks",
-        "error": "elementor lunch: no day menus found"
-      }
+      "asOf": "2026-07-21T07:55:25.599Z"
     },
     {
       "name": "Eatery Lund",
@@ -166,7 +161,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-07-20T08:25:35.734Z"
+      "asOf": "2026-07-21T07:55:25.599Z"
     },
     {
       "name": "Kantin",
@@ -174,16 +169,18 @@
       "website": "https://www.kantinlund.se/",
       "walkMinutes": 7,
       "menu": [],
-      "error": {
-        "source": "kantin",
-        "error": "fetch failed"
-      }
+      "closed": {
+        "note": "Semesterstängt t.o.m. 9/8"
+      },
+      "asOf": "2026-07-21T07:55:25.599Z"
     },
     {
       "name": "Restaurang Edison",
       "address": "Emdalavägen 6B, Lund",
       "website": "https://restaurangedison.se/lunch/",
       "walkMinutes": 11,
+      "note": "Vecka 27",
+      "price": "115:-",
       "menu": [
         {
           "day": "Måndag",
@@ -226,8 +223,6 @@
           ]
         }
       ],
-      "note": "Vecka 27",
-      "price": "115:-",
       "hours": {
         "mon": [
           {
@@ -262,12 +257,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-07-20T07:32:34.386Z",
-      "stale": true,
-      "error": {
-        "source": "edison",
-        "error": "elementor lunch: no day menus found"
-      }
+      "asOf": "2026-07-21T07:55:25.599Z"
     },
     {
       "name": "Restaurang & Café Inspira",
@@ -345,27 +335,22 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-07-20T07:32:34.386Z",
-      "stale": true,
-      "error": {
-        "source": "inspira",
-        "error": "elementor lunch: no day menus found"
-      }
+      "asOf": "2026-07-21T07:55:25.599Z"
     },
     {
       "name": "Troppo",
       "address": "Brunnshögsgatan 34, Lund",
       "website": "https://www.troppo.se/lunch",
       "walkMinutes": 11,
-      "note": "Lunch Week 29, 2026",
+      "note": "Lunch Week 30, 2026",
       "price": "149–159kr",
       "menu": [
         {
           "day": "Hela veckan",
           "lines": [
-            "Pad Kaprao — Minced rooster, bamboo shoots, morning glory, chili, garlic, holy basil, fried egg.",
-            "Burmese Curry — Grilled sirlion steak, tamarind, coconut milk, homemade curry paste, pak choi, Asian Chimichurri (contains Jalapeño).",
-            "VEG Burmese Curry — Oven-roasted beet root, Tempeh, tamarind, coconut milk, homemade curry paste, pak choi, Asian Chimichurri (contains Jalapeño)."
+            "Sichuan Spicy Beef — Stir-fried sliced sirlion, bamboo shoots, bell peppers, onion, spring onion, water chestnut, hot sambal sauce. (Sichian/Chinese)",
+            "Oven-baked Chicken — Red Curry, pineapple, chicken leg filé, chili, kaffir lime. Canton/Chinese)",
+            "Stir-fried Tofu — Steamed pak choi, fermented soy bean sauce, tofu.(Central Thai) VEG"
           ]
         }
       ],
@@ -403,13 +388,14 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-07-20T08:25:35.734Z"
+      "asOf": "2026-07-21T07:55:25.599Z"
     },
     {
       "name": "Laziza",
       "address": "Scheelevägen 15K, Lund",
       "website": "https://www.laziza.se/lunch/",
       "walkMinutes": 16,
+      "price": "145 kr / 115 kr (take away)",
       "menu": [
         {
           "day": "Hela veckan",
@@ -418,7 +404,6 @@
           ]
         }
       ],
-      "price": "145 kr / 115 kr (take away)",
       "hours": {
         "mon": [
           {
@@ -453,18 +438,15 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-07-20T07:32:34.386Z",
-      "stale": true,
-      "error": {
-        "source": "laziza",
-        "error": "fetch failed"
-      }
+      "asOf": "2026-07-21T07:55:25.599Z"
     },
     {
       "name": "Aiko Sushi Brunnshög",
       "address": "Systemeraregatan 3, Lund",
       "website": "https://www.aikosushi.se/lunch",
       "walkMinutes": 6,
+      "note": "Inkl. misosoppa, vatten & kaffe",
+      "price": "80–149kr",
       "menu": [
         {
           "day": "Hela veckan",
@@ -477,8 +459,6 @@
           ]
         }
       ],
-      "note": "Inkl. misosoppa, vatten & kaffe",
-      "price": "80–149kr",
       "hours": {
         "mon": [
           {
@@ -513,12 +493,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-07-20T07:32:34.386Z",
-      "stale": true,
-      "error": {
-        "source": "aiko",
-        "error": "aiko: missing 'Lunch Erbjudande' heading"
-      }
+      "asOf": "2026-07-21T07:55:25.599Z"
     }
   ]
 }
