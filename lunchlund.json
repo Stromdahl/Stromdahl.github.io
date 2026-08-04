@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-03T08:48:56.537Z",
+  "fetchedAt": "2026-08-04T08:03:07.316Z",
   "restaurants": [
     {
       "name": "Bricks Eatery",
@@ -82,57 +82,56 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-08-03T08:48:56.537Z"
+      "asOf": "2026-08-04T08:03:07.316Z"
     },
     {
       "name": "Eatery Lund",
       "address": "Mobilvägen 4, Lund",
       "website": "https://eatery.se/anlaggningar/lund",
       "walkMinutes": 2,
-      "note": "Lunchmeny V27",
+      "note": "Lunchmeny V32",
       "price": "139kr (early-bird 132kr 11:00 - 11:30)",
       "menu": [
         {
           "day": "Måndag",
           "lines": [
-            "Panko och parmesanpanerad kyckling med krämig tomat & basilikasås, fänkålsbakad potatis,",
-            "rostad zucchinisallad",
-            "Fiskbiffar med citron & gräslökssås, potatissallad med rädisa, sockerärtor, kapris & tomat, rostade pumpafrön",
-            "Vegetarisk kung pao på blomkål, paprika, tofu & jordnötter, ris"
+            "Högrevsburgare med pepperjack ost, baconjam, dressing och pommes",
+            "Sesamstekt kummel med miso och ingefärssmörsås, bakad morot, ris med rostade grönsaker",
+            "Vegetarisk chili sin carne med ris & avokadocremé, tortillachips"
           ]
         },
         {
           "day": "Tisdag",
           "lines": [
-            "Korean pulled pork sandwich med honung, chili & sojaglaze, picklade grönsaker, jordnötscrunch, klyftpotatis",
-            "Vinbakad kummel med gurka, rädisa, räkor & dill, krämig saffransås, bakad morot & potatismos",
-            "Pankopanerade potatis och kikärtsbiffar med rostad kål, currykräm & örtbulgur",
+            "Örtbakad kotlett med potatisgratäng, löksky och sockerärtssallad med krasse och betor",
+            "Alaskafilé ”Italian style” vittvin, tomat, oliver, citron och rostad potatis med gremolata och pumpakärnor",
+            "Tortelloni med ricotta & spenat, marinerad salladsost, paprikaragu, ruccola, rostade solroskärnor",
             "Sweet Tuesday: Vi bjuder på något sött till kaffet!"
           ]
         },
         {
           "day": "Onsdag",
           "lines": [
-            "Kålpudding med rårörda lingon, inlagd gurka, gräddsås & kokt potatis",
-            "Panerad kungsfisk med tartarsås, sallad på gröna ärtor & sojabönor, kokt potatis med dill & smör",
-            "Cannelloni med ratatouille, burrata, gremolata & spenatsallad"
+            "Grekisk kycklingsouvlaki med melon & myntasallad, olivyoghurt & klyftpotatis med paprika & persilja",
+            "Currybakad sej med masalasås, rostad pumpa och tomat och lökbakad potatis",
+            "Enchiladas med kryddig sojafärs, bönor, het tomatsås, dirtyrice"
           ]
         },
         {
           "day": "Torsdag",
           "lines": [
-            "Kycklingcurry med äpple & rödkålssallad, grönsaksris & sesamcrunch",
-            "Bakad alaskafilé med gubbröra, hyvlad morotssallad, dill-citronpotatis & krassekräm",
-            "Röd currygryta med oumph, grönsaker, koriander & jasminris",
+            "Färsbiffar med senap & persiljesås, potatismos med lagrad ost, stekta gröna bönor med vitlök & spenat",
+            "Bakad hokifilé med grön aioli, bakad palsternacka och rostad potatis, grönärtspuré",
+            "Gnocchi med ostsås, stekta champinjoner och blandsvamp, savoykål och lagrad ost",
             "Pancake Thursday: Vi bjuder på pannkakor, lättvispad grädde och hemmagjord sylt!"
           ]
         },
         {
           "day": "Fredag",
           "lines": [
-            "Wallenbergare med potatispuré, skirat smör & rårörda lingon",
-            "Sesamstekt sej med soja-ingefärsbakad pak choi, chiliolja, gochujangmajo & ris",
-            "Svampmacka med västerbotten, bakade tomater, ruccola & picklad lök"
+            "Bakad karré med pepparsås, rostad rotselleri, klyftpotatis med timjan och vitlök",
+            "Pecorino & spenat gratinerad kungsfisk med vitvinssås, krossad potatis & citron, fänkålscrudité",
+            "Bakad sötpotatis med salladsost, krispiga kikärtor, örtkeso och fänkålsallad"
           ]
         }
       ],
@@ -170,7 +169,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-08-03T08:48:56.537Z"
+      "asOf": "2026-08-04T08:03:07.316Z"
     },
     {
       "name": "Kantin",
@@ -178,10 +177,10 @@
       "website": "https://www.kantinlund.se/",
       "walkMinutes": 7,
       "menu": [],
-      "error": {
-        "source": "kantin",
-        "error": "fetch failed"
-      }
+      "closed": {
+        "note": "Semesterstängt t.o.m. 9/8"
+      },
+      "asOf": "2026-08-04T08:03:07.316Z"
     },
     {
       "name": "Restaurang Edison",
@@ -266,7 +265,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-08-03T08:48:56.537Z"
+      "asOf": "2026-08-04T08:03:07.316Z"
     },
     {
       "name": "Restaurang & Café Inspira",
@@ -344,7 +343,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-08-03T08:48:56.537Z"
+      "asOf": "2026-08-04T08:03:07.316Z"
     },
     {
       "name": "Troppo",
@@ -398,13 +397,14 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-08-03T08:48:56.537Z"
+      "asOf": "2026-08-04T08:03:07.316Z"
     },
     {
       "name": "Laziza",
       "address": "Scheelevägen 15K, Lund",
       "website": "https://www.laziza.se/lunch/",
       "walkMinutes": 16,
+      "price": "145 kr / 115 kr (take away)",
       "menu": [
         {
           "day": "Hela veckan",
@@ -413,7 +413,6 @@
           ]
         }
       ],
-      "price": "145 kr / 115 kr (take away)",
       "hours": {
         "mon": [
           {
@@ -448,12 +447,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-08-03T07:49:56.576Z",
-      "stale": true,
-      "error": {
-        "source": "laziza",
-        "error": "fetch failed"
-      }
+      "asOf": "2026-08-04T08:03:07.316Z"
     },
     {
       "name": "Aiko Sushi Brunnshög",
@@ -508,7 +502,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-08-03T08:48:56.537Z"
+      "asOf": "2026-08-04T08:03:07.316Z"
     }
   ]
 }
