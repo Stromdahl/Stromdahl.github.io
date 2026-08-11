@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-10T06:52:54.157Z",
+  "fetchedAt": "2026-08-11T06:29:50.339Z",
   "restaurants": [
     {
       "name": "Bricks Eatery",
@@ -86,7 +86,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-08-10T06:52:54.157Z"
+      "asOf": "2026-08-11T06:29:50.339Z"
     },
     {
       "name": "Eatery Lund",
@@ -174,7 +174,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-08-10T06:52:54.157Z"
+      "asOf": "2026-08-11T06:29:50.339Z"
     },
     {
       "name": "Kantin",
@@ -186,25 +186,31 @@
         {
           "day": "Måndag",
           "lines": [
-            "10/8Kycklingsteak – vitlöksyoghurt – gurka – haricot verts – romansallad – fröer- potatis"
+            "10/8 Kycklingsteak – vitlöksyoghurt – gurka – haricot verts – romansallad – fröer- potatis"
           ]
         },
         {
           "day": "Tisdag",
           "lines": [
-            "11/8Pulled beef – habaneromajo – pickles – rostad lök – mâche – rostad potatis"
+            "11/8 Pulled beef – habaneromajo – pickles – rostad lök – mâche – rostad potatis"
+          ]
+        },
+        {
+          "day": "Onsdag",
+          "lines": [
+            "12/8 Nattbakad fläsksida – sesammajonnäs – pickles – broccoli – groddar – ris – koriander"
           ]
         },
         {
           "day": "Torsdag",
           "lines": [
-            "13/8Oxtartar – jalapeñomajo – syrad lök – paprika – tortillakrisp – hjärtsallad"
+            "13/8 Oxtartar – jalapeñomajo – syrad lök – paprika – tortillakrisp – hjärtsallad"
           ]
         },
         {
           "day": "Fredag",
           "lines": [
-            "14/8Hangersteak – bearnaisemajo – tomatsallad – gröna bönor- rostad potatis"
+            "14/8 Hangersteak – bearnaisemajo – tomatsallad – gröna bönor- rostad potatis"
           ]
         }
       ],
@@ -242,7 +248,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-08-10T06:52:54.157Z"
+      "asOf": "2026-08-11T06:29:50.339Z"
     },
     {
       "name": "Restaurang Edison",
@@ -327,7 +333,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-08-10T06:52:54.157Z"
+      "asOf": "2026-08-11T06:29:50.339Z"
     },
     {
       "name": "Restaurang & Café Inspira",
@@ -405,23 +411,22 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-08-10T06:52:54.157Z"
+      "asOf": "2026-08-11T06:29:50.339Z"
     },
     {
       "name": "Troppo",
       "address": "Brunnshögsgatan 34, Lund",
       "website": "https://www.troppo.se/lunch",
       "walkMinutes": 11,
-      "note": "Lunch Week 32, 2026",
+      "note": "Lunch Week 33, 2026",
       "price": "149–159kr",
       "menu": [
         {
           "day": "Hela veckan",
           "lines": [
-            "Chicken In Buttermilk Curry",
-            "icken, curry leaves, milk, butter, curry, pickled beansprouts, carrots,",
-            "Beef Green Curry",
-            "Tofu Green Curry Noodle Soup"
+            "Five Spice Chicken",
+            "Chi Chap Tai Ha",
+            "Spicy Beancurd"
           ]
         }
       ],
@@ -459,7 +464,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-08-10T06:52:54.157Z"
+      "asOf": "2026-08-11T06:29:50.339Z"
     },
     {
       "name": "Laziza",
@@ -509,7 +514,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-08-10T06:52:54.157Z"
+      "asOf": "2026-08-11T06:29:50.339Z"
     },
     {
       "name": "Aiko Sushi Brunnshög",
@@ -564,7 +569,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-08-10T06:52:54.157Z"
+      "asOf": "2026-08-11T06:29:50.339Z"
     }
   ]
 }

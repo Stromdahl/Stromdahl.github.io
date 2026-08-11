@@ -6,7 +6,7 @@
     <atom:link href="https://stromdahl.github.io/lunchlund.xml" rel="self" type="application/rss+xml" />
     <description>Veckans luncher för restaurangerna närmast Mobilvägen 10, Lund.</description>
     <language>sv</language>
-    <lastBuildDate>Mon, 10 Aug 2026 06:52:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 06:29:50 GMT</lastBuildDate>
     <item>
       <title>Bricks Eatery — Fredag</title>
       <link>https://stromdahl.github.io/lunchlund/#bricks-eatery</link>
@@ -26,7 +26,7 @@
       <link>https://stromdahl.github.io/lunchlund/#kantin</link>
       <guid isPermaLink="false">lunchlund:kantin:2026-08-14</guid>
       <pubDate>Fri, 14 Aug 2026 12:00:00 GMT</pubDate>
-      <description>&lt;ul&gt;&lt;li&gt;14/8Hangersteak – bearnaisemajo – tomatsallad – gröna bönor- rostad potatis&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;14/8 Hangersteak – bearnaisemajo – tomatsallad – gröna bönor- rostad potatis&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Restaurang Edison — Fredag</title>
@@ -61,7 +61,7 @@
       <link>https://stromdahl.github.io/lunchlund/#kantin</link>
       <guid isPermaLink="false">lunchlund:kantin:2026-08-13</guid>
       <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
-      <description>&lt;ul&gt;&lt;li&gt;13/8Oxtartar – jalapeñomajo – syrad lök – paprika – tortillakrisp – hjärtsallad&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;13/8 Oxtartar – jalapeñomajo – syrad lök – paprika – tortillakrisp – hjärtsallad&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Restaurang Edison — Torsdag</title>
@@ -90,6 +90,13 @@
       <guid isPermaLink="false">lunchlund:eatery-lund:2026-08-12</guid>
       <pubDate>Wed, 12 Aug 2026 12:00:00 GMT</pubDate>
       <description>&lt;ul&gt;&lt;li&gt;Grekiska färsbiffar med citron &amp;amp; persilja, fetaostkräm, sallad med oliver, rostad paprika och mynta&lt;/li&gt;&lt;li&gt;Chili &amp;amp; limebakad kummel med ost &amp;amp; sötpotatisquesadilla, pico di gallo och rostad citronyoghurt&lt;/li&gt;&lt;li&gt;Tomat- &amp;amp; fetaostpaj med kronärtskocka, oliver &amp;amp; ruccola&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Kantin — Onsdag</title>
+      <link>https://stromdahl.github.io/lunchlund/#kantin</link>
+      <guid isPermaLink="false">lunchlund:kantin:2026-08-12</guid>
+      <pubDate>Wed, 12 Aug 2026 12:00:00 GMT</pubDate>
+      <description>&lt;ul&gt;&lt;li&gt;12/8 Nattbakad fläsksida – sesammajonnäs – pickles – broccoli – groddar – ris – koriander&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Restaurang Edison — Onsdag</title>
@@ -124,7 +131,7 @@
       <link>https://stromdahl.github.io/lunchlund/#kantin</link>
       <guid isPermaLink="false">lunchlund:kantin:2026-08-11</guid>
       <pubDate>Tue, 11 Aug 2026 12:00:00 GMT</pubDate>
-      <description>&lt;ul&gt;&lt;li&gt;11/8Pulled beef – habaneromajo – pickles – rostad lök – mâche – rostad potatis&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;11/8 Pulled beef – habaneromajo – pickles – rostad lök – mâche – rostad potatis&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Restaurang Edison — Tisdag</title>
@@ -159,7 +166,7 @@
       <link>https://stromdahl.github.io/lunchlund/#kantin</link>
       <guid isPermaLink="false">lunchlund:kantin:2026-08-10</guid>
       <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
-      <description>&lt;ul&gt;&lt;li&gt;10/8Kycklingsteak – vitlöksyoghurt – gurka – haricot verts – romansallad – fröer- potatis&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;10/8 Kycklingsteak – vitlöksyoghurt – gurka – haricot verts – romansallad – fröer- potatis&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Restaurang Edison — Måndag</title>
@@ -180,7 +187,7 @@
       <link>https://stromdahl.github.io/lunchlund/#troppo</link>
       <guid isPermaLink="false">lunchlund:troppo:2026-W33</guid>
       <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
-      <description>&lt;ul&gt;&lt;li&gt;Chicken In Buttermilk Curry&lt;/li&gt;&lt;li&gt;icken, curry leaves, milk, butter, curry, pickled beansprouts, carrots,&lt;/li&gt;&lt;li&gt;Beef Green Curry&lt;/li&gt;&lt;li&gt;Tofu Green Curry Noodle Soup&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Five Spice Chicken&lt;/li&gt;&lt;li&gt;Chi Chap Tai Ha&lt;/li&gt;&lt;li&gt;Spicy Beancurd&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Laziza — Hela veckan</title>
