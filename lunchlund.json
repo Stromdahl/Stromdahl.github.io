@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-17T06:01:57.491Z",
+  "fetchedAt": "2026-08-18T05:57:10.668Z",
   "restaurants": [
     {
       "name": "Bricks Eatery",
@@ -86,7 +86,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-08-17T06:01:57.491Z"
+      "asOf": "2026-08-18T05:57:10.668Z"
     },
     {
       "name": "Eatery Lund",
@@ -173,43 +173,43 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-08-17T06:01:57.491Z"
+      "asOf": "2026-08-18T05:57:10.668Z"
     },
     {
       "name": "Kantin",
       "address": "Brunnshögsgatan 14, Lund",
       "website": "https://www.kantinlund.se/",
       "walkMinutes": 7,
-      "note": "Meny 10/8 – 14/8",
+      "note": "Meny 17/8 – 21/8",
       "menu": [
         {
           "day": "Måndag",
           "lines": [
-            "10/8 Kycklingsteak – vitlöksyoghurt – gurka – haricot verts – romansallad – fröer- potatis"
+            "17/8Guajillorostad kyckling, rökt paprikamajjo, majs, gröna bönor, potatis, koriander"
           ]
         },
         {
           "day": "Tisdag",
           "lines": [
-            "11/8 Pulled beef – habaneromajo – pickles – rostad lök – mâche – rostad potatis"
+            "18/8Ribbestek, red dragonsauce, strimald kål, japansk majjo, broccoli, ris"
           ]
         },
         {
           "day": "Onsdag",
           "lines": [
-            "12/8 Nattbakad fläsksida – sesammajonnäs – pickles – broccoli – groddar – ris – koriander"
+            "19/8Kantins Bookmaker, flankstek, senaps- & pepparrotsmajjo, tomat, hjärtsallad, krämig äggula, krasse"
           ]
         },
         {
           "day": "Torsdag",
           "lines": [
-            "13/8 Oxtartar – jalapeñomajo – syrad lök – paprika – tortillakrisp – hjärtsallad"
+            "20/8Oxtartar, ponzu/sesamdressing, picklad rättika, jalapeno, wasabimajjo, friterade risnudlar"
           ]
         },
         {
           "day": "Fredag",
           "lines": [
-            "14/8 Hangersteak – bearnaisemajo – tomatsallad – gröna bönor- rostad potatis"
+            "21/8Nattbakad högrev, pozole, vit majs, paprika, smetana, machesallad, korinader, frön , potatis"
           ]
         }
       ],
@@ -247,7 +247,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-08-17T06:01:57.491Z"
+      "asOf": "2026-08-18T05:57:10.668Z"
     },
     {
       "name": "Restaurang Edison",
@@ -332,7 +332,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-08-17T06:01:57.491Z"
+      "asOf": "2026-08-18T05:57:10.668Z"
     },
     {
       "name": "Restaurang & Café Inspira",
@@ -412,7 +412,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-08-17T06:01:57.491Z"
+      "asOf": "2026-08-18T05:57:10.668Z"
     },
     {
       "name": "Troppo",
@@ -465,7 +465,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-08-17T06:01:57.491Z"
+      "asOf": "2026-08-18T05:57:10.668Z"
     },
     {
       "name": "Laziza",
@@ -515,7 +515,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-08-17T06:01:57.491Z"
+      "asOf": "2026-08-18T05:57:10.668Z"
     },
     {
       "name": "Aiko Sushi Brunnshög",
@@ -570,7 +570,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-08-17T06:01:57.491Z"
+      "asOf": "2026-08-18T05:57:10.668Z"
     }
   ]
 }
