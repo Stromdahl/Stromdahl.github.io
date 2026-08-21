@@ -1,13 +1,11 @@
 {
-  "fetchedAt": "2026-08-20T05:58:42.648Z",
+  "fetchedAt": "2026-08-21T06:00:22.524Z",
   "restaurants": [
     {
       "name": "Bricks Eatery",
       "address": "Mobilvägen 12, Lund",
       "website": "https://brickseatery.se/",
       "walkMinutes": 2,
-      "note": "Lunchmeny V34",
-      "price": "115:- ink. Kaffe",
       "menu": [
         {
           "day": "Måndag",
@@ -52,6 +50,8 @@
           ]
         }
       ],
+      "note": "Lunchmeny V34",
+      "price": "115:- ink. Kaffe",
       "hours": {
         "mon": [
           {
@@ -86,7 +86,12 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-08-20T05:58:42.648Z"
+      "asOf": "2026-08-20T04:55:58.668Z",
+      "stale": true,
+      "error": {
+        "source": "bricks",
+        "error": "Bricks Eatery: 500 Internal Server Error"
+      }
     },
     {
       "name": "Eatery Lund",
@@ -173,7 +178,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-08-20T05:58:42.648Z"
+      "asOf": "2026-08-21T06:00:22.524Z"
     },
     {
       "name": "Kantin",
@@ -247,13 +252,15 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-08-20T05:58:42.648Z"
+      "asOf": "2026-08-21T06:00:22.524Z"
     },
     {
       "name": "Restaurang Edison",
       "address": "Emdalavägen 6B, Lund",
       "website": "https://restaurangedison.se/lunch/",
       "walkMinutes": 11,
+      "note": "Vecka 34",
+      "price": "115:-",
       "menu": [
         {
           "day": "Måndag",
@@ -296,8 +303,6 @@
           ]
         }
       ],
-      "note": "Vecka 34",
-      "price": "115:-",
       "hours": {
         "mon": [
           {
@@ -332,12 +337,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-08-19T02:33:29.155Z",
-      "stale": true,
-      "error": {
-        "source": "edison",
-        "error": "Restaurang Edison: 500 Internal Server Error"
-      }
+      "asOf": "2026-08-21T06:00:22.524Z"
     },
     {
       "name": "Restaurang & Café Inspira",
@@ -420,7 +420,12 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-08-20T05:58:42.648Z"
+      "asOf": "2026-08-20T04:55:58.668Z",
+      "stale": true,
+      "error": {
+        "source": "inspira",
+        "error": "Restaurang & Café Inspira: 500 Internal Server Error"
+      }
     },
     {
       "name": "Troppo",
@@ -473,7 +478,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-08-20T05:58:42.648Z"
+      "asOf": "2026-08-21T06:00:22.524Z"
     },
     {
       "name": "Laziza",
@@ -523,7 +528,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-08-20T05:58:42.648Z"
+      "asOf": "2026-08-21T06:00:22.524Z"
     },
     {
       "name": "Aiko Sushi Brunnshög",
@@ -578,7 +583,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-08-20T05:58:42.648Z"
+      "asOf": "2026-08-21T06:00:22.524Z"
     }
   ]
 }
