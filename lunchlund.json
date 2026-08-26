@@ -1,11 +1,13 @@
 {
-  "fetchedAt": "2026-08-25T06:00:14.747Z",
+  "fetchedAt": "2026-08-26T06:02:01.296Z",
   "restaurants": [
     {
       "name": "Bricks Eatery",
       "address": "Mobilvägen 12, Lund",
       "website": "https://brickseatery.se/",
       "walkMinutes": 2,
+      "note": "Lunchmeny V35",
+      "price": "115:- ink. Kaffe",
       "menu": [
         {
           "day": "Måndag",
@@ -26,8 +28,8 @@
         {
           "day": "Onsdag",
           "lines": [
-            "Green: Pasta aglio e olio- spaghetti med vitlök, persilja, chili, smör, olivolja och lagrad ost",
-            "Local: Stekt sill med klassiska tillbehör",
+            "Green: Vegetarisk pad thai med krämigt ägg, tofu, grönsaker, jordnötter, tamarindsås och risnudlar",
+            "Local: Spaghetti med blåmusslor, grädde, chili, citron, tomat, fänkål och kruspersilja",
             "World wide: Wokat fläsk med ostronsås, thaibasilika, brynt lök, bambu, ris, jordnötter och sesam",
             "Pizza: Mozzarella, tomatsås, Kebab, vitlökssås, feferoni"
           ]
@@ -35,7 +37,7 @@
         {
           "day": "Torsdag",
           "lines": [
-            "Green: Vegetarisk pad thai med krämigt ägg, tofu, grönsaker, jordnötter, tamarindsås och risnudlar",
+            "Green: Pasta aglio e olio- spaghetti med vitlök, persilja, chili, smör, olivolja och lagrad ost",
             "Local: Citronstekt kyckling med svamprisotto, lagrad ost, krasse och dragonrostad zucchini",
             "Pizza: Mozzarella, tomatsås, Kebab, vitlökssås, feferoni",
             "Äppelpaj: Vi bjuder våra lunchgäster på äppelpaj med grädde"
@@ -45,13 +47,11 @@
           "day": "Fredag",
           "lines": [
             "Green: Potatiskaka med tångkaviar, hackat ägg, creme- fraiche, lök, dill och krasse",
-            "Local: Färsbiff med potatisgratäng, rödvinsås, bakad tomat och vitlöksstekta champinjoner",
+            "Local: Färsbiff med potatisgratäng, rödvinsås, haricoverts och vitlöksstekta champinjoner",
             "World wide: Moussaka med lamm, aubergine, potatis, tomat, krämig ost och gurksallad"
           ]
         }
       ],
-      "note": "Lunchmeny V35",
-      "price": "115:- ink. Kaffe",
       "hours": {
         "mon": [
           {
@@ -86,12 +86,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-08-25T02:31:38.022Z",
-      "stale": true,
-      "error": {
-        "source": "bricks",
-        "error": "elementor lunch: no day menus found"
-      }
+      "asOf": "2026-08-26T06:02:01.296Z"
     },
     {
       "name": "Eatery Lund",
@@ -176,13 +171,15 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-08-25T06:00:14.747Z"
+      "asOf": "2026-08-26T06:02:01.296Z"
     },
     {
       "name": "Restaurang Edison",
       "address": "Emdalavägen 6B, Lund",
       "website": "https://restaurangedison.se/lunch/",
       "walkMinutes": 11,
+      "note": "Vecka 35",
+      "price": "115:-",
       "menu": [
         {
           "day": "Måndag",
@@ -225,8 +222,6 @@
           ]
         }
       ],
-      "note": "Vecka 35",
-      "price": "115:-",
       "hours": {
         "mon": [
           {
@@ -261,12 +256,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-08-25T02:31:38.022Z",
-      "stale": true,
-      "error": {
-        "source": "edison",
-        "error": "elementor lunch: no day menus found"
-      }
+      "asOf": "2026-08-26T06:02:01.296Z"
     },
     {
       "name": "Restaurang & Café Inspira",
@@ -349,12 +339,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-08-25T02:31:38.022Z",
-      "stale": true,
-      "error": {
-        "source": "inspira",
-        "error": "elementor lunch: no day menus found"
-      }
+      "asOf": "2026-08-26T06:02:01.296Z"
     },
     {
       "name": "Troppo",
@@ -407,7 +392,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-08-25T06:00:14.747Z"
+      "asOf": "2026-08-26T06:02:01.296Z"
     },
     {
       "name": "Laziza",
@@ -457,13 +442,15 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-08-25T06:00:14.747Z"
+      "asOf": "2026-08-26T06:02:01.296Z"
     },
     {
       "name": "Aiko Sushi Brunnshög",
       "address": "Systemeraregatan 3, Lund",
       "website": "https://www.aikosushi.se/lunch",
       "walkMinutes": 6,
+      "note": "Inkl. misosoppa, vatten & kaffe",
+      "price": "80–149kr",
       "menu": [
         {
           "day": "Hela veckan",
@@ -476,8 +463,6 @@
           ]
         }
       ],
-      "note": "Inkl. misosoppa, vatten & kaffe",
-      "price": "80–149kr",
       "hours": {
         "mon": [
           {
@@ -512,12 +497,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-08-25T02:31:38.022Z",
-      "stale": true,
-      "error": {
-        "source": "aiko",
-        "error": "aiko: missing 'Lunch Erbjudande' heading"
-      }
+      "asOf": "2026-08-26T06:02:01.296Z"
     }
   ]
 }

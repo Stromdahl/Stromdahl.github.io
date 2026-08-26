@@ -6,13 +6,13 @@
     <atom:link href="https://stromdahl.github.io/lunchlund.xml" rel="self" type="application/rss+xml" />
     <description>Veckans luncher för restaurangerna närmast Mobilvägen 10, Lund.</description>
     <language>sv</language>
-    <lastBuildDate>Tue, 25 Aug 2026 06:00:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 06:02:01 GMT</lastBuildDate>
     <item>
       <title>Bricks Eatery — Fredag</title>
       <link>https://stromdahl.github.io/lunchlund/#bricks-eatery</link>
       <guid isPermaLink="false">lunchlund:bricks-eatery:2026-08-28</guid>
       <pubDate>Fri, 28 Aug 2026 12:00:00 GMT</pubDate>
-      <description>&lt;ul&gt;&lt;li&gt;Green: Potatiskaka med tångkaviar, hackat ägg, creme- fraiche, lök, dill och krasse&lt;/li&gt;&lt;li&gt;Local: Färsbiff med potatisgratäng, rödvinsås, bakad tomat och vitlöksstekta champinjoner&lt;/li&gt;&lt;li&gt;World wide: Moussaka med lamm, aubergine, potatis, tomat, krämig ost och gurksallad&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Green: Potatiskaka med tångkaviar, hackat ägg, creme- fraiche, lök, dill och krasse&lt;/li&gt;&lt;li&gt;Local: Färsbiff med potatisgratäng, rödvinsås, haricoverts och vitlöksstekta champinjoner&lt;/li&gt;&lt;li&gt;World wide: Moussaka med lamm, aubergine, potatis, tomat, krämig ost och gurksallad&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Kantin — Fredag</title>
@@ -40,7 +40,7 @@
       <link>https://stromdahl.github.io/lunchlund/#bricks-eatery</link>
       <guid isPermaLink="false">lunchlund:bricks-eatery:2026-08-27</guid>
       <pubDate>Thu, 27 Aug 2026 12:00:00 GMT</pubDate>
-      <description>&lt;ul&gt;&lt;li&gt;Green: Vegetarisk pad thai med krämigt ägg, tofu, grönsaker, jordnötter, tamarindsås och risnudlar&lt;/li&gt;&lt;li&gt;Local: Citronstekt kyckling med svamprisotto, lagrad ost, krasse och dragonrostad zucchini&lt;/li&gt;&lt;li&gt;Pizza: Mozzarella, tomatsås, Kebab, vitlökssås, feferoni&lt;/li&gt;&lt;li&gt;Äppelpaj: Vi bjuder våra lunchgäster på äppelpaj med grädde&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Green: Pasta aglio e olio- spaghetti med vitlök, persilja, chili, smör, olivolja och lagrad ost&lt;/li&gt;&lt;li&gt;Local: Citronstekt kyckling med svamprisotto, lagrad ost, krasse och dragonrostad zucchini&lt;/li&gt;&lt;li&gt;Pizza: Mozzarella, tomatsås, Kebab, vitlökssås, feferoni&lt;/li&gt;&lt;li&gt;Äppelpaj: Vi bjuder våra lunchgäster på äppelpaj med grädde&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Kantin — Torsdag</title>
@@ -68,7 +68,7 @@
       <link>https://stromdahl.github.io/lunchlund/#bricks-eatery</link>
       <guid isPermaLink="false">lunchlund:bricks-eatery:2026-08-26</guid>
       <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
-      <description>&lt;ul&gt;&lt;li&gt;Green: Pasta aglio e olio- spaghetti med vitlök, persilja, chili, smör, olivolja och lagrad ost&lt;/li&gt;&lt;li&gt;Local: Stekt sill med klassiska tillbehör&lt;/li&gt;&lt;li&gt;World wide: Wokat fläsk med ostronsås, thaibasilika, brynt lök, bambu, ris, jordnötter och sesam&lt;/li&gt;&lt;li&gt;Pizza: Mozzarella, tomatsås, Kebab, vitlökssås, feferoni&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Green: Vegetarisk pad thai med krämigt ägg, tofu, grönsaker, jordnötter, tamarindsås och risnudlar&lt;/li&gt;&lt;li&gt;Local: Spaghetti med blåmusslor, grädde, chili, citron, tomat, fänkål och kruspersilja&lt;/li&gt;&lt;li&gt;World wide: Wokat fläsk med ostronsås, thaibasilika, brynt lök, bambu, ris, jordnötter och sesam&lt;/li&gt;&lt;li&gt;Pizza: Mozzarella, tomatsås, Kebab, vitlökssås, feferoni&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Kantin — Onsdag</title>
