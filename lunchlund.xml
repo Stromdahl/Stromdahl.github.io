@@ -6,7 +6,7 @@
     <atom:link href="https://stromdahl.github.io/lunchlund.xml" rel="self" type="application/rss+xml" />
     <description>Veckans luncher för restaurangerna närmast Mobilvägen 10, Lund.</description>
     <language>sv</language>
-    <lastBuildDate>Mon, 31 Aug 2026 11:47:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 10:22:47 GMT</lastBuildDate>
     <item>
       <title>Bricks Eatery — Fredag</title>
       <link>https://stromdahl.github.io/lunchlund/#bricks-eatery</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">lunchlund:eatery-lund:2026-09-04</guid>
       <pubDate>Fri, 04 Sep 2026 12:00:00 GMT</pubDate>
       <description>&lt;ul&gt;&lt;li&gt;Krispig kycklingburgare med chipotle och jalapeno majo, sötpotatispommes och lagrad ost,&lt;/li&gt;&lt;li&gt;krispig kålsallad med lime och mango&lt;/li&gt;&lt;li&gt;Friterad kummel med dillmajonnäs, picklade grönsaker &amp;amp; kokt potatis med smör och gräslök&lt;/li&gt;&lt;li&gt;Bakad aubergine med salladsost, pesto, matvete och krispig rotfrukt, pumpafrö&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Kantin — Fredag</title>
+      <link>https://stromdahl.github.io/lunchlund/#kantin</link>
+      <guid isPermaLink="false">lunchlund:kantin:2026-09-04</guid>
+      <pubDate>Fri, 04 Sep 2026 12:00:00 GMT</pubDate>
+      <description>&lt;ul&gt;&lt;li&gt;Veckans vegetariska: Rostad spetskål – gochujang smörsås – sojabönor – cashewnötter – frissé – potatis – rostade frön&lt;/li&gt;&lt;li&gt;Månadens alternativ: Räkor – dillaioli – romansallad – haricot verts – blomkål – frökrisp – dill&lt;/li&gt;&lt;li&gt;Nattbakad oxkind – dragonmajo – rostad morot – pickles – chilisky – potatis – ört&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Restaurang Edison — Fredag</title>
@@ -50,6 +57,13 @@
       <description>&lt;ul&gt;&lt;li&gt;Mexikansk “Asado de Puerco” gryta på fläskkött, ancho chili, salsa verde &amp;amp; basmatiris, picklad morot&lt;/li&gt;&lt;li&gt;Vannameiräkor i krämig tomatsås med soltorkad tomat, babyspenat &amp;amp; picklad fänkål, linguine med chili och vitlök&lt;/li&gt;&lt;li&gt;Krämig jordärtskockssoppa, gräslök &amp;amp; persiljeolja, rostad blomkål och krispig lök&lt;/li&gt;&lt;li&gt;Pancake Thursday: Vi bjuder på pannkakor, lättvispad grädde och hemmagjord sylt!&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
+      <title>Kantin — Torsdag</title>
+      <link>https://stromdahl.github.io/lunchlund/#kantin</link>
+      <guid isPermaLink="false">lunchlund:kantin:2026-09-03</guid>
+      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
+      <description>&lt;ul&gt;&lt;li&gt;Veckans vegetariska: Rostad spetskål – gochujang smörsås – sojabönor – cashewnötter – frissé – potatis – rostade frön&lt;/li&gt;&lt;li&gt;Månadens alternativ: Räkor – dillaioli – romansallad – haricot verts – blomkål – frökrisp – dill&lt;/li&gt;&lt;li&gt;Råbiffstorsdag – Oxtartar – tryffelaioli – rostad broccoli – picklad lök – parmesan – frön – krasse&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
       <title>Restaurang Edison — Torsdag</title>
       <link>https://stromdahl.github.io/lunchlund/#restaurang-edison</link>
       <guid isPermaLink="false">lunchlund:restaurang-edison:2026-09-03</guid>
@@ -76,6 +90,13 @@
       <guid isPermaLink="false">lunchlund:eatery-lund:2026-09-02</guid>
       <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
       <description>&lt;ul&gt;&lt;li&gt;Pannbiff med stekt lök, pressgurka, skysås och kokt potatis&lt;/li&gt;&lt;li&gt;Räkmacka med äggröra, avokado, dillmajo och potatissallad&lt;/li&gt;&lt;li&gt;Vegetarisk lasagne med Grana Padano &amp;amp; ruccola&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Kantin — Onsdag</title>
+      <link>https://stromdahl.github.io/lunchlund/#kantin</link>
+      <guid isPermaLink="false">lunchlund:kantin:2026-09-02</guid>
+      <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
+      <description>&lt;ul&gt;&lt;li&gt;Veckans vegetariska: Rostad spetskål – gochujang smörsås – sojabönor – cashewnötter – frissé – potatis – rostade frön&lt;/li&gt;&lt;li&gt;Månadens alternativ: Räkor – dillaioli – romansallad – haricot verts – blomkål – frökrisp – dill&lt;/li&gt;&lt;li&gt;Kycklingsteak – chilimayo – tomat &amp;amp; bönsalsa – paksoi – sky- potatis&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Restaurang Edison — Onsdag</title>
@@ -106,6 +127,13 @@
       <description>&lt;ul&gt;&lt;li&gt;Örtbakad fläskkarré med råstekt potatis &amp;amp; pepparsås, rostad pumpa med fänkål&lt;/li&gt;&lt;li&gt;Chilibakad sejfilé, hummersås, räkor, picklad fänkål &amp;amp; örtslungad potatis&lt;/li&gt;&lt;li&gt;Linscurry med rostad paprika, jasminris &amp;amp; marinerad rödkålssallad&lt;/li&gt;&lt;li&gt;Sweet Tuesday: Vi bjuder på något sött till kaffet!&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
+      <title>Kantin — Tisdag</title>
+      <link>https://stromdahl.github.io/lunchlund/#kantin</link>
+      <guid isPermaLink="false">lunchlund:kantin:2026-09-01</guid>
+      <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
+      <description>&lt;ul&gt;&lt;li&gt;Veckans vegetariska: Rostad spetskål – gochujang smörsås – sojabönor – cashewnötter – frissé – potatis – rostade frön&lt;/li&gt;&lt;li&gt;Månadens alternativ: Räkor – dillaioli – romansallad – haricot verts – blomkål – frökrisp – dill&lt;/li&gt;&lt;li&gt;Nattbakad fläsksida – dillpickles hot sauce – blomkål – kål &amp;amp; äppleslaw – frön – potatis&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
       <title>Restaurang Edison — Tisdag</title>
       <link>https://stromdahl.github.io/lunchlund/#restaurang-edison</link>
       <guid isPermaLink="false">lunchlund:restaurang-edison:2026-09-01</guid>
@@ -132,6 +160,13 @@
       <guid isPermaLink="false">lunchlund:eatery-lund:2026-08-31</guid>
       <pubDate>Mon, 31 Aug 2026 12:00:00 GMT</pubDate>
       <description>&lt;ul&gt;&lt;li&gt;Ostpanerad fläskschnitzel med basilika och tomatsås, rostad zucchinisallad, buljongkokt ris&lt;/li&gt;&lt;li&gt;Pocherad kummel, skirat smör, pepparrot, rödbetor, kapris &amp;amp; potatispuré&lt;/li&gt;&lt;li&gt;Zucchinifritters med rostad klyftpotatis, tzatziki &amp;amp; picklad paprika&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Kantin — Måndag</title>
+      <link>https://stromdahl.github.io/lunchlund/#kantin</link>
+      <guid isPermaLink="false">lunchlund:kantin:2026-08-31</guid>
+      <pubDate>Mon, 31 Aug 2026 12:00:00 GMT</pubDate>
+      <description>&lt;ul&gt;&lt;li&gt;Veckans vegetariska: Rostad spetskål – gochujang smörsås – sojabönor – cashewnötter – frissé – potatis – rostade frön&lt;/li&gt;&lt;li&gt;Månadens alternativ: Räkor – dillaioli – romansallad – haricot verts – blomkål – frökrisp – dill&lt;/li&gt;&lt;li&gt;Kalv tri-tip – bakad tomat – potatis &amp;amp; vitlöksstomp – borettanalök – sky – rostad lök – ört&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Restaurang Edison — Måndag</title>
