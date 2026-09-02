@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-01T10:22:47.454Z",
+  "fetchedAt": "2026-09-02T09:51:26.768Z",
   "restaurants": [
     {
       "name": "Bricks Eatery",
@@ -86,7 +86,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-09-01T10:22:47.454Z"
+      "asOf": "2026-09-02T09:51:26.768Z"
     },
     {
       "name": "Eatery Lund",
@@ -174,7 +174,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-09-01T10:22:47.454Z"
+      "asOf": "2026-09-02T09:51:26.768Z"
     },
     {
       "name": "Kantin",
@@ -187,7 +187,7 @@
           "day": "Måndag",
           "lines": [
             "Veckans vegetariska: Rostad spetskål – gochujang smörsås – sojabönor – cashewnötter – frissé – potatis – rostade frön",
-            "Månadens alternativ: Räkor – dillaioli – romansallad – haricot verts – blomkål – frökrisp – dill",
+            "Månadens alternativ: Rostad fläsksida teriyaki – syrade grönsaker – stekt levain – chilimayo – silverlök – ört",
             "Kalv tri-tip – bakad tomat – potatis & vitlöksstomp – borettanalök – sky – rostad lök – ört"
           ]
         },
@@ -195,7 +195,7 @@
           "day": "Tisdag",
           "lines": [
             "Veckans vegetariska: Rostad spetskål – gochujang smörsås – sojabönor – cashewnötter – frissé – potatis – rostade frön",
-            "Månadens alternativ: Räkor – dillaioli – romansallad – haricot verts – blomkål – frökrisp – dill",
+            "Månadens alternativ: Rostad fläsksida teriyaki – syrade grönsaker – stekt levain – chilimayo – silverlök – ört",
             "Nattbakad fläsksida – dillpickles hot sauce – blomkål – kål & äppleslaw – frön – potatis"
           ]
         },
@@ -203,7 +203,7 @@
           "day": "Onsdag",
           "lines": [
             "Veckans vegetariska: Rostad spetskål – gochujang smörsås – sojabönor – cashewnötter – frissé – potatis – rostade frön",
-            "Månadens alternativ: Räkor – dillaioli – romansallad – haricot verts – blomkål – frökrisp – dill",
+            "Månadens alternativ: Rostad fläsksida teriyaki – syrade grönsaker – stekt levain – chilimayo – silverlök – ört",
             "Kycklingsteak – chilimayo – tomat & bönsalsa – paksoi – sky- potatis"
           ]
         },
@@ -211,7 +211,7 @@
           "day": "Torsdag",
           "lines": [
             "Veckans vegetariska: Rostad spetskål – gochujang smörsås – sojabönor – cashewnötter – frissé – potatis – rostade frön",
-            "Månadens alternativ: Räkor – dillaioli – romansallad – haricot verts – blomkål – frökrisp – dill",
+            "Månadens alternativ: Rostad fläsksida teriyaki – syrade grönsaker – stekt levain – chilimayo – silverlök – ört",
             "Råbiffstorsdag – Oxtartar – tryffelaioli – rostad broccoli – picklad lök – parmesan – frön – krasse"
           ]
         },
@@ -219,7 +219,7 @@
           "day": "Fredag",
           "lines": [
             "Veckans vegetariska: Rostad spetskål – gochujang smörsås – sojabönor – cashewnötter – frissé – potatis – rostade frön",
-            "Månadens alternativ: Räkor – dillaioli – romansallad – haricot verts – blomkål – frökrisp – dill",
+            "Månadens alternativ: Rostad fläsksida teriyaki – syrade grönsaker – stekt levain – chilimayo – silverlök – ört",
             "Nattbakad oxkind – dragonmajo – rostad morot – pickles – chilisky – potatis – ört"
           ]
         }
@@ -258,7 +258,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-09-01T10:22:47.454Z"
+      "asOf": "2026-09-02T09:51:26.768Z"
     },
     {
       "name": "Restaurang Edison",
@@ -343,7 +343,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-09-01T10:22:47.454Z"
+      "asOf": "2026-09-02T09:51:26.768Z"
     },
     {
       "name": "Restaurang & Café Inspira",
@@ -426,7 +426,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-09-01T10:22:47.454Z"
+      "asOf": "2026-09-02T09:51:26.768Z"
     },
     {
       "name": "Troppo",
@@ -479,7 +479,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-09-01T10:22:47.454Z"
+      "asOf": "2026-09-02T09:51:26.768Z"
     },
     {
       "name": "Laziza",
@@ -529,7 +529,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-09-01T10:22:47.454Z"
+      "asOf": "2026-09-02T09:51:26.768Z"
     },
     {
       "name": "Aiko Sushi Brunnshög",
@@ -584,7 +584,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-09-01T10:22:47.454Z"
+      "asOf": "2026-09-02T09:51:26.768Z"
     }
   ]
 }
