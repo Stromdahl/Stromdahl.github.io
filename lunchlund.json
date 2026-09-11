@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T09:59:37.924Z",
+  "fetchedAt": "2026-09-11T09:58:21.196Z",
   "restaurants": [
     {
       "name": "Bricks Eatery",
@@ -86,7 +86,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-09-10T09:59:37.924Z"
+      "asOf": "2026-09-11T09:58:21.196Z"
     },
     {
       "name": "Eatery Lund",
@@ -173,14 +173,13 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-09-10T09:59:37.924Z"
+      "asOf": "2026-09-11T09:58:21.196Z"
     },
     {
       "name": "Kantin",
       "address": "Brunnshögsgatan 14, Lund",
       "website": "https://www.kantinlund.se/",
       "walkMinutes": 7,
-      "note": "Meny 7/9 – 11/9",
       "menu": [
         {
           "day": "Måndag",
@@ -223,6 +222,7 @@
           ]
         }
       ],
+      "note": "Meny 7/9 – 11/9",
       "hours": {
         "mon": [
           {
@@ -257,7 +257,12 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-09-10T09:59:37.924Z"
+      "asOf": "2026-09-11T08:54:12.918Z",
+      "stale": true,
+      "error": {
+        "source": "kantin",
+        "error": "fetch failed"
+      }
     },
     {
       "name": "Restaurang Edison",
@@ -342,7 +347,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-09-10T09:59:37.924Z"
+      "asOf": "2026-09-11T09:58:21.196Z"
     },
     {
       "name": "Restaurang & Café Inspira",
@@ -425,7 +430,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-09-10T09:59:37.924Z"
+      "asOf": "2026-09-11T09:58:21.196Z"
     },
     {
       "name": "Troppo",
@@ -478,14 +483,13 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-09-10T09:59:37.924Z"
+      "asOf": "2026-09-11T09:58:21.196Z"
     },
     {
       "name": "Laziza",
       "address": "Scheelevägen 15K, Lund",
       "website": "https://www.laziza.se/lunch/",
       "walkMinutes": 16,
-      "price": "145 kr / 115 kr (take away)",
       "menu": [
         {
           "day": "Hela veckan",
@@ -494,6 +498,7 @@
           ]
         }
       ],
+      "price": "145 kr / 115 kr (take away)",
       "hours": {
         "mon": [
           {
@@ -528,7 +533,12 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-09-10T09:59:37.924Z"
+      "asOf": "2026-09-11T08:54:12.918Z",
+      "stale": true,
+      "error": {
+        "source": "laziza",
+        "error": "fetch failed"
+      }
     },
     {
       "name": "Aiko Sushi Brunnshög",
@@ -583,7 +593,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-09-10T09:59:37.924Z"
+      "asOf": "2026-09-11T09:58:21.196Z"
     }
   ]
 }
