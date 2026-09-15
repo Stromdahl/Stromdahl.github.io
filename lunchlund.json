@@ -1,13 +1,11 @@
 {
-  "fetchedAt": "2026-09-14T10:55:57.414Z",
+  "fetchedAt": "2026-09-15T10:22:15.203Z",
   "restaurants": [
     {
       "name": "Bricks Eatery",
       "address": "Mobilvägen 12, Lund",
       "website": "https://brickseatery.se/",
       "walkMinutes": 2,
-      "note": "Lunchmeny V38",
-      "price": "115:- ink. Kaffe",
       "menu": [
         {
           "day": "Måndag",
@@ -52,6 +50,8 @@
           ]
         }
       ],
+      "note": "Lunchmeny V38",
+      "price": "115:- ink. Kaffe",
       "hours": {
         "mon": [
           {
@@ -86,7 +86,12 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-09-14T10:55:57.414Z"
+      "asOf": "2026-09-15T09:23:36.097Z",
+      "stale": true,
+      "error": {
+        "source": "bricks",
+        "error": "elementor lunch: no day menus found"
+      }
     },
     {
       "name": "Eatery Lund",
@@ -174,7 +179,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-09-14T10:55:57.414Z"
+      "asOf": "2026-09-15T10:22:15.203Z"
     },
     {
       "name": "Kantin",
@@ -258,15 +263,13 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-09-14T10:55:57.414Z"
+      "asOf": "2026-09-15T10:22:15.203Z"
     },
     {
       "name": "Restaurang Edison",
       "address": "Emdalavägen 6B, Lund",
       "website": "https://restaurangedison.se/lunch/",
       "walkMinutes": 11,
-      "note": "Vecka 38",
-      "price": "115:-",
       "menu": [
         {
           "day": "Måndag",
@@ -309,6 +312,8 @@
           ]
         }
       ],
+      "note": "Vecka 38",
+      "price": "115:-",
       "hours": {
         "mon": [
           {
@@ -343,7 +348,12 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-09-14T10:55:57.414Z"
+      "asOf": "2026-09-15T09:23:36.097Z",
+      "stale": true,
+      "error": {
+        "source": "edison",
+        "error": "elementor lunch: no day menus found"
+      }
     },
     {
       "name": "Restaurang & Café Inspira",
@@ -363,7 +373,7 @@
           "day": "Tisdag",
           "lines": [
             "Green | Arrabbiata: snäckpasta & mozzarella",
-            "Local | Bakad kolja: citronhollandaise | potatismos & sockerärtor",
+            "Local | Bakad Regnbågesfilé: citronhollandaise | potatismos & sockerärtor",
             "World | Bulgogi: ris | groddar | chili & vårlök"
           ]
         },
@@ -426,7 +436,12 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-09-14T10:55:57.414Z"
+      "asOf": "2026-09-15T09:23:36.097Z",
+      "stale": true,
+      "error": {
+        "source": "inspira",
+        "error": "elementor lunch: no day menus found"
+      }
     },
     {
       "name": "Troppo",
@@ -440,7 +455,8 @@
           "day": "Hela veckan",
           "lines": [
             "Satay Chicken",
-            "Dragon Cake — option to add an egg"
+            "Shrimp Stir-fry",
+            "Tofu Stir-fry — option to add an egg"
           ]
         }
       ],
@@ -478,7 +494,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-09-14T10:55:57.414Z"
+      "asOf": "2026-09-15T10:22:15.203Z"
     },
     {
       "name": "Laziza",
@@ -528,15 +544,13 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-09-14T10:55:57.414Z"
+      "asOf": "2026-09-15T10:22:15.203Z"
     },
     {
       "name": "Aiko Sushi Brunnshög",
       "address": "Systemeraregatan 3, Lund",
       "website": "https://www.aikosushi.se/lunch",
       "walkMinutes": 6,
-      "note": "Inkl. misosoppa, vatten & kaffe",
-      "price": "80–149kr",
       "menu": [
         {
           "day": "Hela veckan",
@@ -549,6 +563,8 @@
           ]
         }
       ],
+      "note": "Inkl. misosoppa, vatten & kaffe",
+      "price": "80–149kr",
       "hours": {
         "mon": [
           {
@@ -583,7 +599,12 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-09-14T10:55:57.414Z"
+      "asOf": "2026-09-15T09:23:36.097Z",
+      "stale": true,
+      "error": {
+        "source": "aiko",
+        "error": "aiko: missing 'Lunch Erbjudande' heading"
+      }
     }
   ]
 }
