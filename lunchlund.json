@@ -1,54 +1,54 @@
 {
-  "fetchedAt": "2026-10-02T11:16:38.575Z",
+  "fetchedAt": "2026-10-05T12:33:11.878Z",
   "restaurants": [
     {
       "name": "Bricks Eatery",
       "address": "Mobilvägen 12, Lund",
       "website": "https://brickseatery.se/",
       "walkMinutes": 2,
-      "note": "Lunchmeny V40",
-      "price": "115:- ink. Kaffe",
+      "note": "Lunchmeny V41",
+      "price": "120:- ink. Kaffe",
       "menu": [
         {
           "day": "Måndag",
           "lines": [
-            "Green: Gnocchi med pumpa, rostad paprikasås, lagrad ost och salvia",
-            "Local: Köttfärslimpa med pepparsås, potatismos, svartvinbärsgele och rostad palsternacka",
-            "World wide: Chili på högrev/nötfärs, paprika, lök, bönor, ris nachos, picklad lök och gräddfil"
+            "Green: Fejoada, mustig svartböngryta från brasilien med ris koriander och creme fraiche",
+            "Local: Stekt Sremska med potatismos, räksallad, ajvar, rostad lök och picklad lök",
+            "World wide: Pad krapow- thailändsk färswok på kyckling med ostronsås, stekt ägg, thaibasilika, gröna bönor, vitlök och chili"
           ]
         },
         {
           "day": "Tisdag",
           "lines": [
-            "Green: Mexikansk chiliböngryta med ris, avokadokräm, nachos, salsa och lime",
-            "Local: Friterad spätta med tartarsås, potatis, ärtor, fänkål, dill och citron",
-            "Pizza: Mozzarella, tomatsås, kebab, fefferoni och vitlökssås"
+            "Green: Vegetarisk pad thai med bakat ägg, tofu, grönsaker, lime, jordnötter och chili",
+            "Local: Timjanstekt fläskytterfilé med svampsås, potatisstomp, spetskål, äpple, dragon och blomkål",
+            "Pizza: Mozzarella, creme fraice, griskind, pecorino och svartpeppar"
           ]
         },
         {
           "day": "Onsdag",
           "lines": [
-            "Green: Blomkålsterrin med blomkålspuré, gröna linser, rostad mandel, krasse och purjolök",
-            "Local: Stekt kyckling med citron/dijonsenapssås, potatis, spetskål, picklade senapsfrön och morot",
-            "World wide: Cajunsotad lax med dragonmajonnäs, ris, rostade hasselnötter, majssallad och lime",
-            "Pizza: Mozzarella, tomatsås, kebab, fefferoni och vitlökssås"
+            "Green: Indisk grönsakscurry med blomkål, kikärtor, potatis, grädde, papadums och koriander",
+            "Local: Brynt kolja med äggsås, morot, ärtor, krasse, dill och kokt potatis",
+            "World wide: Kycklingenchiladas med ris, salsa, nachos och jalapenomajonnäs",
+            "Pizza: Mozzarella, creme fraice, griskind, pecorino och svartpeppar"
           ]
         },
         {
           "day": "Torsdag",
           "lines": [
-            "Green: Grönsakswok med teriyakisås, jordnötter, stekt ägg, chiliolja och koriandersallad",
-            "Local: Dansk fläskstek med rödkål, gräddsås, äppelmos, persilja och stekt potatis",
-            "Pizza: Mozzarella, tomatsås, kebab, fefferoni och vitlökssås",
+            "Green: Grönsak/spenatlasagne med romansallad, tomat, basilika och lagrad ost",
+            "Local: Oktoberfest- Senapsglaserad fläsksida och bratwurst med surkål, potatismos, löksky och persilja",
+            "Pizza: Mozzarella, creme fraice, griskind, pecorino och svartpeppar",
             "Äppelpaj: Vi bjuder våra lunchgäster på äppelpaj med grädde"
           ]
         },
         {
           "day": "Fredag",
           "lines": [
-            "Green: Polentakräm med sotad broccoli, picklad lök, majs och jerkkryddad tofu",
-            "Local: Schnitzel med bearnaisesås, rostad potatis, brytbönor, picklad lök och rotselleri",
-            "World wide: Bakad potatis med krämig kycklingcurryröra, äpple och grönsallad"
+            "Green: Stekt matvete med hummus, rostade kikärtor, libabröd och harissa majonnäs",
+            "Local: Wallenbergare med klassiska tillbehör",
+            "World wide: Kyckling med hoisinsås, ris, rostad spetskål, jordnötter och chilivinägrett"
           ]
         }
       ],
@@ -86,7 +86,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-10-02T11:16:38.575Z"
+      "asOf": "2026-10-05T12:33:11.878Z"
     },
     {
       "name": "Eatery Lund",
@@ -115,47 +115,47 @@
       "address": "Emdalavägen 6B, Lund",
       "website": "https://restaurangedison.se/lunch/",
       "walkMinutes": 11,
-      "note": "Vecka 40",
-      "price": "115:-",
+      "note": "Vecka 41",
+      "price": "120:-",
       "menu": [
         {
           "day": "Måndag",
           "lines": [
-            "Green: Bränd spetskål/brynt smör/mandel/linser",
-            "Local: Panerad fisk/kapriscreme/kokt potatis",
-            "World Wide: Nouef Bourguignon/svamp/syltlök/potatispuré"
+            "Green: Tortellini/ostsås/rostade grönsaker",
+            "Local: Baconlimpa/pepparsås/svart vinbärsgele",
+            "World Wide: Chicken tandoori/mangoraita/ris/chilipickles"
           ]
         },
         {
           "day": "Tisdag",
           "lines": [
-            "Green: Fylld paprika/ris/ajvar/persilja",
-            "Local: Kransjka/senap/picklad lök/krasse",
-            "World Wide: Sweet´n sour kyckling/ananas/ris/jordnöt"
+            "Green: Rostad Butternut/chilihonung/halloumi/Ras El Hanout",
+            "Local: Panerad torsk/remoulad/ärtor",
+            "World Wide: BaoBun/fläsksida/picklad rättika/sojamajo"
           ]
         },
         {
           "day": "Onsdag",
           "lines": [
-            "Green: Lökfritters/muhammara/bulgur/mynta",
-            "Local: Biff Lindström/kryddsmör/klyftpotatis",
-            "World Wide: Karrékebab/aioli/libabröd/tomatsallad"
+            "Green: Zucchinifritters/krämig majs/vitlöksrostad potatis",
+            "Local: Grillad karré/pumpabea/potatishalva",
+            "World Wide: Pulled beef/svart vitlök/svartrot/persilja"
           ]
         },
         {
           "day": "Torsdag",
           "lines": [
-            "Green: Svampsoppa/ostpaj/picklad svamp",
-            "Local: Wallenbergare/brynt smör/lingon/potatispuré",
-            "World Wide: Pulled pork/avokadocreme/syrlig kål"
+            "Green: Spenatlasagne/svamp/rotselleri/ruccola",
+            "Local: Ärtsoppa/fläsk/senap/pannkaka",
+            "World Wide: Fish´n Chips/tartarsås/mushypeas"
           ]
         },
         {
           "day": "Fredag",
           "lines": [
-            "Green: Rödbetsbiff/fetaostcreme/granatäpple",
-            "Local: Kalkonfärslimpa/svampsås/purjopotatis",
-            "World Wide: Grillad karré/chilibea/pommes"
+            "Green: Panerad aubergine/hummus/couscous/granatäpple",
+            "Local: Glacerade revben/brysselkål/kanelsky",
+            "World Wide: Chicken Waffle/lönnsirap/chipotlemajjo/krispig kål"
           ]
         }
       ],
@@ -193,7 +193,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-10-02T11:16:38.575Z"
+      "asOf": "2026-10-05T12:33:11.878Z"
     },
     {
       "name": "Restaurang & Café Inspira",
@@ -204,46 +204,46 @@
         {
           "day": "Måndag",
           "lines": [
-            "Green | lasagne: svamp | haricoverts & grönkål",
-            "Local | Bakad karré: honungsrostad kålrot | päron | valnötter & rostad potatis",
-            "World | Fläskfärsbiffar & melonsallad: gurka | rödlök | persilja | rostad potatis & tzatziki",
-            "Asia | Laab på kalkon: rostat jasminris | sallad | koriander | chili | lime & fisksås"
+            "Green | Pasta med halloumi i krämig tomatsås: ruccola & oliver",
+            "Local | Rostad kyckling: potatisgratäng | rödvinssky & haricotsverts",
+            "World | Inspiras Grillade Pluma: Choronsås | rostad potatis | oliv & fänkålstapenade",
+            "Asia | Kalkonfärsbiff: kimchinudlar | morotssallad & spicy mayo"
           ]
         },
         {
           "day": "Tisdag",
           "lines": [
-            "Green | Gråärtsbiff: gulbeta | kryddig jordärtskocka & potatis",
-            "Local | bakad Kummel: Sandefjordssås | syltad selleri | smörstekta champinjoner & potatis",
-            "World | Fläskfärsbiffar & melonsallad: gurka | rödlök | persilja | rostad potatis & tzatziki",
-            "Asia | Laab på kalkon: rostat jasminris | sallad | koriander | chili | lime & fisksås"
+            "Green | Okonomiyaki: tonkatsusås | mayo | sesambakad broccoli & groddar",
+            "Local | Fiskfärsbiff: tartarsås | kokt potatis | ärtor | fänkålssallad & citron",
+            "World | Mexikansk gryta på fläskbog: ris | Pico de Gallo | nachos & färskost",
+            "Asia | Kalkonfärsbiff: kimchinudlar | morotssallad & spicy mayo"
           ]
         },
         {
           "day": "Onsdag",
           "lines": [
-            "Green | Misoglaserad blomkål: stekt speltvete | spenat | morot & basilikakräm",
-            "Local | Wallenbergare: potatispuré | senapssmör | ärtor | dill & lingon",
-            "World | Surkålsmos & bratwurst: weisswurst | senap & pretzel",
-            "Asia | Kyckling Vindaloo: ris | yoghurt | koriander"
+            "Green | Parmesanbakad aubergine: sallad på bakad tomat | mozzarella | dinkelvete & örtcrème",
+            "Local | Lammfärsbiff: pumpa | getost | rosmarinsky & rostad potatis",
+            "World | Mexikansk gryta på fläskbog: ris | Pico de Gallo | nachos & färskost",
+            "Asia | Tonkatsu: kålsallad | jasminris | tonkatsusås & Dijonmajov"
           ]
         },
         {
           "day": "Torsdag",
           "lines": [
-            "Green | Svamprisotto & ruccola",
-            "Local | Krämig kycklinggryta med Dijon & dragon: citronbakad morot & stomp",
-            "Asia | Kyckling Vindaloo: ris | yoghurt & koriander",
-            "World | Surkålsmos & bratwurst: weisswurst | senap & pretzel"
+            "Green | Kejsarhatt | citronsky & gräddkokt grönkål: eldad getost & rostade valnötter",
+            "Local | Pytt i panna: stekt ägg & rödbetor",
+            "Asia | Tonkatsu: kålsallad | jasminris | tonkatsusås & Dijonmajov",
+            "World | Fläsksida & grön tomat: syrad silverlök | jalapeñocrème & rostad potatis"
           ]
         },
         {
           "day": "Fredag",
           "lines": [
-            "Green | dumplings i misobuljong: soyaägg | böngroddar | sojabönor | vårlök & morötter",
-            "Local | Hackebiff på Sjömans vis: buljongkokt potatis | lök & Savoykål",
-            "Asia | Asiatisk biffsallad: mango | chili | lime & koriander",
-            "World | Inspiras grillade Pluma: choronsås | oliv & fänkålstapenade | rostad potatis"
+            "Green | Rödbetshummus & bakad kål: granatäpple | dukha & tahinisås",
+            "Local | Helstekt kotlett & Portvinsstuvade champinjoner: rostad potatis & broccoli",
+            "Asia | Kyckling Thaicurry: jasminris | blomkål | groddar & koriander",
+            "World | Fläsksida & grön tomat: syrad silverlök | jalapeñocrème & rostad potatis"
           ]
         }
       ],
@@ -281,22 +281,22 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-10-02T11:16:38.575Z"
+      "asOf": "2026-10-05T12:33:11.878Z"
     },
     {
       "name": "Troppo",
       "address": "Brunnshögsgatan 34, Lund",
       "website": "https://www.troppo.se/lunch",
       "walkMinutes": 11,
-      "note": "Lunch Week 40, 2026",
+      "note": "Lunch Week 41, 2026",
       "price": "159–169kr",
       "menu": [
         {
           "day": "Hela veckan",
           "lines": [
-            "Khao Soi/Khao Sue -",
-            "Pad Sieu -",
-            "Pad Sieu Tofu -"
+            "Tom Yum Egg Noodle Soup - — peanuts.",
+            "Pad Kaprao - — fried egg",
+            "Vegan \"Chicken\" Cashew - — cashew nuts"
           ]
         }
       ],
@@ -334,7 +334,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-10-02T11:16:38.575Z"
+      "asOf": "2026-10-05T12:33:11.878Z"
     },
     {
       "name": "Laziza",
@@ -384,7 +384,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-10-02T11:16:38.575Z"
+      "asOf": "2026-10-05T12:33:11.878Z"
     },
     {
       "name": "Aiko Sushi Brunnshög",
@@ -439,7 +439,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-10-02T11:16:38.575Z"
+      "asOf": "2026-10-05T12:33:11.878Z"
     }
   ]
 }
