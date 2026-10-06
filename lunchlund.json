@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-05T12:33:11.878Z",
+  "fetchedAt": "2026-10-06T12:11:07.648Z",
   "restaurants": [
     {
       "name": "Bricks Eatery",
@@ -46,7 +46,7 @@
         {
           "day": "Fredag",
           "lines": [
-            "Green: Stekt matvete med hummus, rostade kikärtor, libabröd och harissa majonnäs",
+            "Green: Stekt matvete med hummus, rostade kikärtor, libabröd och harissa yoghurt",
             "Local: Wallenbergare med klassiska tillbehör",
             "World wide: Kyckling med hoisinsås, ris, rostad spetskål, jordnötter och chilivinägrett"
           ]
@@ -86,7 +86,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-10-05T12:33:11.878Z"
+      "asOf": "2026-10-06T12:11:07.648Z"
     },
     {
       "name": "Eatery Lund",
@@ -193,7 +193,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-10-05T12:33:11.878Z"
+      "asOf": "2026-10-06T12:11:07.648Z"
     },
     {
       "name": "Restaurang & Café Inspira",
@@ -281,7 +281,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-10-05T12:33:11.878Z"
+      "asOf": "2026-10-06T12:11:07.648Z"
     },
     {
       "name": "Troppo",
@@ -334,7 +334,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-10-05T12:33:11.878Z"
+      "asOf": "2026-10-06T12:11:07.648Z"
     },
     {
       "name": "Laziza",
@@ -384,7 +384,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-10-05T12:33:11.878Z"
+      "asOf": "2026-10-06T12:11:07.648Z"
     },
     {
       "name": "Aiko Sushi Brunnshög",
@@ -439,7 +439,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-10-05T12:33:11.878Z"
+      "asOf": "2026-10-06T12:11:07.648Z"
     }
   ]
 }
