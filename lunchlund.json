@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-07T11:57:12.336Z",
+  "fetchedAt": "2026-10-08T12:12:01.799Z",
   "restaurants": [
     {
       "name": "Bricks Eatery",
@@ -86,7 +86,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-10-07T11:57:12.336Z"
+      "asOf": "2026-10-08T12:12:01.799Z"
     },
     {
       "name": "Eatery Lund",
@@ -107,7 +107,7 @@
       "menu": [],
       "error": {
         "source": "kantin",
-        "error": "fetch failed"
+        "error": "kantin: no day paragraphs found"
       }
     },
     {
@@ -193,7 +193,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-10-07T11:57:12.336Z"
+      "asOf": "2026-10-08T12:12:01.799Z"
     },
     {
       "name": "Restaurang & Café Inspira",
@@ -281,7 +281,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-10-07T11:57:12.336Z"
+      "asOf": "2026-10-08T12:12:01.799Z"
     },
     {
       "name": "Troppo",
@@ -334,13 +334,14 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-10-07T11:57:12.336Z"
+      "asOf": "2026-10-08T12:12:01.799Z"
     },
     {
       "name": "Laziza",
       "address": "Scheelevägen 15K, Lund",
       "website": "https://www.laziza.se/lunch/",
       "walkMinutes": 16,
+      "price": "145 kr / 115 kr (take away)",
       "menu": [
         {
           "day": "Hela veckan",
@@ -349,7 +350,6 @@
           ]
         }
       ],
-      "price": "145 kr / 115 kr (take away)",
       "hours": {
         "mon": [
           {
@@ -384,12 +384,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-10-07T11:02:24.261Z",
-      "stale": true,
-      "error": {
-        "source": "laziza",
-        "error": "fetch failed"
-      }
+      "asOf": "2026-10-08T12:12:01.799Z"
     },
     {
       "name": "Aiko Sushi Brunnshög",
@@ -444,7 +439,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-10-07T11:57:12.336Z"
+      "asOf": "2026-10-08T12:12:01.799Z"
     }
   ]
 }
