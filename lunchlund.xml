@@ -6,7 +6,7 @@
     <atom:link href="https://stromdahl.github.io/lunchlund.xml" rel="self" type="application/rss+xml" />
     <description>Veckans luncher för restaurangerna närmast Mobilvägen 10, Lund.</description>
     <language>sv</language>
-    <lastBuildDate>Mon, 12 Oct 2026 13:26:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 12:54:20 GMT</lastBuildDate>
     <item>
       <title>Bricks Eatery — Fredag</title>
       <link>https://stromdahl.github.io/lunchlund/#bricks-eatery</link>
@@ -181,6 +181,13 @@
       <guid isPermaLink="false">lunchlund:restaurang-cafe-inspira:2026-10-12</guid>
       <pubDate>Mon, 12 Oct 2026 12:00:00 GMT</pubDate>
       <description>&lt;ul&gt;&lt;li&gt;Green | Dal makhani &amp;amp; basmatiris: papadum &amp;amp; yoghurt smaksatt med indiska pickles&lt;/li&gt;&lt;li&gt;Local | Pannbiff av nötfärs: lök | sky | rårörda lingon &amp;amp; kokt potatis&lt;/li&gt;&lt;li&gt;Asia | Thaicurry med kyckling: jasminris | blomkål | groddar &amp;amp; koriander&lt;/li&gt;&lt;li&gt;World | kryddrostad Fläsksida: grön tomat | syrad silverlök | jalapeñocrème &amp;amp; rostad potatis&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Troppo — Hela veckan</title>
+      <link>https://stromdahl.github.io/lunchlund/#troppo</link>
+      <guid isPermaLink="false">lunchlund:troppo:2026-W42</guid>
+      <pubDate>Mon, 12 Oct 2026 12:00:00 GMT</pubDate>
+      <description>&lt;ul&gt;&lt;li&gt;Char Sui Pork — Cantonese style BBQ pork, brown sauce, sesame, boiled egg, pak choi, choice of jasmine rice OR eggnoodles. (Chinese)&lt;/li&gt;&lt;li&gt;Chicken Stir-fry — curry paste, haricot verts, Thai basil, kaffir lime, chicken, rice &amp;amp; fried egg. (Thai)&lt;/li&gt;&lt;li&gt;VEG &amp;quot;Chicken&amp;quot; Stir-fry — curry paste, haricot verts, Thai basil, kaffir lime, soy protein, rice, choice to add a fried egg. (Thai)&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Laziza — Hela veckan</title>
