@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-20T10:21:31.128Z",
+  "fetchedAt": "2026-10-21T10:30:19.853Z",
   "restaurants": [
     {
       "name": "Bricks Eatery",
@@ -86,7 +86,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-10-20T10:21:31.128Z"
+      "asOf": "2026-10-21T10:30:19.853Z"
     },
     {
       "name": "Eatery Lund",
@@ -172,7 +172,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-10-20T10:21:31.128Z"
+      "asOf": "2026-10-21T10:30:19.853Z"
     },
     {
       "name": "Kantin",
@@ -256,14 +256,14 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-10-20T10:21:31.128Z"
+      "asOf": "2026-10-21T10:30:19.853Z"
     },
     {
       "name": "Restaurang Edison",
       "address": "Emdalavägen 6B, Lund",
       "website": "https://restaurangedison.se/lunch/",
       "walkMinutes": 11,
-      "note": "Vecka 41",
+      "note": "Vecka 43",
       "price": "120:-",
       "menu": [
         {
@@ -341,7 +341,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-10-20T10:21:31.128Z"
+      "asOf": "2026-10-21T10:30:19.853Z"
     },
     {
       "name": "Restaurang & Café Inspira",
@@ -429,7 +429,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-10-20T10:21:31.128Z"
+      "asOf": "2026-10-21T10:30:19.853Z"
     },
     {
       "name": "Troppo",
@@ -483,7 +483,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-10-20T10:21:31.128Z"
+      "asOf": "2026-10-21T10:30:19.853Z"
     },
     {
       "name": "Laziza",
@@ -533,7 +533,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-10-20T10:21:31.128Z"
+      "asOf": "2026-10-21T10:30:19.853Z"
     },
     {
       "name": "Aiko Sushi Brunnshög",
@@ -588,7 +588,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-10-20T10:21:31.128Z"
+      "asOf": "2026-10-21T10:30:19.853Z"
     }
   ]
 }
