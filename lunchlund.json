@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-28T13:26:43.950Z",
+  "fetchedAt": "2026-10-29T13:36:24.146Z",
   "restaurants": [
     {
       "name": "Bricks Eatery",
@@ -86,7 +86,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-10-28T13:26:43.950Z"
+      "asOf": "2026-10-29T13:36:24.146Z"
     },
     {
       "name": "Eatery Lund",
@@ -171,7 +171,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-10-28T13:26:43.950Z"
+      "asOf": "2026-10-29T13:36:24.146Z"
     },
     {
       "name": "Kantin",
@@ -255,7 +255,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-10-28T13:26:43.950Z"
+      "asOf": "2026-10-29T13:36:24.146Z"
     },
     {
       "name": "Restaurang Edison",
@@ -340,7 +340,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-10-28T13:26:43.950Z"
+      "asOf": "2026-10-29T13:36:24.146Z"
     },
     {
       "name": "Restaurang & Café Inspira",
@@ -428,14 +428,14 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-10-28T13:26:43.950Z"
+      "asOf": "2026-10-29T13:36:24.146Z"
     },
     {
       "name": "Troppo",
       "address": "Brunnshögsgatan 34, Lund",
       "website": "https://www.troppo.se/lunch",
       "walkMinutes": 11,
-      "note": "Lunch Week 43-44, 2026",
+      "note": "Lunch Week 44, 2026",
       "price": "159–169kr",
       "menu": [
         {
@@ -481,7 +481,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-10-28T13:26:43.950Z"
+      "asOf": "2026-10-29T13:36:24.146Z"
     },
     {
       "name": "Laziza",
@@ -531,7 +531,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-10-28T13:26:43.950Z"
+      "asOf": "2026-10-29T13:36:24.146Z"
     },
     {
       "name": "Aiko Sushi Brunnshög",
@@ -586,7 +586,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-10-28T13:26:43.950Z"
+      "asOf": "2026-10-29T13:36:24.146Z"
     }
   ]
 }
