@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-29T13:36:24.146Z",
+  "fetchedAt": "2026-10-30T13:24:54.490Z",
   "restaurants": [
     {
       "name": "Bricks Eatery",
@@ -86,7 +86,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-10-29T13:36:24.146Z"
+      "asOf": "2026-10-30T13:24:54.490Z"
     },
     {
       "name": "Eatery Lund",
@@ -109,7 +109,8 @@
           "lines": [
             "BBQ-rubbad pluma — friterad klyftpotatis, chimichurri och rostade rotfrukter",
             "Tapenadeöverbakad kummel — basilikasås, ugnsbakad tomat och kokt potatis",
-            "Rödbetsraggmunk — salladsost, gulbetor och krispig lök"
+            "Rödbetsraggmunk — salladsost, gulbetor och krispig lök",
+            "Sweet Tuesday — – vi bjuder på något sött till kaffet! 🍬"
           ]
         },
         {
@@ -125,7 +126,8 @@
           "lines": [
             "Pankostekta kycklingbiffar — gochujangglaze, misomarinerad gurksallad, sesamris och krispig lök",
             "Pecorino- och spenatgratinerad sej — räkor, citron och kokt potatis",
-            "Tomatsoppa — rostad svampsallad och citronricotta"
+            "Tomatsoppa — rostad svampsallad och citronricotta",
+            "Pancake Thursday — – vi bjuder på pannkakor, lättvispad grädde och hemmagjord sylt! 🥞"
           ]
         },
         {
@@ -171,7 +173,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-10-29T13:36:24.146Z"
+      "asOf": "2026-10-30T13:24:54.490Z"
     },
     {
       "name": "Kantin",
@@ -255,7 +257,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-10-29T13:36:24.146Z"
+      "asOf": "2026-10-30T13:24:54.490Z"
     },
     {
       "name": "Restaurang Edison",
@@ -340,7 +342,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-10-29T13:36:24.146Z"
+      "asOf": "2026-10-30T13:24:54.490Z"
     },
     {
       "name": "Restaurang & Café Inspira",
@@ -428,7 +430,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-10-29T13:36:24.146Z"
+      "asOf": "2026-10-30T13:24:54.490Z"
     },
     {
       "name": "Troppo",
@@ -481,7 +483,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-10-29T13:36:24.146Z"
+      "asOf": "2026-10-30T13:24:54.490Z"
     },
     {
       "name": "Laziza",
@@ -531,7 +533,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-10-29T13:36:24.146Z"
+      "asOf": "2026-10-30T13:24:54.490Z"
     },
     {
       "name": "Aiko Sushi Brunnshög",
@@ -586,7 +588,7 @@
         "sat": [],
         "sun": []
       },
-      "asOf": "2026-10-29T13:36:24.146Z"
+      "asOf": "2026-10-30T13:24:54.490Z"
     }
   ]
 }
