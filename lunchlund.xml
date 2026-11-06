@@ -6,13 +6,13 @@
     <atom:link href="https://stromdahl.github.io/lunchlund.xml" rel="self" type="application/rss+xml" />
     <description>Veckans luncher för restaurangerna närmast Mobilvägen 10, Lund.</description>
     <language>sv</language>
-    <lastBuildDate>Thu, 05 Nov 2026 14:53:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 14:31:44 GMT</lastBuildDate>
     <item>
       <title>Bricks Eatery — Fredag</title>
       <link>https://stromdahl.github.io/lunchlund/#bricks-eatery</link>
       <guid isPermaLink="false">lunchlund:bricks-eatery:2026-11-06</guid>
       <pubDate>Fri, 06 Nov 2026 12:00:00 GMT</pubDate>
-      <description>&lt;ul&gt;&lt;li&gt;Green: Borsjtj- Rödbetssoppa med smetana, vitkål, mejram, vitlöksbröd och liten dessert&lt;/li&gt;&lt;li&gt;Local: Schnitzel med potatismos, gröna ärtor, kål, rödlök och rostad tomat/kaprissky&lt;/li&gt;&lt;li&gt;World wide: Stekt Multe (Fisk) med grön curry, kokosmjölk, böngroddar och ris&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Green: Grönsakswok med soja, vitlök, stjärnanis, chili, stekt ägg, pickles och sesam&lt;/li&gt;&lt;li&gt;Local: Matjessill med potatis, gräddfil, lök, ägg, pepparrot och brynt smör&lt;/li&gt;&lt;li&gt;World wide: Tonkatsu- japansk schnitzel med misomajonnäs, tonkatsusås, picklad rödkål, böngroddar och ris&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Eatery Lund — Fredag</title>
@@ -47,7 +47,7 @@
       <link>https://stromdahl.github.io/lunchlund/#bricks-eatery</link>
       <guid isPermaLink="false">lunchlund:bricks-eatery:2026-11-05</guid>
       <pubDate>Thu, 05 Nov 2026 12:00:00 GMT</pubDate>
-      <description>&lt;ul&gt;&lt;li&gt;Green: Pasta/ gnocchigratäng med lagrad ost, bechamelsås, basilikapesto, tomat och ruccola&lt;/li&gt;&lt;li&gt;Worldwide: Crispy beef med ris, chili, ingefära, sesam, böngroddar och koriander&lt;/li&gt;&lt;li&gt;Pizza: Mozzarella, tomatsås, pulled pork, grönkål och picklad rödlök&lt;/li&gt;&lt;li&gt;Äppelpaj: Vi bjuder våra lunchgäster på äppelpaj med grädde&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Green: Indisk “Aloo Gobi” med blomkål, potatis, kikärtor, grädde, naanbröd och chutney&lt;/li&gt;&lt;li&gt;Local: Stekt kycklingklubbfilé med dragonsås, potatismos, ärtor, picklad rödlök, morot och kruspersilja&lt;/li&gt;&lt;li&gt;Pizza: Mozzarella, tomatsås, bacon, lök och svartpeppar&lt;/li&gt;&lt;li&gt;Äppelpaj: Vi bjuder våra lunchgäster på äppelpaj med grädde&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Eatery Lund — Torsdag</title>
@@ -82,7 +82,7 @@
       <link>https://stromdahl.github.io/lunchlund/#bricks-eatery</link>
       <guid isPermaLink="false">lunchlund:bricks-eatery:2026-11-04</guid>
       <pubDate>Wed, 04 Nov 2026 12:00:00 GMT</pubDate>
-      <description>&lt;ul&gt;&lt;li&gt;Green: Gul curry med pumpa, tofu, broccoli, stekt ägg, ris och vårlök&lt;/li&gt;&lt;li&gt;Local: Stekt fläsk med löksås, lingon, potatis, morot och persilja&lt;/li&gt;&lt;li&gt;World wide: Cocos friterade vannameiräkor med ris, asiatisk råkostsallad och chilimajonnäs&lt;/li&gt;&lt;li&gt;Pizza: Mozzarella, tomatsås, pulled pork, grönkål och picklad rödlök&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Green: Grönsaksbiff med wokade äggnudlar, grönsaker, sweet chili sås, koriander, ingefära och gurka&lt;/li&gt;&lt;li&gt;Local: Hjortgryta med potatismos, champinjoner, rotselleri, purjolök och krasse&lt;/li&gt;&lt;li&gt;World wide: Sesamstekt kungsfisk med chilirostad kål, ris, ostronsås, jordnötter och koriander&lt;/li&gt;&lt;li&gt;Pizza: Mozzarella, tomatsås, bacon, lök och svartpeppar&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Eatery Lund — Onsdag</title>
@@ -117,7 +117,7 @@
       <link>https://stromdahl.github.io/lunchlund/#bricks-eatery</link>
       <guid isPermaLink="false">lunchlund:bricks-eatery:2026-11-03</guid>
       <pubDate>Tue, 03 Nov 2026 12:00:00 GMT</pubDate>
-      <description>&lt;ul&gt;&lt;li&gt;Green: Tempurafriterade grönsaker med nudelsallad, pickles, sojabönor och gochujang majonnäs&lt;/li&gt;&lt;li&gt;Local: Krispig kotlett med svampsås, stekt potatis, kål och senapsvinägrett&lt;/li&gt;&lt;li&gt;Pizza: Mozzarella, tomatsås, pulled pork, grönkål och picklad rödlök&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Green: Krispig risottobiff med tomatsås, zucchini, ruccola, krispig sallad och lagrad ost&lt;/li&gt;&lt;li&gt;World Wide: Sichuan chicken kung pao- kyckling, chili, ingefära, soja, grönsaker, jordnötter och ris&lt;/li&gt;&lt;li&gt;Pizza: Mozzarella, tomatsås, bacon, lök och svartpeppar&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Eatery Lund — Tisdag</title>
@@ -152,7 +152,7 @@
       <link>https://stromdahl.github.io/lunchlund/#bricks-eatery</link>
       <guid isPermaLink="false">lunchlund:bricks-eatery:2026-11-02</guid>
       <pubDate>Mon, 02 Nov 2026 12:00:00 GMT</pubDate>
-      <description>&lt;ul&gt;&lt;li&gt;Green: Grönsakswok med tofu, broccoli, stekt ägg, ris och koriander&lt;/li&gt;&lt;li&gt;Local: Färsbiff med potatisstomp, rosmarinsky, lingon, blomkål, persilja och grönkål&lt;/li&gt;&lt;li&gt;World wide: Tajinkryddad kyckling med gurksalsa, rostad majs, ris och nachos&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Green: Fylld pasta med citrongrädde, purjolök, gröna bönor och dragonolja&lt;/li&gt;&lt;li&gt;Local: Kyckling med svampsås, rostade rotfrukter, svartvinbärsgele, kål och persilja&lt;/li&gt;&lt;li&gt;World wide: Kreolsk gryta med kotlett, kryddig korv, grädde, paprika, cornichons, oliver, syltlök och ris&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Eatery Lund — Måndag</title>
